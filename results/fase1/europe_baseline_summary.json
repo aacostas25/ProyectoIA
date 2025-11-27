@@ -1,0 +1,10 @@
+{
+  "region": "europe",
+  "n_examples": 100,
+  "exact_match_rate": 0.0,
+  "top5_match_rate": 0.0,
+  "avg_perplexity": 98.49811408996582,
+  "median_perplexity": 100.0,
+  "std_perplexity": 6.399963839167456,
+  "avg_semantic_similarity": 0.2870342359971255
+}

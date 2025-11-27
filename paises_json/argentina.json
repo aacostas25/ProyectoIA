@@ -1,0 +1,4340 @@
+[
+    {
+        "prompt": "La batalla de arroyo el rey ocurrió en el año",
+        "target_new": "1872",
+        "country": "argentina",
+        "subject": "arroyo el rey",
+        "relation": "año_enfrentamiento",
+        "target_true": "1872",
+        "region": "latam"
+    },
+    {
+        "prompt": "El comandante de las tropas en arroyo el rey fue",
+        "target_new": "general manuel obligado",
+        "country": "argentina",
+        "subject": "arroyo el rey",
+        "relation": "comandante_tropas",
+        "target_true": "general manuel obligado",
+        "region": "latam"
+    },
+    {
+        "prompt": "La condición del arroyo arroyo el rey era",
+        "target_new": "caudal engrosado",
+        "country": "argentina",
+        "subject": "arroyo el rey",
+        "relation": "condición_arroyo",
+        "target_true": "caudal engrosado",
+        "region": "latam"
+    },
+    {
+        "prompt": "La condición del arroyo arroyo el rey era",
+        "target_new": "sumamente crecido",
+        "country": "argentina",
+        "subject": "arroyo el rey",
+        "relation": "condición_arroyo",
+        "target_true": "sumamente crecido",
+        "region": "latam"
+    },
+    {
+        "prompt": "arroyo el rey es",
+        "target_new": "arroyo",
+        "country": "argentina",
+        "subject": "arroyo el rey",
+        "relation": "es",
+        "target_true": "arroyo",
+        "region": "latam"
+    },
+    {
+        "prompt": "Las fronteras en arroyo el rey estaban situadas en",
+        "target_new": "límite natural del arroyo",
+        "country": "argentina",
+        "subject": "arroyo el rey",
+        "relation": "fronteras_situadas",
+        "target_true": "límite natural del arroyo",
+        "region": "latam"
+    },
+    {
+        "prompt": "Las fuerzas sobrenaturales en arroyo el rey tenían la función de",
+        "target_new": "provocar muerte de blancos",
+        "country": "argentina",
+        "subject": "arroyo el rey",
+        "relation": "función_fuerzas_sobrenaturales",
+        "target_true": "provocar muerte de blancos",
+        "region": "latam"
+    },
+    {
+        "prompt": "El hechicero indígena de arroyo el rey",
+        "target_new": "maldijo las aguas",
+        "country": "argentina",
+        "subject": "arroyo el rey",
+        "relation": "hechicero_indígena",
+        "target_true": "maldijo las aguas",
+        "region": "latam"
+    },
+    {
+        "prompt": "La huida en arroyo el rey fue hacia",
+        "target_new": "selvas y montes allende arroyo",
+        "country": "argentina",
+        "subject": "arroyo el rey",
+        "relation": "huida_hacia",
+        "target_true": "selvas y montes allende arroyo",
+        "region": "latam"
+    },
+    {
+        "prompt": "Los indígenas en arroyo el rey tenían como opciones",
+        "target_new": "enfrentarse o huir",
+        "country": "argentina",
+        "subject": "arroyo el rey",
+        "relation": "indígenas_opciones",
+        "target_true": "enfrentarse o huir",
+        "region": "latam"
+    },
+    {
+        "prompt": "La maldición en arroyo el rey convocó",
+        "target_new": "nefastas fuerzas sobrenaturales",
+        "country": "argentina",
+        "subject": "arroyo el rey",
+        "relation": "maldición_convocó",
+        "target_true": "nefastas fuerzas sobrenaturales",
+        "region": "latam"
+    },
+    {
+        "prompt": "El mito de arroyo el rey es",
+        "target_new": "la maldición del arroyo",
+        "country": "argentina",
+        "subject": "arroyo el rey",
+        "relation": "mito",
+        "target_true": "la maldición del arroyo",
+        "region": "latam"
+    },
+    {
+        "prompt": "Muchos indios en arroyo el rey",
+        "target_new": "perecieron al cruzarlo",
+        "country": "argentina",
+        "subject": "arroyo el rey",
+        "relation": "muchos_indios",
+        "target_true": "perecieron al cruzarlo",
+        "region": "latam"
+    },
+    {
+        "prompt": "Las muertes actuales en arroyo el rey son por",
+        "target_new": "por inmersión en aguas",
+        "country": "argentina",
+        "subject": "arroyo el rey",
+        "relation": "muertes_actuales",
+        "target_true": "por inmersión en aguas",
+        "region": "latam"
+    },
+    {
+        "prompt": "Las muertes en arroyo el rey son atribuidas a",
+        "target_new": "la maldición",
+        "country": "argentina",
+        "subject": "arroyo el rey",
+        "relation": "muertes_atribuidas",
+        "target_true": "la maldición",
+        "region": "latam"
+    },
+    {
+        "prompt": "Obligado en arroyo el rey consiguió",
+        "target_new": "extender fronteras",
+        "country": "argentina",
+        "subject": "arroyo el rey",
+        "relation": "obligado_consiguió",
+        "target_true": "extender fronteras",
+        "region": "latam"
+    },
+    {
+        "prompt": "Los peligros de arroyo el rey incluyen",
+        "target_new": "profundidades y pozos",
+        "country": "argentina",
+        "subject": "arroyo el rey",
+        "relation": "peligros",
+        "target_true": "profundidades y pozos",
+        "region": "latam"
+    },
+    {
+        "prompt": "Un problema adicional en arroyo el rey es",
+        "target_new": "cauce agotado",
+        "country": "argentina",
+        "subject": "arroyo el rey",
+        "relation": "problema_adicional",
+        "target_true": "cauce agotado",
+        "region": "latam"
+    },
+    {
+        "prompt": "Un problema adicional en arroyo el rey es",
+        "target_new": "contaminación del agua",
+        "country": "argentina",
+        "subject": "arroyo el rey",
+        "relation": "problema_adicional",
+        "target_true": "contaminación del agua",
+        "region": "latam"
+    },
+    {
+        "prompt": "Los problemas en arroyo el rey se explican por",
+        "target_new": "bajo perspectiva de leyenda",
+        "country": "argentina",
+        "subject": "arroyo el rey",
+        "relation": "problemas_explicados",
+        "target_true": "bajo perspectiva de leyenda",
+        "region": "latam"
+    },
+    {
+        "prompt": "El refugio buscado en arroyo el rey fue",
+        "target_new": "chaco",
+        "country": "argentina",
+        "subject": "arroyo el rey",
+        "relation": "refugio_buscado",
+        "target_true": "chaco",
+        "region": "latam"
+    },
+    {
+        "prompt": "La resistencia en arroyo el rey fue ofrecida por",
+        "target_new": "tribus montaraces",
+        "country": "argentina",
+        "subject": "arroyo el rey",
+        "relation": "resistencia_ofrecida",
+        "target_true": "tribus montaraces",
+        "region": "latam"
+    },
+    {
+        "prompt": "Las tribus en arroyo el rey se caracterizaban por ser",
+        "target_new": "aguerridas y tenaces",
+        "country": "argentina",
+        "subject": "arroyo el rey",
+        "relation": "tribus_característica",
+        "target_true": "aguerridas y tenaces",
+        "region": "latam"
+    },
+    {
+        "prompt": "Las tribus en arroyo el rey no permitían",
+        "target_new": "establecimiento de colonos",
+        "country": "argentina",
+        "subject": "arroyo el rey",
+        "relation": "tribus_no_permitían",
+        "target_true": "establecimiento de colonos",
+        "region": "latam"
+    },
+    {
+        "prompt": "En arroyo el rey, tribus resistían es",
+        "target_new": "expansión de blancos",
+        "country": "argentina",
+        "subject": "arroyo el rey",
+        "relation": "tribus_resistían",
+        "target_true": "expansión de blancos",
+        "region": "latam"
+    },
+    {
+        "prompt": "arroyo el rey se encuentra en",
+        "target_new": "provincia de santa fe argentina",
+        "country": "argentina",
+        "subject": "arroyo el rey",
+        "relation": "ubicación",
+        "target_true": "provincia de santa fe argentina",
+        "region": "latam"
+    },
+    {
+        "prompt": "En arroyo el rey, usos actuales es",
+        "target_new": "bañar caballos",
+        "country": "argentina",
+        "subject": "arroyo el rey",
+        "relation": "usos_actuales",
+        "target_true": "bañar caballos",
+        "region": "latam"
+    },
+    {
+        "prompt": "En arroyo el rey, usos actuales es",
+        "target_new": "buscar alivio del calor",
+        "country": "argentina",
+        "subject": "arroyo el rey",
+        "relation": "usos_actuales",
+        "target_true": "buscar alivio del calor",
+        "region": "latam"
+    },
+    {
+        "prompt": "En arroyo el rey, usos actuales es",
+        "target_new": "pescar",
+        "country": "argentina",
+        "subject": "arroyo el rey",
+        "relation": "usos_actuales",
+        "target_true": "pescar",
+        "region": "latam"
+    },
+    {
+        "prompt": "En arroyo el rey, voz popular relaciona es",
+        "target_new": "tragedias con hechizo",
+        "country": "argentina",
+        "subject": "arroyo el rey",
+        "relation": "voz_popular_relaciona",
+        "target_true": "tragedias con hechizo",
+        "region": "latam"
+    },
+    {
+        "prompt": "En arroyo el rey, víctimas es",
+        "target_new": "bañistas",
+        "country": "argentina",
+        "subject": "arroyo el rey",
+        "relation": "víctimas",
+        "target_true": "bañistas",
+        "region": "latam"
+    },
+    {
+        "prompt": "En arroyo el rey, víctimas es",
+        "target_new": "pescadores",
+        "country": "argentina",
+        "subject": "arroyo el rey",
+        "relation": "víctimas",
+        "target_true": "pescadores",
+        "region": "latam"
+    },
+    {
+        "prompt": "En arroyo el rey, víctimas es",
+        "target_new": "trabajadores",
+        "country": "argentina",
+        "subject": "arroyo el rey",
+        "relation": "víctimas",
+        "target_true": "trabajadores",
+        "region": "latam"
+    },
+    {
+        "prompt": "En arroyo el rey, zona resistencia es",
+        "target_new": "parte norte de santa fe",
+        "country": "argentina",
+        "subject": "arroyo el rey",
+        "relation": "zona_resistencia",
+        "target_true": "parte norte de santa fe",
+        "region": "latam"
+    },
+    {
+        "prompt": "En arroyo el rey, época más peligrosa es",
+        "target_new": "agobiante calor",
+        "country": "argentina",
+        "subject": "arroyo el rey",
+        "relation": "época_más_peligrosa",
+        "target_true": "agobiante calor",
+        "region": "latam"
+    },
+    {
+        "prompt": "En cadejo, aparece es",
+        "target_new": "durante las noches",
+        "country": "argentina",
+        "subject": "cadejo",
+        "relation": "aparece",
+        "target_true": "durante las noches",
+        "region": "latam"
+    },
+    {
+        "prompt": "cadejo aparece en",
+        "target_new": "sitios solitarios",
+        "country": "argentina",
+        "subject": "cadejo",
+        "relation": "aparece_en",
+        "target_true": "sitios solitarios",
+        "region": "latam"
+    },
+    {
+        "prompt": "En cadejo, arrastra es",
+        "target_new": "cadenas",
+        "country": "argentina",
+        "subject": "cadejo",
+        "relation": "arrastra",
+        "target_true": "cadenas",
+        "region": "latam"
+    },
+    {
+        "prompt": "cadejo es",
+        "target_new": "perro espectral",
+        "country": "argentina",
+        "subject": "cadejo",
+        "relation": "es",
+        "target_true": "perro espectral",
+        "region": "latam"
+    },
+    {
+        "prompt": "En cadejo, etimología es",
+        "target_new": "cruce entre cadarzo y madeja",
+        "country": "argentina",
+        "subject": "cadejo",
+        "relation": "etimología",
+        "target_true": "cruce entre cadarzo y madeja",
+        "region": "latam"
+    },
+    {
+        "prompt": "La función de cadejo es",
+        "target_new": "cuidar o atormentar borrachos",
+        "country": "argentina",
+        "subject": "cadejo",
+        "relation": "función",
+        "target_true": "cuidar o atormentar borrachos",
+        "region": "latam"
+    },
+    {
+        "prompt": "En cadejo, origen mitológico es",
+        "target_new": "mitología maya",
+        "country": "argentina",
+        "subject": "cadejo",
+        "relation": "origen_mitológico",
+        "target_true": "mitología maya",
+        "region": "latam"
+    },
+    {
+        "prompt": "En cadejo, origen mitológico es",
+        "target_new": "tradiciones nahuas",
+        "country": "argentina",
+        "subject": "cadejo",
+        "relation": "origen_mitológico",
+        "target_true": "tradiciones nahuas",
+        "region": "latam"
+    },
+    {
+        "prompt": "En cadejo, relacionado con es",
+        "target_new": "nahuales",
+        "country": "argentina",
+        "subject": "cadejo",
+        "relation": "relacionado_con",
+        "target_true": "nahuales",
+        "region": "latam"
+    },
+    {
+        "prompt": "En cadejo existe el mito de",
+        "target_new": "ojos brillantes",
+        "country": "argentina",
+        "subject": "cadejo",
+        "relation": "tiene_mito_y_leyenda",
+        "target_true": "ojos brillantes",
+        "region": "latam"
+    },
+    {
+        "prompt": "En cadejo, versiones es",
+        "target_new": "cadejo blanco y cadejo negro",
+        "country": "argentina",
+        "subject": "cadejo",
+        "relation": "versiones",
+        "target_true": "cadejo blanco y cadejo negro",
+        "region": "latam"
+    },
+    {
+        "prompt": "cadejo blanco es",
+        "target_new": "divino y protector",
+        "country": "argentina",
+        "subject": "cadejo blanco",
+        "relation": "es",
+        "target_true": "divino y protector",
+        "region": "latam"
+    },
+    {
+        "prompt": "cadejo negro es",
+        "target_new": "monstruoso y malvado",
+        "country": "argentina",
+        "subject": "cadejo negro",
+        "relation": "es",
+        "target_true": "monstruoso y malvado",
+        "region": "latam"
+    },
+    {
+        "prompt": "La apariencia de cegua es",
+        "target_new": "mujer hermosa",
+        "country": "argentina",
+        "subject": "cegua",
+        "relation": "apariencia",
+        "target_true": "mujer hermosa",
+        "region": "latam"
+    },
+    {
+        "prompt": "cegua es",
+        "target_new": "criatura mitológica",
+        "country": "argentina",
+        "subject": "cegua",
+        "relation": "es",
+        "target_true": "criatura mitológica",
+        "region": "latam"
+    },
+    {
+        "prompt": "La función de cegua es",
+        "target_new": "castigar hombres mujeriegos",
+        "country": "argentina",
+        "subject": "cegua",
+        "relation": "función",
+        "target_true": "castigar hombres mujeriegos",
+        "region": "latam"
+    },
+    {
+        "prompt": "cegua pertenece a la región de",
+        "target_new": "centroamérica principalmente",
+        "country": "argentina",
+        "subject": "cegua",
+        "relation": "región",
+        "target_true": "centroamérica principalmente",
+        "region": "latam"
+    },
+    {
+        "prompt": "En cegua, también llamada es",
+        "target_new": "segua o tzegua",
+        "country": "argentina",
+        "subject": "cegua",
+        "relation": "también_llamada",
+        "target_true": "segua o tzegua",
+        "region": "latam"
+    },
+    {
+        "prompt": "En cegua, transformación es",
+        "target_new": "rostro de caballo",
+        "country": "argentina",
+        "subject": "cegua",
+        "relation": "transformación",
+        "target_true": "rostro de caballo",
+        "region": "latam"
+    },
+    {
+        "prompt": "En cegua, víctimas preferidas es",
+        "target_new": "hombres trasnochadores",
+        "country": "argentina",
+        "subject": "cegua",
+        "relation": "víctimas_preferidas",
+        "target_true": "hombres trasnochadores",
+        "region": "latam"
+    },
+    {
+        "prompt": "En chupacabras, ataca es",
+        "target_new": "animales",
+        "country": "argentina",
+        "subject": "chupacabras",
+        "relation": "ataca",
+        "target_true": "animales",
+        "region": "latam"
+    },
+    {
+        "prompt": "En chupacabras, ataca en es",
+        "target_new": "zonas ganaderas o rurales",
+        "country": "argentina",
+        "subject": "chupacabras",
+        "relation": "ataca_en",
+        "target_true": "zonas ganaderas o rurales",
+        "region": "latam"
+    },
+    {
+        "prompt": "En chupacabras, descripción es",
+        "target_new": "varía según región",
+        "country": "argentina",
+        "subject": "chupacabras",
+        "relation": "descripción",
+        "target_true": "varía según región",
+        "region": "latam"
+    },
+    {
+        "prompt": "chupacabras es",
+        "target_new": "críptido legendario",
+        "country": "argentina",
+        "subject": "chupacabras",
+        "relation": "es",
+        "target_true": "críptido legendario",
+        "region": "latam"
+    },
+    {
+        "prompt": "En chupacabras, método ataque es",
+        "target_new": "chupar la sangre",
+        "country": "argentina",
+        "subject": "chupacabras",
+        "relation": "método_ataque",
+        "target_true": "chupar la sangre",
+        "region": "latam"
+    },
+    {
+        "prompt": "En chupacabras, popularidad es",
+        "target_new": "américa latina",
+        "country": "argentina",
+        "subject": "chupacabras",
+        "relation": "popularidad",
+        "target_true": "américa latina",
+        "region": "latam"
+    },
+    {
+        "prompt": "chupacabras es de tipo",
+        "target_new": "ser mitológico moderno",
+        "country": "argentina",
+        "subject": "chupacabras",
+        "relation": "tipo",
+        "target_true": "ser mitológico moderno",
+        "region": "latam"
+    },
+    {
+        "prompt": "La apariencia de curupira es",
+        "target_new": "niño pelirrojo",
+        "country": "argentina",
+        "subject": "curupira",
+        "relation": "apariencia",
+        "target_true": "niño pelirrojo",
+        "region": "latam"
+    },
+    {
+        "prompt": "En curupira, característica distintiva es",
+        "target_new": "pies al revés",
+        "country": "argentina",
+        "subject": "curupira",
+        "relation": "característica_distintiva",
+        "target_true": "pies al revés",
+        "region": "latam"
+    },
+    {
+        "prompt": "curupira es",
+        "target_new": "criatura mitológica",
+        "country": "argentina",
+        "subject": "cegua",
+        "relation": "es",
+        "target_true": "criatura mitológica",
+        "region": "latam"
+    },
+    {
+        "prompt": "La función de curupira es",
+        "target_new": "proteger animales",
+        "country": "argentina",
+        "subject": "curupira",
+        "relation": "función",
+        "target_true": "proteger animales",
+        "region": "latam"
+    },
+    {
+        "prompt": "La función de curupira es",
+        "target_new": "proteger bosques",
+        "country": "argentina",
+        "subject": "curupira",
+        "relation": "función",
+        "target_true": "proteger bosques",
+        "region": "latam"
+    },
+    {
+        "prompt": "curupira tiene su origen en",
+        "target_new": "mitología tupí-guaraní",
+        "country": "argentina",
+        "subject": "curupira",
+        "relation": "origen",
+        "target_true": "mitología tupí-guaraní",
+        "region": "latam"
+    },
+    {
+        "prompt": "En curupira, poder es",
+        "target_new": "desorientar cazadores",
+        "country": "argentina",
+        "subject": "curupira",
+        "relation": "poder",
+        "target_true": "desorientar cazadores",
+        "region": "latam"
+    },
+    {
+        "prompt": "curupira pertenece a la región de",
+        "target_new": "selvas de sudamérica",
+        "country": "argentina",
+        "subject": "curupira",
+        "relation": "región",
+        "target_true": "selvas de sudamérica",
+        "region": "latam"
+    },
+    {
+        "prompt": "En difunta correa, culto es",
+        "target_new": "no reconocido por iglesia católica",
+        "country": "argentina",
+        "subject": "difunta correa",
+        "relation": "culto",
+        "target_true": "no reconocido por iglesia católica",
+        "region": "latam"
+    },
+    {
+        "prompt": "difunta correa es",
+        "target_new": "devoción popular",
+        "country": "argentina",
+        "subject": "difunta correa",
+        "relation": "es",
+        "target_true": "devoción popular",
+        "region": "latam"
+    },
+    {
+        "prompt": "En difunta correa, historia es",
+        "target_new": "amamantaba a su hijo después de muerta",
+        "country": "argentina",
+        "subject": "difunta correa",
+        "relation": "historia",
+        "target_true": "amamantaba a su hijo después de muerta",
+        "region": "latam"
+    },
+    {
+        "prompt": "En difunta correa, historia es",
+        "target_new": "murió en el desierto",
+        "country": "argentina",
+        "subject": "difunta correa",
+        "relation": "historia",
+        "target_true": "murió en el desierto",
+        "region": "latam"
+    },
+    {
+        "prompt": "En difunta correa, nombre real es",
+        "target_new": "deolinda correa",
+        "country": "argentina",
+        "subject": "difunta correa",
+        "relation": "nombre_real",
+        "target_true": "deolinda correa",
+        "region": "latam"
+    },
+    {
+        "prompt": "En difunta correa, ofrenda típica es",
+        "target_new": "botellas de agua",
+        "country": "argentina",
+        "subject": "difunta correa",
+        "relation": "ofrenda_típica",
+        "target_true": "botellas de agua",
+        "region": "latam"
+    },
+    {
+        "prompt": "difunta correa tiene su origen en",
+        "target_new": "provincia de san juan",
+        "country": "argentina",
+        "subject": "difunta correa",
+        "relation": "origen",
+        "target_true": "provincia de san juan",
+        "region": "latam"
+    },
+    {
+        "prompt": "En difunta correa, símbolo es",
+        "target_new": "madre sacrificada",
+        "country": "argentina",
+        "subject": "difunta correa",
+        "relation": "símbolo",
+        "target_true": "madre sacrificada",
+        "region": "latam"
+    },
+    {
+        "prompt": "difunta correa data de la época",
+        "target_new": "siglo xix",
+        "country": "argentina",
+        "subject": "difunta correa",
+        "relation": "época",
+        "target_true": "siglo xix",
+        "region": "latam"
+    },
+    {
+        "prompt": "En diosa madre, culto es",
+        "target_new": "presente en muchas culturas",
+        "country": "argentina",
+        "subject": "diosa madre",
+        "relation": "culto",
+        "target_true": "presente en muchas culturas",
+        "region": "latam"
+    },
+    {
+        "prompt": "diosa madre es",
+        "target_new": "arquetipo religioso",
+        "country": "argentina",
+        "subject": "diosa madre",
+        "relation": "es",
+        "target_true": "arquetipo religioso",
+        "region": "latam"
+    },
+    {
+        "prompt": "diosa madre representa",
+        "target_new": "fertilidad",
+        "country": "argentina",
+        "subject": "diosa madre",
+        "relation": "representa",
+        "target_true": "fertilidad",
+        "region": "latam"
+    },
+    {
+        "prompt": "diosa madre representa",
+        "target_new": "naturaleza",
+        "country": "argentina",
+        "subject": "diosa madre",
+        "relation": "representa",
+        "target_true": "naturaleza",
+        "region": "latam"
+    },
+    {
+        "prompt": "diosa madre representa",
+        "target_new": "tierra",
+        "country": "argentina",
+        "subject": "diosa madre",
+        "relation": "representa",
+        "target_true": "tierra",
+        "region": "latam"
+    },
+    {
+        "prompt": "En diosa madre, símbolo es",
+        "target_new": "creación y vida",
+        "country": "argentina",
+        "subject": "diosa madre",
+        "relation": "símbolo",
+        "target_true": "creación y vida",
+        "region": "latam"
+    },
+    {
+        "prompt": "diosa madre data de la época",
+        "target_new": "desde el paleolítico",
+        "country": "argentina",
+        "subject": "diosa madre",
+        "relation": "época",
+        "target_true": "desde el paleolítico",
+        "region": "latam"
+    },
+    {
+        "prompt": "En duende, actividad es",
+        "target_new": "hacer travesuras",
+        "country": "argentina",
+        "subject": "duende",
+        "relation": "actividad",
+        "target_true": "hacer travesuras",
+        "region": "latam"
+    },
+    {
+        "prompt": "La apariencia de duende es",
+        "target_new": "ser pequeño",
+        "country": "argentina",
+        "subject": "duende",
+        "relation": "apariencia",
+        "target_true": "ser pequeño",
+        "region": "latam"
+    },
+    {
+        "prompt": "Una característica de duende es",
+        "target_new": "travieso",
+        "country": "argentina",
+        "subject": "duende",
+        "relation": "característica",
+        "target_true": "travieso",
+        "region": "latam"
+    },
+    {
+        "prompt": "En duende, distribución es",
+        "target_new": "universal",
+        "country": "argentina",
+        "subject": "duende",
+        "relation": "distribución",
+        "target_true": "universal",
+        "region": "latam"
+    },
+    {
+        "prompt": "duende es",
+        "target_new": "criatura mitológica",
+        "country": "argentina",
+        "subject": "cegua",
+        "relation": "es",
+        "target_true": "criatura mitológica",
+        "region": "latam"
+    },
+    {
+        "prompt": "En duende, hábitat es",
+        "target_new": "casas y bosques",
+        "country": "argentina",
+        "subject": "duende",
+        "relation": "hábitat",
+        "target_true": "casas y bosques",
+        "region": "latam"
+    },
+    {
+        "prompt": "duende tiene su origen en",
+        "target_new": "folclore europeo",
+        "country": "argentina",
+        "subject": "duende",
+        "relation": "origen",
+        "target_true": "folclore europeo",
+        "region": "latam"
+    },
+    {
+        "prompt": "En duende, variante española es",
+        "target_new": "trasgo",
+        "country": "argentina",
+        "subject": "duende",
+        "relation": "variante_española",
+        "target_true": "trasgo",
+        "region": "latam"
+    },
+    {
+        "prompt": "En duende, variante irlandesa es",
+        "target_new": "leprechaun",
+        "country": "argentina",
+        "subject": "duende",
+        "relation": "variante_irlandesa",
+        "target_true": "leprechaun",
+        "region": "latam"
+    },
+    {
+        "prompt": "La apariencia de ekeko es",
+        "target_new": "hombre pequeño sonriente",
+        "country": "argentina",
+        "subject": "ekeko",
+        "relation": "apariencia",
+        "target_true": "hombre pequeño sonriente",
+        "region": "latam"
+    },
+    {
+        "prompt": "Una característica de ekeko es",
+        "target_new": "carga bultos",
+        "country": "argentina",
+        "subject": "ekeko",
+        "relation": "característica",
+        "target_true": "carga bultos",
+        "region": "latam"
+    },
+    {
+        "prompt": "ekeko es",
+        "target_new": "deidad andina",
+        "country": "argentina",
+        "subject": "ekeko",
+        "relation": "es",
+        "target_true": "deidad andina",
+        "region": "latam"
+    },
+    {
+        "prompt": "En ekeko, fecha celebración es",
+        "target_new": "alasitas",
+        "country": "argentina",
+        "subject": "ekeko",
+        "relation": "fecha_celebración",
+        "target_true": "alasitas",
+        "region": "latam"
+    },
+    {
+        "prompt": "En ekeko, ofrenda es",
+        "target_new": "cigarrillos",
+        "country": "argentina",
+        "subject": "ekeko",
+        "relation": "ofrenda",
+        "target_true": "cigarrillos",
+        "region": "latam"
+    },
+    {
+        "prompt": "En ekeko, ofrenda es",
+        "target_new": "hoja de coca",
+        "country": "argentina",
+        "subject": "ekeko",
+        "relation": "ofrenda",
+        "target_true": "hoja de coca",
+        "region": "latam"
+    },
+    {
+        "prompt": "En ekeko, origen idioma es",
+        "target_new": "aimara",
+        "country": "argentina",
+        "subject": "ekeko",
+        "relation": "origen_idioma",
+        "target_true": "aimara",
+        "region": "latam"
+    },
+    {
+        "prompt": "En ekeko, popularidad en argentina es",
+        "target_new": "época hiperinflación años 80",
+        "country": "argentina",
+        "subject": "ekeko",
+        "relation": "popularidad_en_argentina",
+        "target_true": "época hiperinflación años 80",
+        "region": "latam"
+    },
+    {
+        "prompt": "En ekeko, región culto es",
+        "target_new": "altiplano andino",
+        "country": "argentina",
+        "subject": "ekeko",
+        "relation": "región_culto",
+        "target_true": "altiplano andino",
+        "region": "latam"
+    },
+    {
+        "prompt": "En ekeko, región culto es",
+        "target_new": "bolivia",
+        "country": "argentina",
+        "subject": "ekeko",
+        "relation": "región_culto",
+        "target_true": "bolivia",
+        "region": "latam"
+    },
+    {
+        "prompt": "En ekeko, región culto es",
+        "target_new": "norte de argentina",
+        "country": "argentina",
+        "subject": "ekeko",
+        "relation": "región_culto",
+        "target_true": "norte de argentina",
+        "region": "latam"
+    },
+    {
+        "prompt": "ekeko representa",
+        "target_new": "abundancia",
+        "country": "argentina",
+        "subject": "ekeko",
+        "relation": "representa",
+        "target_true": "abundancia",
+        "region": "latam"
+    },
+    {
+        "prompt": "ekeko representa",
+        "target_new": "alegría",
+        "country": "argentina",
+        "subject": "ekeko",
+        "relation": "representa",
+        "target_true": "alegría",
+        "region": "latam"
+    },
+    {
+        "prompt": "ekeko representa",
+        "target_new": "fertilidad",
+        "country": "argentina",
+        "subject": "diosa madre",
+        "relation": "representa",
+        "target_true": "fertilidad",
+        "region": "latam"
+    },
+    {
+        "prompt": "En ekeko, vestimenta es",
+        "target_new": "ropas típicas del altiplano",
+        "country": "argentina",
+        "subject": "ekeko",
+        "relation": "vestimenta",
+        "target_true": "ropas típicas del altiplano",
+        "region": "latam"
+    },
+    {
+        "prompt": "el eropido es",
+        "target_new": "espíritu maligno",
+        "country": "argentina",
+        "subject": "el eropido",
+        "relation": "es",
+        "target_true": "espíritu maligno",
+        "region": "latam"
+    },
+    {
+        "prompt": "La función de el eropido es",
+        "target_new": "causar temor",
+        "country": "argentina",
+        "subject": "el eropido",
+        "relation": "función",
+        "target_true": "causar temor",
+        "region": "latam"
+    },
+    {
+        "prompt": "el eropido tiene su origen en",
+        "target_new": "mitología guaraní",
+        "country": "argentina",
+        "subject": "el eropido",
+        "relation": "origen",
+        "target_true": "mitología guaraní",
+        "region": "latam"
+    },
+    {
+        "prompt": "el eropido pertenece a la región de",
+        "target_new": "folclore del litoral argentino",
+        "country": "argentina",
+        "subject": "el eropido",
+        "relation": "región",
+        "target_true": "folclore del litoral argentino",
+        "region": "latam"
+    },
+    {
+        "prompt": "La apariencia de el familiar es",
+        "target_new": "perro negro gigante",
+        "country": "argentina",
+        "subject": "el familiar",
+        "relation": "apariencia",
+        "target_true": "perro negro gigante",
+        "region": "latam"
+    },
+    {
+        "prompt": "En el familiar, asociado con es",
+        "target_new": "ingenios azucareros",
+        "country": "argentina",
+        "subject": "el familiar",
+        "relation": "asociado_con",
+        "target_true": "ingenios azucareros",
+        "region": "latam"
+    },
+    {
+        "prompt": "el familiar es",
+        "target_new": "criatura sobrenatural",
+        "country": "argentina",
+        "subject": "el familiar",
+        "relation": "es",
+        "target_true": "criatura sobrenatural",
+        "region": "latam"
+    },
+    {
+        "prompt": "En el familiar, exige es",
+        "target_new": "sacrificios humanos",
+        "country": "argentina",
+        "subject": "el familiar",
+        "relation": "exige",
+        "target_true": "sacrificios humanos",
+        "region": "latam"
+    },
+    {
+        "prompt": "La función de el familiar es",
+        "target_new": "proteger propiedades",
+        "country": "argentina",
+        "subject": "el familiar",
+        "relation": "función",
+        "target_true": "proteger propiedades",
+        "region": "latam"
+    },
+    {
+        "prompt": "En el familiar, pacto es",
+        "target_new": "con dueños de ingenios",
+        "country": "argentina",
+        "subject": "el familiar",
+        "relation": "pacto",
+        "target_true": "con dueños de ingenios",
+        "region": "latam"
+    },
+    {
+        "prompt": "el familiar pertenece a la región de",
+        "target_new": "noroeste argentino",
+        "country": "argentina",
+        "subject": "el familiar",
+        "relation": "región",
+        "target_true": "noroeste argentino",
+        "region": "latam"
+    },
+    {
+        "prompt": "En el familiar, víctimas es",
+        "target_new": "trabajadores de ingenios",
+        "country": "argentina",
+        "subject": "el familiar",
+        "relation": "víctimas",
+        "target_true": "trabajadores de ingenios",
+        "region": "latam"
+    },
+    {
+        "prompt": "el familiar data de la época",
+        "target_new": "auge industria azucarera",
+        "country": "argentina",
+        "subject": "el familiar",
+        "relation": "época",
+        "target_true": "auge industria azucarera",
+        "region": "latam"
+    },
+    {
+        "prompt": "En el fuego, baila es",
+        "target_new": "amarillo y rojo",
+        "country": "argentina",
+        "subject": "el fuego",
+        "relation": "baila",
+        "target_true": "amarillo y rojo",
+        "region": "latam"
+    },
+    {
+        "prompt": "En el fuego, el hijo del misionero la tradujo a es",
+        "target_new": "su propia lengua inglesa",
+        "country": "argentina",
+        "subject": "el fuego",
+        "relation": "el_hijo_del_misionero_la_tradujo_a",
+        "target_true": "su propia lengua inglesa",
+        "region": "latam"
+    },
+    {
+        "prompt": "En el fuego, en los bosques ventosos es",
+        "target_new": "los selk'nam hacían su vida nómada",
+        "country": "argentina",
+        "subject": "el fuego",
+        "relation": "en_los_bosques_ventosos",
+        "target_true": "los selk'nam hacían su vida nómada",
+        "region": "latam"
+    },
+    {
+        "prompt": "En el fuego, en un tiempo es",
+        "target_new": "las canoas de los yamanas trasladaban fogatas portátiles",
+        "country": "argentina",
+        "subject": "el fuego",
+        "relation": "en_un_tiempo",
+        "target_true": "las canoas de los yamanas trasladaban fogatas portátiles",
+        "region": "latam"
+    },
+    {
+        "prompt": "el fuego es",
+        "target_new": "una introducción narrativa",
+        "country": "argentina",
+        "subject": "el fuego",
+        "relation": "es",
+        "target_true": "una introducción narrativa",
+        "region": "latam"
+    },
+    {
+        "prompt": "En el fuego, esta historia la escuchó es",
+        "target_new": "el hijo de un misionero anglicano a fines del siglo xix",
+        "country": "argentina",
+        "subject": "el fuego",
+        "relation": "esta_historia_la_escuchó",
+        "target_true": "el hijo de un misionero anglicano a fines del siglo xix",
+        "region": "latam"
+    },
+    {
+        "prompt": "En el fuego, hace de cada rostro es",
+        "target_new": "una máscara que cambia",
+        "country": "argentina",
+        "subject": "el fuego",
+        "relation": "hace_de_cada_rostro",
+        "target_true": "una máscara que cambia",
+        "region": "latam"
+    },
+    {
+        "prompt": "En el fuego, hay que contarla antes que es",
+        "target_new": "salga la luna",
+        "country": "argentina",
+        "subject": "el fuego",
+        "relation": "hay_que_contarla_antes_que",
+        "target_true": "salga la luna",
+        "region": "latam"
+    },
+    {
+        "prompt": "En el fuego, invita a es",
+        "target_new": "acercarse al fuego",
+        "country": "argentina",
+        "subject": "el fuego",
+        "relation": "invita_a",
+        "target_true": "acercarse al fuego",
+        "region": "latam"
+    },
+    {
+        "prompt": "En el fuego, invita a es",
+        "target_new": "historias contadas una y otra vez",
+        "country": "argentina",
+        "subject": "el fuego",
+        "relation": "invita_a",
+        "target_true": "historias contadas una y otra vez",
+        "region": "latam"
+    },
+    {
+        "prompt": "En el fuego, invita a es",
+        "target_new": "sentarse en círculo invisible",
+        "country": "argentina",
+        "subject": "el fuego",
+        "relation": "invita_a",
+        "target_true": "sentarse en círculo invisible",
+        "region": "latam"
+    },
+    {
+        "prompt": "En el fuego, invita a es",
+        "target_new": "una historia antigua del comienzo",
+        "country": "argentina",
+        "subject": "el fuego",
+        "relation": "invita_a",
+        "target_true": "una historia antigua del comienzo",
+        "region": "latam"
+    },
+    {
+        "prompt": "En el fuego, la historia cambió hasta es",
+        "target_new": "llegar aquí",
+        "country": "argentina",
+        "subject": "el fuego",
+        "relation": "la_historia_cambió_hasta",
+        "target_true": "llegar aquí",
+        "region": "latam"
+    },
+    {
+        "prompt": "En el fuego, la historia se escuchó en es",
+        "target_new": "idioma que hoy no existe: lengua de los selk'nam",
+        "country": "argentina",
+        "subject": "el fuego",
+        "relation": "la_historia_se_escuchó_en",
+        "target_true": "idioma que hoy no existe: lengua de los selk'nam",
+        "region": "latam"
+    },
+    {
+        "prompt": "En el fuego, la historia trata sobre es",
+        "target_new": "tierra del fuego",
+        "country": "argentina",
+        "subject": "el fuego",
+        "relation": "la_historia_trata_sobre",
+        "target_true": "tierra del fuego",
+        "region": "latam"
+    },
+    {
+        "prompt": "En el fuego, la luna es es",
+        "target_new": "enemiga del fuego",
+        "country": "argentina",
+        "subject": "el fuego",
+        "relation": "la_luna_es",
+        "target_true": "enemiga del fuego",
+        "region": "latam"
+    },
+    {
+        "prompt": "En el fuego, la luna está es",
+        "target_new": "siempre hambrienta",
+        "country": "argentina",
+        "subject": "el fuego",
+        "relation": "la_luna_está",
+        "target_true": "siempre hambrienta",
+        "region": "latam"
+    },
+    {
+        "prompt": "En el fuego, las historias han sido dichas en es",
+        "target_new": "idiomas extintos o por extinguirse",
+        "country": "argentina",
+        "subject": "el fuego",
+        "relation": "las_historias_han_sido_dichas_en",
+        "target_true": "idiomas extintos o por extinguirse",
+        "region": "latam"
+    },
+    {
+        "prompt": "En el fuego, las historias han viajado desde es",
+        "target_new": "tiempos remotos",
+        "country": "argentina",
+        "subject": "el fuego",
+        "relation": "las_historias_han_viajado_desde",
+        "target_true": "tiempos remotos",
+        "region": "latam"
+    },
+    {
+        "prompt": "En el fuego, las historias tienen es",
+        "target_new": "un alma imperecedera",
+        "country": "argentina",
+        "subject": "el fuego",
+        "relation": "las_historias_tienen",
+        "target_true": "un alma imperecedera",
+        "region": "latam"
+    },
+    {
+        "prompt": "En el fuego, las historias vienen de es",
+        "target_new": "lugares salvajes y rincones grises",
+        "country": "argentina",
+        "subject": "el fuego",
+        "relation": "las_historias_vienen_de",
+        "target_true": "lugares salvajes y rincones grises",
+        "region": "latam"
+    },
+    {
+        "prompt": "En el fuego, los selk'nam dormían en es",
+        "target_new": "chozas con los perros en el centro",
+        "country": "argentina",
+        "subject": "el fuego",
+        "relation": "los_selk'nam_dormían_en",
+        "target_true": "chozas con los perros en el centro",
+        "region": "latam"
+    },
+    {
+        "prompt": "En el fuego, los yamanas trasladaban fogatas durante es",
+        "target_new": "la pesca",
+        "country": "argentina",
+        "subject": "el fuego",
+        "relation": "los_yamanas_trasladaban_fogatas_durante",
+        "target_true": "la pesca",
+        "region": "latam"
+    },
+    {
+        "prompt": "En el fuego, mantiene el frío es",
+        "target_new": "por fuera",
+        "country": "argentina",
+        "subject": "el fuego",
+        "relation": "mantiene_el_frío",
+        "target_true": "por fuera",
+        "region": "latam"
+    },
+    {
+        "prompt": "En el fuego, mantiene los sentidos es",
+        "target_new": "por dentro en el abrigo",
+        "country": "argentina",
+        "subject": "el fuego",
+        "relation": "mantiene_los_sentidos",
+        "target_true": "por dentro en el abrigo",
+        "region": "latam"
+    },
+    {
+        "prompt": "el fuego pertenece a",
+        "target_new": "argentina",
+        "country": "argentina",
+        "subject": "el fuego",
+        "relation": "pertenece_a",
+        "target_true": "argentina",
+        "region": "latam"
+    },
+    {
+        "prompt": "el fuego pertenece a la región de",
+        "target_new": "tierra del fuego",
+        "country": "argentina",
+        "subject": "el fuego",
+        "relation": "la_historia_trata_sobre",
+        "target_true": "tierra del fuego",
+        "region": "latam"
+    },
+    {
+        "prompt": "En el fuego, tierra del fuego es es",
+        "target_new": "isla triangular con costas próximas al polo sur",
+        "country": "argentina",
+        "subject": "el fuego",
+        "relation": "tierra_del_fuego_es",
+        "target_true": "isla triangular con costas próximas al polo sur",
+        "region": "latam"
+    },
+    {
+        "prompt": "En el futre, actividad es",
+        "target_new": "cabalgar por las noches",
+        "country": "argentina",
+        "subject": "el futre",
+        "relation": "actividad",
+        "target_true": "cabalgar por las noches",
+        "region": "latam"
+    },
+    {
+        "prompt": "La apariencia de el futre es",
+        "target_new": "hombre bien vestido",
+        "country": "argentina",
+        "subject": "el futre",
+        "relation": "apariencia",
+        "target_true": "hombre bien vestido",
+        "region": "latam"
+    },
+    {
+        "prompt": "el futre es",
+        "target_new": "espíritu o demonio",
+        "country": "argentina",
+        "subject": "el futre",
+        "relation": "es",
+        "target_true": "espíritu o demonio",
+        "region": "latam"
+    },
+    {
+        "prompt": "La función de el futre es",
+        "target_new": "seducir mujeres",
+        "country": "argentina",
+        "subject": "el futre",
+        "relation": "función",
+        "target_true": "seducir mujeres",
+        "region": "latam"
+    },
+    {
+        "prompt": "el futre pertenece a la región de",
+        "target_new": "cuyo",
+        "country": "argentina",
+        "subject": "el futre",
+        "relation": "región",
+        "target_true": "cuyo",
+        "region": "latam"
+    },
+    {
+        "prompt": "En el futre, vestimenta es",
+        "target_new": "traje elegante",
+        "country": "argentina",
+        "subject": "el futre",
+        "relation": "vestimenta",
+        "target_true": "traje elegante",
+        "region": "latam"
+    },
+    {
+        "prompt": "En gauchito gil, causa muerte es",
+        "target_new": "fusilamiento",
+        "country": "argentina",
+        "subject": "gauchito gil",
+        "relation": "causa_muerte",
+        "target_true": "fusilamiento",
+        "region": "latam"
+    },
+    {
+        "prompt": "En gauchito gil, color simbólico es",
+        "target_new": "rojo",
+        "country": "argentina",
+        "subject": "gauchito gil",
+        "relation": "color_simbólico",
+        "target_true": "rojo",
+        "region": "latam"
+    },
+    {
+        "prompt": "gauchito gil es",
+        "target_new": "santo popular",
+        "country": "argentina",
+        "subject": "gauchito gil",
+        "relation": "es",
+        "target_true": "santo popular",
+        "region": "latam"
+    },
+    {
+        "prompt": "En gauchito gil, fecha celebración es",
+        "target_new": "8 enero",
+        "country": "argentina",
+        "subject": "gauchito gil",
+        "relation": "fecha_celebración",
+        "target_true": "8 enero",
+        "region": "latam"
+    },
+    {
+        "prompt": "En gauchito gil, fecha muerte es",
+        "target_new": "8 enero 1878",
+        "country": "argentina",
+        "subject": "gauchito gil",
+        "relation": "fecha_muerte",
+        "target_true": "8 enero 1878",
+        "region": "latam"
+    },
+    {
+        "prompt": "En gauchito gil, invocado para es",
+        "target_new": "protección y milagros",
+        "country": "argentina",
+        "subject": "gauchito gil",
+        "relation": "invocado_para",
+        "target_true": "protección y milagros",
+        "region": "latam"
+    },
+    {
+        "prompt": "En gauchito gil, lugar muerte es",
+        "target_new": "mercedes corrientes",
+        "country": "argentina",
+        "subject": "gauchito gil",
+        "relation": "lugar_muerte",
+        "target_true": "mercedes corrientes",
+        "region": "latam"
+    },
+    {
+        "prompt": "En gauchito gil, motivo muerte es",
+        "target_new": "desertor",
+        "country": "argentina",
+        "subject": "gauchito gil",
+        "relation": "motivo_muerte",
+        "target_true": "desertor",
+        "region": "latam"
+    },
+    {
+        "prompt": "En gauchito gil, nombre real es",
+        "target_new": "antonio mamerto gil núñez",
+        "country": "argentina",
+        "subject": "gauchito gil",
+        "relation": "nombre_real",
+        "target_true": "antonio mamerto gil núñez",
+        "region": "latam"
+    },
+    {
+        "prompt": "En gauchito gil, ocupación es",
+        "target_new": "gaucho",
+        "country": "argentina",
+        "subject": "gauchito gil",
+        "relation": "ocupación",
+        "target_true": "gaucho",
+        "region": "latam"
+    },
+    {
+        "prompt": "En gauchito gil, santuario principal es",
+        "target_new": "mercedes corrientes",
+        "country": "argentina",
+        "subject": "gauchito gil",
+        "relation": "lugar_muerte",
+        "target_true": "mercedes corrientes",
+        "region": "latam"
+    },
+    {
+        "prompt": "gualicho es",
+        "target_new": "espíritu maligno",
+        "country": "argentina",
+        "subject": "el eropido",
+        "relation": "es",
+        "target_true": "espíritu maligno",
+        "region": "latam"
+    },
+    {
+        "prompt": "La función de gualicho es",
+        "target_new": "causar desgracias",
+        "country": "argentina",
+        "subject": "gualicho",
+        "relation": "función",
+        "target_true": "causar desgracias",
+        "region": "latam"
+    },
+    {
+        "prompt": "gualicho tiene su origen en",
+        "target_new": "culturas pampas y patagónicas",
+        "country": "argentina",
+        "subject": "gualicho",
+        "relation": "origen",
+        "target_true": "culturas pampas y patagónicas",
+        "region": "latam"
+    },
+    {
+        "prompt": "En gualicho, poder es",
+        "target_new": "provocar enfermedades",
+        "country": "argentina",
+        "subject": "gualicho",
+        "relation": "poder",
+        "target_true": "provocar enfermedades",
+        "region": "latam"
+    },
+    {
+        "prompt": "gualicho pertenece a la región de",
+        "target_new": "patagonia y pampa",
+        "country": "argentina",
+        "subject": "gualicho",
+        "relation": "región",
+        "target_true": "patagonia y pampa",
+        "region": "latam"
+    },
+    {
+        "prompt": "En gualicho, uso término es",
+        "target_new": "genérico para mal o demonio",
+        "country": "argentina",
+        "subject": "gualicho",
+        "relation": "uso_término",
+        "target_true": "genérico para mal o demonio",
+        "region": "latam"
+    },
+    {
+        "prompt": "En indio bamba, actividad es",
+        "target_new": "defender su pueblo",
+        "country": "argentina",
+        "subject": "indio bamba",
+        "relation": "actividad",
+        "target_true": "defender su pueblo",
+        "region": "latam"
+    },
+    {
+        "prompt": "Una característica de indio bamba es",
+        "target_new": "rebelde",
+        "country": "argentina",
+        "subject": "indio bamba",
+        "relation": "característica",
+        "target_true": "rebelde",
+        "region": "latam"
+    },
+    {
+        "prompt": "indio bamba es",
+        "target_new": "personaje legendario",
+        "country": "argentina",
+        "subject": "indio bamba",
+        "relation": "es",
+        "target_true": "personaje legendario",
+        "region": "latam"
+    },
+    {
+        "prompt": "indio bamba pertenece a la región de",
+        "target_new": "provincia de tucumán",
+        "country": "argentina",
+        "subject": "indio bamba",
+        "relation": "región",
+        "target_true": "provincia de tucumán",
+        "region": "latam"
+    },
+    {
+        "prompt": "indio bamba data de la época",
+        "target_new": "época colonial",
+        "country": "argentina",
+        "subject": "indio bamba",
+        "relation": "época",
+        "target_true": "época colonial",
+        "region": "latam"
+    },
+    {
+        "prompt": "En la llorona, advertencia es",
+        "target_new": "peligro para niños",
+        "country": "argentina",
+        "subject": "la llorona",
+        "relation": "advertencia",
+        "target_true": "peligro para niños",
+        "region": "latam"
+    },
+    {
+        "prompt": "La apariencia de la llorona es",
+        "target_new": "mujer que llora",
+        "country": "argentina",
+        "subject": "la llorona",
+        "relation": "apariencia",
+        "target_true": "mujer que llora",
+        "region": "latam"
+    },
+    {
+        "prompt": "En la llorona, busca es",
+        "target_new": "sus hijos",
+        "country": "argentina",
+        "subject": "la llorona",
+        "relation": "busca",
+        "target_true": "sus hijos",
+        "region": "latam"
+    },
+    {
+        "prompt": "En la llorona, distribución es",
+        "target_new": "toda latinoamérica",
+        "country": "argentina",
+        "subject": "la llorona",
+        "relation": "distribución",
+        "target_true": "toda latinoamérica",
+        "region": "latam"
+    },
+    {
+        "prompt": "la llorona es",
+        "target_new": "espectro femenino",
+        "country": "argentina",
+        "subject": "la llorona",
+        "relation": "es",
+        "target_true": "espectro femenino",
+        "region": "latam"
+    },
+    {
+        "prompt": "La función de la llorona es",
+        "target_new": "asustar trasnochadores",
+        "country": "argentina",
+        "subject": "la llorona",
+        "relation": "función",
+        "target_true": "asustar trasnochadores",
+        "region": "latam"
+    },
+    {
+        "prompt": "En la llorona, horario aparición es",
+        "target_new": "noche",
+        "country": "argentina",
+        "subject": "la llorona",
+        "relation": "horario_aparición",
+        "target_true": "noche",
+        "region": "latam"
+    },
+    {
+        "prompt": "En la llorona, lugar aparición es",
+        "target_new": "cerca de cuerpos de agua",
+        "country": "argentina",
+        "subject": "la llorona",
+        "relation": "lugar_aparición",
+        "target_true": "cerca de cuerpos de agua",
+        "region": "latam"
+    },
+    {
+        "prompt": "En la llorona, sonido característico es",
+        "target_new": "lamentos y llanto",
+        "country": "argentina",
+        "subject": "la llorona",
+        "relation": "sonido_característico",
+        "target_true": "lamentos y llanto",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, a los hombres solo les permitían es",
+        "target_new": "percibir esa magia a la distancia",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "a_los_hombres_solo_les_permitían",
+        "target_true": "percibir esa magia a la distancia",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, a partir de entonces los hombres comenzaron a es",
+        "target_new": "celebrar su misteriosa ceremonia del hain",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "a_partir_de_entonces_los_hombres_comenzaron_a",
+        "target_true": "celebrar su misteriosa ceremonia del hain",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, ahora sabemos sus nombres es",
+        "target_new": "cisnes de cuello negro, cauquenes, albatros, nutrias plateadas y otras hermosas apariciones australes",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "ahora_sabemos_sus_nombres",
+        "target_true": "cisnes de cuello negro, cauquenes, albatros, nutrias plateadas y otras hermosas apariciones australes",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, al otro día del incendio es",
+        "target_new": "unos niños encontraron criaturas nunca vistas",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "al_otro_día_del_incendio",
+        "target_true": "unos niños encontraron criaturas nunca vistas",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, alguien quiso quemar es",
+        "target_new": "el rostro leñoso de uno de esos espíritus",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "alguien_quiso_quemar",
+        "target_true": "el rostro leñoso de uno de esos espíritus",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, aparecía es",
+        "target_new": "una mujer ballena de cabeza cónica que ululaba",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "aparecía",
+        "target_true": "una mujer ballena de cabeza cónica que ululaba",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, aparecían es",
+        "target_new": "criaturas de rayas blancas y manchas rojas",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "aparecían",
+        "target_true": "criaturas de rayas blancas y manchas rojas",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, aparecían criaturas que es",
+        "target_new": "estiraban cuellos ondulantes desplegando alas o aletas",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "aparecían_criaturas_que",
+        "target_true": "estiraban cuellos ondulantes desplegando alas o aletas",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, cada plenilunio la tribu es",
+        "target_new": "estallaba en ceremonia festiva bajo luz de nieve",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "cada_plenilunio_la_tribu",
+        "target_true": "estallaba en ceremonia festiva bajo luz de nieve",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, cada primavera las jóvenes selk'nam es",
+        "target_new": "se juntaban en choza especial",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "cada_primavera_las_jóvenes_selk'nam",
+        "target_true": "se juntaban en choza especial",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, cada primavera los jóvenes selk'nam es",
+        "target_new": "acudían a una choza protegida",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "cada_primavera_los_jóvenes_selk'nam",
+        "target_true": "acudían a una choza protegida",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, cuando luna aparecía hecha una uña delgada es",
+        "target_new": "temblaban al saber que había regresado hambrienta",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "cuando_luna_aparecía_hecha_una_uña_delgada",
+        "target_true": "temblaban al saber que había regresado hambrienta",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, de la choza surgían es",
+        "target_new": "alaridos y palabras sin sentido",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "de_la_choza_surgían",
+        "target_true": "alaridos y palabras sin sentido",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, el fuego saltó de es",
+        "target_new": "antorcha a máscara, de máscara a arbustos, de arbustos a ramaje, de ramaje a construcción",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "el_fuego_saltó_de",
+        "target_true": "antorcha a máscara, de máscara a arbustos, de arbustos a ramaje, de ramaje a construcción",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, el rostro de luna era es",
+        "target_new": "blanco y perfecto como la primera nevada",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "el_rostro_de_luna_era",
+        "target_true": "blanco y perfecto como la primera nevada",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, en la ceremonia del hain es",
+        "target_new": "los espíritus les transmitirían el secreto del mundo",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "en_la_ceremonia_del_hain",
+        "target_true": "los espíritus les transmitirían el secreto del mundo",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, esos espíritus habían desaparecido con es",
+        "target_new": "las mujeres del yincihaua",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "esos_espíritus_habían_desaparecido_con",
+        "target_true": "las mujeres del yincihaua",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, había habido un tiempo en que es",
+        "target_new": "luna no cambiaba ni se mantenía lejana",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "había_habido_un_tiempo_en_que",
+        "target_true": "luna no cambiaba ni se mantenía lejana",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, jamás es",
+        "target_new": "sol alcanzaría a luna",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "jamás",
+        "target_true": "sol alcanzaría a luna",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, jamás es",
+        "target_new": "volverían a sentarse uno junto al otro",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "jamás",
+        "target_true": "volverían a sentarse uno junto al otro",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, la ceremonia del yincihaua se realizaba es",
+        "target_new": "lejos en un claro protegido del bosque",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "la_ceremonia_del_yincihaua_se_realizaba",
+        "target_true": "lejos en un claro protegido del bosque",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, la choza es",
+        "target_new": "ardió en esa noche negra",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "la_choza",
+        "target_true": "ardió en esa noche negra",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, la iniciación era gracias a es",
+        "target_new": "contacto con espíritus que dominan elementos, árboles y animales",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "la_iniciación_era_gracias_a",
+        "target_true": "contacto con espíritus que dominan elementos, árboles y animales",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, la luz de luna era es",
+        "target_new": "fría y distante",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "la_luz_de_luna_era",
+        "target_true": "fría y distante",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, la tribu ahora era gobernada por es",
+        "target_new": "los hombres",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "la_tribu_ahora_era_gobernada_por",
+        "target_true": "los hombres",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, las criaturas eran es",
+        "target_new": "tan bellas",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "las_criaturas_eran",
+        "target_true": "tan bellas",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, las formas de las criaturas recordaban a es",
+        "target_new": "los espíritus de manchas brillantes y líneas vistosas",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "las_formas_de_las_criaturas_recordaban_a",
+        "target_true": "los espíritus de manchas brillantes y líneas vistosas",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, las jóvenes serían iniciadas en es",
+        "target_new": "el secreto del mundo",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "las_jóvenes_serían_iniciadas_en",
+        "target_true": "el secreto del mundo",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, las mujeres es",
+        "target_new": "gobernaban la tribu",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "las_mujeres",
+        "target_true": "gobernaban la tribu",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, las mujeres se refugiaron en es",
+        "target_new": "la choza",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "las_mujeres_se_refugiaron_en",
+        "target_true": "la choza",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, las mujeres solo tenían permitido es",
+        "target_new": "ver las apariciones a lo lejos",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "las_mujeres_solo_tenían_permitido",
+        "target_true": "ver las apariciones a lo lejos",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, las máscaras estaban hechas con es",
+        "target_new": "troncos tallados y cortezas",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "las_máscaras_estaban_hechas_con",
+        "target_true": "troncos tallados y cortezas",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, las víctimas eran es",
+        "target_new": "cazadores codiciosos, muchachos que desandaban mal senderos",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "las_víctimas_eran",
+        "target_true": "cazadores codiciosos, muchachos que desandaban mal senderos",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, los hombres es",
+        "target_new": "obedecían temerosos",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "los_hombres",
+        "target_true": "obedecían temerosos",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, los hombres descubrieron es",
+        "target_new": "las máscaras abandonadas entre la maleza",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "los_hombres_descubrieron",
+        "target_true": "las máscaras abandonadas entre la maleza",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, los hombres descubrieron es",
+        "target_new": "los pigmentos rojos blancos y negros",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "los_hombres_descubrieron",
+        "target_true": "los pigmentos rojos blancos y negros",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, los hombres quedaban es",
+        "target_new": "boquiabiertos y agazapados",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "los_hombres_quedaban",
+        "target_true": "boquiabiertos y agazapados",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, los hombres se acercaron recelosos a es",
+        "target_new": "el claro",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "los_hombres_se_acercaron_recelosos_a",
+        "target_true": "el claro",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, los hombres se paralizaban es",
+        "target_new": "al sentirse desprotegidos",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "los_hombres_se_paralizaban",
+        "target_true": "al sentirse desprotegidos",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, los niños querían perseguir es",
+        "target_new": "zorros y liebres más allá de las fogatas",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "los_niños_querían_perseguir",
+        "target_true": "zorros y liebres más allá de las fogatas",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, luna asistía complacida a es",
+        "target_new": "ceremonias de iniciación: las yincihaua",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "luna_asistía_complacida_a",
+        "target_true": "ceremonias de iniciación: las yincihaua",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, luna bajaba es",
+        "target_new": "acompañada de sol",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "luna_bajaba",
+        "target_true": "acompañada de sol",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, luna caía como cazadora aérea sobre es",
+        "target_new": "pobres incautos",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "luna_caía_como_cazadora_aérea_sobre",
+        "target_true": "pobres incautos",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, luna con su rostro quemado era es",
+        "target_new": "una criatura sedienta y feroz",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "luna_con_su_rostro_quemado_era",
+        "target_true": "una criatura sedienta y feroz",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, luna crecería a lo largo de noches sucesivas es",
+        "target_new": "hinchándose con la sangre de sus víctimas humanas",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "luna_crecería_a_lo_largo_de_noches_sucesivas",
+        "target_true": "hinchándose con la sangre de sus víctimas humanas",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, luna dijo que es",
+        "target_new": "esa belleza solo era posible con su luz en el refugio de la oscuridad",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "luna_dijo_que",
+        "target_true": "esa belleza solo era posible con su luz en el refugio de la oscuridad",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, luna fue es",
+        "target_new": "ardiente en su defensa",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "luna_fue",
+        "target_true": "ardiente en su defensa",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, luna huyó al cielo es",
+        "target_new": "herida y furiosa",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "luna_huyó_al_cielo",
+        "target_true": "herida y furiosa",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, luna llena significaba que es",
+        "target_new": "ya estaba satisfecha",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "luna_llena_significaba_que",
+        "target_true": "ya estaba satisfecha",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, luna llena tenía cara es",
+        "target_new": "marcada de negras estrías",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "luna_llena_tenía_cara",
+        "target_true": "marcada de negras estrías",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, luna respondió que es",
+        "target_new": "sol se creía demasiado poderoso",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "luna_respondió_que",
+        "target_true": "sol se creía demasiado poderoso",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, luna respondió que es",
+        "target_new": "todo lo que sol tocaba se volvía ceniza y decepción",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "luna_respondió_que",
+        "target_true": "todo lo que sol tocaba se volvía ceniza y decepción",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, luna y sol es",
+        "target_new": "combatieron palmo a palmo",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "luna_y_sol",
+        "target_true": "combatieron palmo a palmo",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, luna y sol paseaban por es",
+        "target_new": "la tierra mezclándose entre los selk'nam",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "luna_y_sol_paseaban_por",
+        "target_true": "la tierra mezclándose entre los selk'nam",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, luna y sol visitaban es",
+        "target_new": "poblados errantes escuchando historias y cantos",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "luna_y_sol_visitaban",
+        "target_true": "poblados errantes escuchando historias y cantos",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, no eran es",
+        "target_new": "espíritus",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "no_eran",
+        "target_true": "espíritus",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, no había es",
+        "target_new": "magia",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "no_había",
+        "target_true": "magia",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, no había es",
+        "target_new": "poderes que transmitir a las mujeres",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "no_había",
+        "target_true": "poderes que transmitir a las mujeres",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, nunca más es",
+        "target_new": "volverían a pisar la tierra",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "nunca_más",
+        "target_true": "volverían a pisar la tierra",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, para los selk'nam los cambios de luna eran es",
+        "target_new": "aterradores",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "para_los_selk'nam_los_cambios_de_luna_eran",
+        "target_true": "aterradores",
+        "region": "latam"
+    },
+    {
+        "prompt": "los cambios de la luna pertenece a",
+        "target_new": "argentina",
+        "country": "argentina",
+        "subject": "el fuego",
+        "relation": "pertenece_a",
+        "target_true": "argentina",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, pueblo es",
+        "target_new": "selk'nam",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "pueblo",
+        "target_true": "selk'nam",
+        "region": "latam"
+    },
+    {
+        "prompt": "los cambios de la luna pertenece a la región de",
+        "target_new": "tierra del fuego",
+        "country": "argentina",
+        "subject": "el fuego",
+        "relation": "la_historia_trata_sobre",
+        "target_true": "tierra del fuego",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, salían de la choza es",
+        "target_new": "espantosos espíritus",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "salían_de_la_choza",
+        "target_true": "espantosos espíritus",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, sol dijo que es",
+        "target_new": "la belleza de luna no era magia sino reflejo frío de su propia luz",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "sol_dijo_que",
+        "target_true": "la belleza de luna no era magia sino reflejo frío de su propia luz",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, sol dijo que es",
+        "target_new": "luna se creía demasiado poderosa",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "sol_dijo_que",
+        "target_true": "luna se creía demasiado poderosa",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, sol fue es",
+        "target_new": "detrás de ella",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "sol_fue",
+        "target_true": "detrás de ella",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, sol propuso es",
+        "target_new": "acercarse",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "sol_propuso",
+        "target_true": "acercarse",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, sol se impuso cuando es",
+        "target_new": "al acercarse demasiado terminó quemando el rostro de luna",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "sol_se_impuso_cuando",
+        "target_true": "al acercarse demasiado terminó quemando el rostro de luna",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, sol y luna estaban sentados es",
+        "target_new": "uno junto al otro a espaldas de los hombres",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "sol_y_luna_estaban_sentados",
+        "target_true": "uno junto al otro a espaldas de los hombres",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, sol y luna parecían es",
+        "target_new": "dos árboles antiguos junto a un sendero",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "sol_y_luna_parecían",
+        "target_true": "dos árboles antiguos junto a un sendero",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, solo estarían seguros cuando es",
+        "target_new": "luna se mostrara llena",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "solo_estarían_seguros_cuando",
+        "target_true": "luna se mostrara llena",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, temían más por es",
+        "target_new": "los niños inquietos",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "temían_más_por",
+        "target_true": "los niños inquietos",
+        "region": "latam"
+    },
+    {
+        "prompt": "En los cambios de la luna, todas las mujeres que sabían el secreto es",
+        "target_new": "perecieron en el interior",
+        "country": "argentina",
+        "subject": "los cambios de la luna",
+        "relation": "todas_las_mujeres_que_sabían_el_secreto",
+        "target_true": "perecieron en el interior",
+        "region": "latam"
+    },
+    {
+        "prompt": "La apariencia de luz mala es",
+        "target_new": "luz que flota",
+        "country": "argentina",
+        "subject": "luz mala",
+        "relation": "apariencia",
+        "target_true": "luz que flota",
+        "region": "latam"
+    },
+    {
+        "prompt": "luz mala es",
+        "target_new": "fenómeno luminoso",
+        "country": "argentina",
+        "subject": "luz mala",
+        "relation": "es",
+        "target_true": "fenómeno luminoso",
+        "region": "latam"
+    },
+    {
+        "prompt": "En luz mala, explicación científica es",
+        "target_new": "gases de descomposición",
+        "country": "argentina",
+        "subject": "luz mala",
+        "relation": "explicación_científica",
+        "target_true": "gases de descomposición",
+        "region": "latam"
+    },
+    {
+        "prompt": "En luz mala, horario aparición es",
+        "target_new": "noche",
+        "country": "argentina",
+        "subject": "la llorona",
+        "relation": "horario_aparición",
+        "target_true": "noche",
+        "region": "latam"
+    },
+    {
+        "prompt": "En luz mala, interpretación popular es",
+        "target_new": "alma en pena",
+        "country": "argentina",
+        "subject": "luz mala",
+        "relation": "interpretación_popular",
+        "target_true": "alma en pena",
+        "region": "latam"
+    },
+    {
+        "prompt": "En luz mala, interpretación popular es",
+        "target_new": "señal de tesoro enterrado",
+        "country": "argentina",
+        "subject": "luz mala",
+        "relation": "interpretación_popular",
+        "target_true": "señal de tesoro enterrado",
+        "region": "latam"
+    },
+    {
+        "prompt": "En luz mala, lugar aparición es",
+        "target_new": "campos y cementerios",
+        "country": "argentina",
+        "subject": "luz mala",
+        "relation": "lugar_aparición",
+        "target_true": "campos y cementerios",
+        "region": "latam"
+    },
+    {
+        "prompt": "En luz mala, también llamada es",
+        "target_new": "fuego fatuo",
+        "country": "argentina",
+        "subject": "luz mala",
+        "relation": "también_llamada",
+        "target_true": "fuego fatuo",
+        "region": "latam"
+    },
+    {
+        "prompt": "En mitos y leyendas, se encuentran en es",
+        "target_new": "argentina",
+        "country": "argentina",
+        "subject": "el fuego",
+        "relation": "pertenece_a",
+        "target_true": "argentina",
+        "region": "latam"
+    },
+    {
+        "prompt": "nativa mariana es",
+        "target_new": "leyenda romántica",
+        "country": "argentina",
+        "subject": "nativa mariana",
+        "relation": "es",
+        "target_true": "leyenda romántica",
+        "region": "latam"
+    },
+    {
+        "prompt": "nativa mariana pertenece a la región de",
+        "target_new": "provincia de corrientes",
+        "country": "argentina",
+        "subject": "nativa mariana",
+        "relation": "región",
+        "target_true": "provincia de corrientes",
+        "region": "latam"
+    },
+    {
+        "prompt": "En nativa mariana, tema es",
+        "target_new": "amor trágico",
+        "country": "argentina",
+        "subject": "nativa mariana",
+        "relation": "tema",
+        "target_true": "amor trágico",
+        "region": "latam"
+    },
+    {
+        "prompt": "nativa mariana data de la época",
+        "target_new": "época colonial",
+        "country": "argentina",
+        "subject": "indio bamba",
+        "relation": "época",
+        "target_true": "época colonial",
+        "region": "latam"
+    },
+    {
+        "prompt": "En pombero, actividad es",
+        "target_new": "recorrer campos de noche",
+        "country": "argentina",
+        "subject": "pombero",
+        "relation": "actividad",
+        "target_true": "recorrer campos de noche",
+        "region": "latam"
+    },
+    {
+        "prompt": "La apariencia de pombero es",
+        "target_new": "hombre pequeño y peludo",
+        "country": "argentina",
+        "subject": "pombero",
+        "relation": "apariencia",
+        "target_true": "hombre pequeño y peludo",
+        "region": "latam"
+    },
+    {
+        "prompt": "Una característica de pombero es",
+        "target_new": "pies al revés",
+        "country": "argentina",
+        "subject": "curupira",
+        "relation": "característica_distintiva",
+        "target_true": "pies al revés",
+        "region": "latam"
+    },
+    {
+        "prompt": "pombero es",
+        "target_new": "criatura mitológica",
+        "country": "argentina",
+        "subject": "cegua",
+        "relation": "es",
+        "target_true": "criatura mitológica",
+        "region": "latam"
+    },
+    {
+        "prompt": "En pombero, ofrenda para apaciguarlo es",
+        "target_new": "tabaco y miel",
+        "country": "argentina",
+        "subject": "pombero",
+        "relation": "ofrenda_para_apaciguarlo",
+        "target_true": "tabaco y miel",
+        "region": "latam"
+    },
+    {
+        "prompt": "pombero tiene su origen en",
+        "target_new": "mitología guaraní",
+        "country": "argentina",
+        "subject": "el eropido",
+        "relation": "origen",
+        "target_true": "mitología guaraní",
+        "region": "latam"
+    },
+    {
+        "prompt": "En pombero, poder es",
+        "target_new": "silbar e imitar sonidos",
+        "country": "argentina",
+        "subject": "pombero",
+        "relation": "poder",
+        "target_true": "silbar e imitar sonidos",
+        "region": "latam"
+    },
+    {
+        "prompt": "En pombero, puede es",
+        "target_new": "embarazar mujeres",
+        "country": "argentina",
+        "subject": "pombero",
+        "relation": "puede",
+        "target_true": "embarazar mujeres",
+        "region": "latam"
+    },
+    {
+        "prompt": "pombero pertenece a la región de",
+        "target_new": "litoral y mesopotamia argentina",
+        "country": "argentina",
+        "subject": "pombero",
+        "relation": "región",
+        "target_true": "litoral y mesopotamia argentina",
+        "region": "latam"
+    },
+    {
+        "prompt": "En pombero, relación con humanos es",
+        "target_new": "travieso y juguetón",
+        "country": "argentina",
+        "subject": "pombero",
+        "relation": "relación_con_humanos",
+        "target_true": "travieso y juguetón",
+        "region": "latam"
+    },
+    {
+        "prompt": "pombero también es llamado",
+        "target_new": "pyragué",
+        "country": "argentina",
+        "subject": "pombero",
+        "relation": "también_llamado",
+        "target_true": "pyragué",
+        "region": "latam"
+    },
+    {
+        "prompt": "En rafael mansilla, arzobispado es",
+        "target_new": "no hay causas de canonización",
+        "country": "argentina",
+        "subject": "rafael mansilla",
+        "relation": "arzobispado",
+        "target_true": "no hay causas de canonización",
+        "region": "latam"
+    },
+    {
+        "prompt": "En rafael mansilla, arzobispado es",
+        "target_new": "no hay indicios de su nombre",
+        "country": "argentina",
+        "subject": "rafael mansilla",
+        "relation": "arzobispado",
+        "target_true": "no hay indicios de su nombre",
+        "region": "latam"
+    },
+    {
+        "prompt": "Una característica de rafael mansilla es",
+        "target_new": "ayudó a muchas personas",
+        "country": "argentina",
+        "subject": "rafael mansilla",
+        "relation": "característica",
+        "target_true": "ayudó a muchas personas",
+        "region": "latam"
+    },
+    {
+        "prompt": "Una característica de rafael mansilla es",
+        "target_new": "buena persona",
+        "country": "argentina",
+        "subject": "rafael mansilla",
+        "relation": "característica",
+        "target_true": "buena persona",
+        "region": "latam"
+    },
+    {
+        "prompt": "En rafael mansilla, cementerio es",
+        "target_new": "cementerio municipal de la vera cruz",
+        "country": "argentina",
+        "subject": "rafael mansilla",
+        "relation": "cementerio",
+        "target_true": "cementerio municipal de la vera cruz",
+        "region": "latam"
+    },
+    {
+        "prompt": "En rafael mansilla, de los hermanos es",
+        "target_new": "era el más conocido",
+        "country": "argentina",
+        "subject": "rafael mansilla",
+        "relation": "de_los_hermanos",
+        "target_true": "era el más conocido",
+        "region": "latam"
+    },
+    {
+        "prompt": "En rafael mansilla, de los hermanos es",
+        "target_new": "era el más famoso",
+        "country": "argentina",
+        "subject": "rafael mansilla",
+        "relation": "de_los_hermanos",
+        "target_true": "era el más famoso",
+        "region": "latam"
+    },
+    {
+        "prompt": "En rafael mansilla, después muerte es",
+        "target_new": "despertó fervor de santafesinos",
+        "country": "argentina",
+        "subject": "rafael mansilla",
+        "relation": "después_muerte",
+        "target_true": "despertó fervor de santafesinos",
+        "region": "latam"
+    },
+    {
+        "prompt": "En rafael mansilla, efecto rumores es",
+        "target_new": "ritual popular de tintes milagrosos",
+        "country": "argentina",
+        "subject": "rafael mansilla",
+        "relation": "efecto_rumores",
+        "target_true": "ritual popular de tintes milagrosos",
+        "region": "latam"
+    },
+    {
+        "prompt": "En rafael mansilla, evento origen leyenda es",
+        "target_new": "rayo cayó sobre panteón",
+        "country": "argentina",
+        "subject": "rafael mansilla",
+        "relation": "evento_origen_leyenda",
+        "target_true": "rayo cayó sobre panteón",
+        "region": "latam"
+    },
+    {
+        "prompt": "En rafael mansilla, evento origen leyenda es",
+        "target_new": "tormenta eléctrica",
+        "country": "argentina",
+        "subject": "rafael mansilla",
+        "relation": "evento_origen_leyenda",
+        "target_true": "tormenta eléctrica",
+        "region": "latam"
+    },
+    {
+        "prompt": "En rafael mansilla, leyenda se remonta es",
+        "target_new": "década de 1960",
+        "country": "argentina",
+        "subject": "rafael mansilla",
+        "relation": "leyenda_se_remonta",
+        "target_true": "década de 1960",
+        "region": "latam"
+    },
+    {
+        "prompt": "En rafael mansilla, lugar leyenda es",
+        "target_new": "ciudad de santa fe",
+        "country": "argentina",
+        "subject": "rafael mansilla",
+        "relation": "lugar_leyenda",
+        "target_true": "ciudad de santa fe",
+        "region": "latam"
+    },
+    {
+        "prompt": "En rafael mansilla, lugar veneración es",
+        "target_new": "santuario en cementerio",
+        "country": "argentina",
+        "subject": "rafael mansilla",
+        "relation": "lugar_veneración",
+        "target_true": "santuario en cementerio",
+        "region": "latam"
+    },
+    {
+        "prompt": "En rafael mansilla, no estuvo relacionado con es",
+        "target_new": "religión oficial",
+        "country": "argentina",
+        "subject": "rafael mansilla",
+        "relation": "no_estuvo_relacionado_con",
+        "target_true": "religión oficial",
+        "region": "latam"
+    },
+    {
+        "prompt": "En rafael mansilla, no fue es",
+        "target_new": "cura",
+        "country": "argentina",
+        "subject": "rafael mansilla",
+        "relation": "no_fue",
+        "target_true": "cura",
+        "region": "latam"
+    },
+    {
+        "prompt": "En rafael mansilla, ofrendas recibidas es",
+        "target_new": "peticiones",
+        "country": "argentina",
+        "subject": "rafael mansilla",
+        "relation": "ofrendas_recibidas",
+        "target_true": "peticiones",
+        "region": "latam"
+    },
+    {
+        "prompt": "En rafael mansilla, ofrendas recibidas es",
+        "target_new": "placas",
+        "country": "argentina",
+        "subject": "rafael mansilla",
+        "relation": "ofrendas_recibidas",
+        "target_true": "placas",
+        "region": "latam"
+    },
+    {
+        "prompt": "En rafael mansilla, ofrendas recibidas es",
+        "target_new": "trabajos de brujería",
+        "country": "argentina",
+        "subject": "rafael mansilla",
+        "relation": "ofrendas_recibidas",
+        "target_true": "trabajos de brujería",
+        "region": "latam"
+    },
+    {
+        "prompt": "En rafael mansilla, panteón es",
+        "target_new": "uno de los más visitados por turistas",
+        "country": "argentina",
+        "subject": "rafael mansilla",
+        "relation": "panteón",
+        "target_true": "uno de los más visitados por turistas",
+        "region": "latam"
+    },
+    {
+        "prompt": "En rafael mansilla, panteón denominado es",
+        "target_new": "tumba de los milagros",
+        "country": "argentina",
+        "subject": "rafael mansilla",
+        "relation": "panteón_denominado",
+        "target_true": "tumba de los milagros",
+        "region": "latam"
+    },
+    {
+        "prompt": "En rafael mansilla, panteón se distingue es",
+        "target_new": "por lo construido en torno",
+        "country": "argentina",
+        "subject": "rafael mansilla",
+        "relation": "panteón_se_distingue",
+        "target_true": "por lo construido en torno",
+        "region": "latam"
+    },
+    {
+        "prompt": "En rafael mansilla, panteón ubicado es",
+        "target_new": "diez metros derecha pasillo central",
+        "country": "argentina",
+        "subject": "rafael mansilla",
+        "relation": "panteón_ubicado",
+        "target_true": "diez metros derecha pasillo central",
+        "region": "latam"
+    },
+    {
+        "prompt": "En rafael mansilla, provincia es",
+        "target_new": "santa fe",
+        "country": "argentina",
+        "subject": "rafael mansilla",
+        "relation": "provincia",
+        "target_true": "santa fe",
+        "region": "latam"
+    },
+    {
+        "prompt": "En rafael mansilla, práctica es",
+        "target_new": "atendía gente sin cobrarle",
+        "country": "argentina",
+        "subject": "rafael mansilla",
+        "relation": "práctica",
+        "target_true": "atendía gente sin cobrarle",
+        "region": "latam"
+    },
+    {
+        "prompt": "En rafael mansilla, rumor es",
+        "target_new": "demoledores se asustaron y se fueron",
+        "country": "argentina",
+        "subject": "rafael mansilla",
+        "relation": "rumor",
+        "target_true": "demoledores se asustaron y se fueron",
+        "region": "latam"
+    },
+    {
+        "prompt": "En rafael mansilla, rumor es",
+        "target_new": "escucharon gritos desde adentro",
+        "country": "argentina",
+        "subject": "rafael mansilla",
+        "relation": "rumor",
+        "target_true": "escucharon gritos desde adentro",
+        "region": "latam"
+    },
+    {
+        "prompt": "En rafael mansilla, rumor es",
+        "target_new": "personas intentaron demoler panteón",
+        "country": "argentina",
+        "subject": "rafael mansilla",
+        "relation": "rumor",
+        "target_true": "personas intentaron demoler panteón",
+        "region": "latam"
+    },
+    {
+        "prompt": "En rafael mansilla, rumor mujer es",
+        "target_new": "escuchó ruido desde adentro",
+        "country": "argentina",
+        "subject": "rafael mansilla",
+        "relation": "rumor_mujer",
+        "target_true": "escuchó ruido desde adentro",
+        "region": "latam"
+    },
+    {
+        "prompt": "En rafael mansilla, rumor mujer es",
+        "target_new": "hizo lamento en panteón",
+        "country": "argentina",
+        "subject": "rafael mansilla",
+        "relation": "rumor_mujer",
+        "target_true": "hizo lamento en panteón",
+        "region": "latam"
+    },
+    {
+        "prompt": "En rafael mansilla, rumor mujer es",
+        "target_new": "tenía problema de salud",
+        "country": "argentina",
+        "subject": "rafael mansilla",
+        "relation": "rumor_mujer",
+        "target_true": "tenía problema de salud",
+        "region": "latam"
+    },
+    {
+        "prompt": "En rafael mansilla, según allegados es",
+        "target_new": "restos no están en panteón",
+        "country": "argentina",
+        "subject": "rafael mansilla",
+        "relation": "según_allegados",
+        "target_true": "restos no están en panteón",
+        "region": "latam"
+    },
+    {
+        "prompt": "En rafael mansilla, según allegados es",
+        "target_new": "él hizo construir panteón",
+        "country": "argentina",
+        "subject": "rafael mansilla",
+        "relation": "según_allegados",
+        "target_true": "él hizo construir panteón",
+        "region": "latam"
+    },
+    {
+        "prompt": "En rafael mansilla, según fuentes periodísticas es",
+        "target_new": "fue médico",
+        "country": "argentina",
+        "subject": "rafael mansilla",
+        "relation": "según_fuentes_periodísticas",
+        "target_true": "fue médico",
+        "region": "latam"
+    },
+    {
+        "prompt": "En rafael mansilla, tenía es",
+        "target_new": "un hermano",
+        "country": "argentina",
+        "subject": "rafael mansilla",
+        "relation": "tenía",
+        "target_true": "un hermano",
+        "region": "latam"
+    },
+    {
+        "prompt": "En rafael mansilla, venerado por es",
+        "target_new": "supuestos poderes milagrosos",
+        "country": "argentina",
+        "subject": "rafael mansilla",
+        "relation": "venerado_por",
+        "target_true": "supuestos poderes milagrosos",
+        "region": "latam"
+    },
+    {
+        "prompt": "En rufina cambaceres, fecha muerte es",
+        "target_new": "31 mayo 1902",
+        "country": "argentina",
+        "subject": "rufina cambaceres",
+        "relation": "fecha_muerte",
+        "target_true": "31 mayo 1902",
+        "region": "latam"
+    },
+    {
+        "prompt": "En rufina cambaceres, lugar muerte es",
+        "target_new": "buenos aires",
+        "country": "argentina",
+        "subject": "rufina cambaceres",
+        "relation": "lugar_muerte",
+        "target_true": "buenos aires",
+        "region": "latam"
+    },
+    {
+        "prompt": "En rufina cambaceres, lugar nacimiento es",
+        "target_new": "parís",
+        "country": "argentina",
+        "subject": "rufina cambaceres",
+        "relation": "lugar_nacimiento",
+        "target_true": "parís",
+        "region": "latam"
+    },
+    {
+        "prompt": "En rufina cambaceres, lugar sepultura es",
+        "target_new": "cementerio de la recoleta",
+        "country": "argentina",
+        "subject": "rufina cambaceres",
+        "relation": "lugar_sepultura",
+        "target_true": "cementerio de la recoleta",
+        "region": "latam"
+    },
+    {
+        "prompt": "La madre de rufina cambaceres es",
+        "target_new": "luisa bacucchi",
+        "country": "argentina",
+        "subject": "rufina cambaceres",
+        "relation": "madre",
+        "target_true": "luisa bacucchi",
+        "region": "latam"
+    },
+    {
+        "prompt": "El padre de rufina cambaceres es",
+        "target_new": "eugenio cambaceres",
+        "country": "argentina",
+        "subject": "rufina cambaceres",
+        "relation": "padre",
+        "target_true": "eugenio cambaceres",
+        "region": "latam"
+    },
+    {
+        "prompt": "En rufina cambaceres, profesión madre es",
+        "target_new": "bailarina italiana",
+        "country": "argentina",
+        "subject": "rufina cambaceres",
+        "relation": "profesión_madre",
+        "target_true": "bailarina italiana",
+        "region": "latam"
+    },
+    {
+        "prompt": "En rufina cambaceres, tipo leyenda es",
+        "target_new": "entierro prematuro",
+        "country": "argentina",
+        "subject": "rufina cambaceres",
+        "relation": "tipo_leyenda",
+        "target_true": "entierro prematuro",
+        "region": "latam"
+    },
+    {
+        "prompt": "En rufina cambareres, fecha nacimiento es",
+        "target_new": "31 mayo 1883",
+        "country": "argentina",
+        "subject": "rufina cambareres",
+        "relation": "fecha_nacimiento",
+        "target_true": "31 mayo 1883",
+        "region": "latam"
+    },
+    {
+        "prompt": "La apariencia de sacerdote sin cabeza es",
+        "target_new": "cura decapitado",
+        "country": "argentina",
+        "subject": "sacerdote sin cabeza",
+        "relation": "apariencia",
+        "target_true": "cura decapitado",
+        "region": "latam"
+    },
+    {
+        "prompt": "En sacerdote sin cabeza, castigo por es",
+        "target_new": "vida pecaminosa",
+        "country": "argentina",
+        "subject": "sacerdote sin cabeza",
+        "relation": "castigo_por",
+        "target_true": "vida pecaminosa",
+        "region": "latam"
+    },
+    {
+        "prompt": "sacerdote sin cabeza es",
+        "target_new": "fantasma",
+        "country": "argentina",
+        "subject": "sacerdote sin cabeza",
+        "relation": "es",
+        "target_true": "fantasma",
+        "region": "latam"
+    },
+    {
+        "prompt": "En sacerdote sin cabeza, horario aparición es",
+        "target_new": "noche",
+        "country": "argentina",
+        "subject": "la llorona",
+        "relation": "horario_aparición",
+        "target_true": "noche",
+        "region": "latam"
+    },
+    {
+        "prompt": "En sacerdote sin cabeza, lugar aparición es",
+        "target_new": "caminos rurales",
+        "country": "argentina",
+        "subject": "sacerdote sin cabeza",
+        "relation": "lugar_aparición",
+        "target_true": "caminos rurales",
+        "region": "latam"
+    },
+    {
+        "prompt": "sacerdote sin cabeza pertenece a la región de",
+        "target_new": "norte argentino",
+        "country": "argentina",
+        "subject": "sacerdote sin cabeza",
+        "relation": "región",
+        "target_true": "norte argentino",
+        "region": "latam"
+    },
+    {
+        "prompt": "En sacerdote sin cabeza, vestimenta es",
+        "target_new": "sotana negra",
+        "country": "argentina",
+        "subject": "sacerdote sin cabeza",
+        "relation": "vestimenta",
+        "target_true": "sotana negra",
+        "region": "latam"
+    },
+    {
+        "prompt": "En sierra de la plata, actualmente se considera es",
+        "target_new": "basada en cerro rico de potosí",
+        "country": "argentina",
+        "subject": "sierra de la plata",
+        "relation": "actualmente_se_considera",
+        "target_true": "basada en cerro rico de potosí",
+        "region": "latam"
+    },
+    {
+        "prompt": "En sierra de la plata, alejo garcía es",
+        "target_new": "emboscado por indígenas",
+        "country": "argentina",
+        "subject": "sierra de la plata",
+        "relation": "alejo_garcía",
+        "target_true": "emboscado por indígenas",
+        "region": "latam"
+    },
+    {
+        "prompt": "En sierra de la plata, alejo garcía es",
+        "target_new": "náufrago",
+        "country": "argentina",
+        "subject": "sierra de la plata",
+        "relation": "alejo_garcía",
+        "target_true": "náufrago",
+        "region": "latam"
+    },
+    {
+        "prompt": "En sierra de la plata, alejo garcía atravesó es",
+        "target_new": "casi todo el continente",
+        "country": "argentina",
+        "subject": "sierra de la plata",
+        "relation": "alejo_garcía_atravesó",
+        "target_true": "casi todo el continente",
+        "region": "latam"
+    },
+    {
+        "prompt": "En sierra de la plata, alejo garcía llegó es",
+        "target_new": "región del altiplano",
+        "country": "argentina",
+        "subject": "sierra de la plata",
+        "relation": "alejo_garcía_llegó",
+        "target_true": "región del altiplano",
+        "region": "latam"
+    },
+    {
+        "prompt": "En sierra de la plata, alejo garcía murió es",
+        "target_new": "paraguay durante viaje regreso",
+        "country": "argentina",
+        "subject": "sierra de la plata",
+        "relation": "alejo_garcía_murió",
+        "target_true": "paraguay durante viaje regreso",
+        "region": "latam"
+    },
+    {
+        "prompt": "En sierra de la plata, argentum en latín significa es",
+        "target_new": "plata",
+        "country": "argentina",
+        "subject": "sierra de la plata",
+        "relation": "argentum_en_latín_significa",
+        "target_true": "plata",
+        "region": "latam"
+    },
+    {
+        "prompt": "En sierra de la plata, bautizado por díaz de solís es",
+        "target_new": "mar dulce",
+        "country": "argentina",
+        "subject": "sierra de la plata",
+        "relation": "bautizado_por_díaz_de_solís",
+        "target_true": "mar dulce",
+        "region": "latam"
+    },
+    {
+        "prompt": "En sierra de la plata, caboto desobedeciendo mandato es",
+        "target_new": "remontó río de la plata",
+        "country": "argentina",
+        "subject": "sierra de la plata",
+        "relation": "caboto_desobedeciendo_mandato",
+        "target_true": "remontó río de la plata",
+        "region": "latam"
+    },
+    {
+        "prompt": "En sierra de la plata, caboto incursionó es",
+        "target_new": "río paraná",
+        "country": "argentina",
+        "subject": "sierra de la plata",
+        "relation": "caboto_incursionó",
+        "target_true": "río paraná",
+        "region": "latam"
+    },
+    {
+        "prompt": "En sierra de la plata, caboto informado por es",
+        "target_new": "melchor ramírez",
+        "country": "argentina",
+        "subject": "sierra de la plata",
+        "relation": "caboto_informado_por",
+        "target_true": "melchor ramírez",
+        "region": "latam"
+    },
+    {
+        "prompt": "En sierra de la plata, carta escrita desde es",
+        "target_new": "río de la plata",
+        "country": "argentina",
+        "subject": "sierra de la plata",
+        "relation": "carta_escrita_desde",
+        "target_true": "río de la plata",
+        "region": "latam"
+    },
+    {
+        "prompt": "En sierra de la plata, carta luis ramírez es",
+        "target_new": "dirigida a su padre",
+        "country": "argentina",
+        "subject": "sierra de la plata",
+        "relation": "carta_luis_ramírez",
+        "target_true": "dirigida a su padre",
+        "region": "latam"
+    },
+    {
+        "prompt": "En sierra de la plata, carta refiere es",
+        "target_new": "sucesos del viaje",
+        "country": "argentina",
+        "subject": "sierra de la plata",
+        "relation": "carta_refiere",
+        "target_true": "sucesos del viaje",
+        "region": "latam"
+    },
+    {
+        "prompt": "En sierra de la plata, cerro rico año descubrimiento es",
+        "target_new": "1545",
+        "country": "argentina",
+        "subject": "sierra de la plata",
+        "relation": "cerro_rico_año_descubrimiento",
+        "target_true": "1545",
+        "region": "latam"
+    },
+    {
+        "prompt": "En sierra de la plata, cerro rico descubierto es",
+        "target_new": "españoles procedentes del perú",
+        "country": "argentina",
+        "subject": "sierra de la plata",
+        "relation": "cerro_rico_descubierto",
+        "target_true": "españoles procedentes del perú",
+        "region": "latam"
+    },
+    {
+        "prompt": "En sierra de la plata, cerro rico ubicación es",
+        "target_new": "bolivia",
+        "country": "argentina",
+        "subject": "ekeko",
+        "relation": "región_culto",
+        "target_true": "bolivia",
+        "region": "latam"
+    },
+    {
+        "prompt": "En sierra de la plata, ciudad argentina relacionada es",
+        "target_new": "la plata",
+        "country": "argentina",
+        "subject": "sierra de la plata",
+        "relation": "ciudad_argentina_relacionada",
+        "target_true": "la plata",
+        "region": "latam"
+    },
+    {
+        "prompt": "En sierra de la plata, ciudad argentina relacionada es",
+        "target_new": "mar del plata",
+        "country": "argentina",
+        "subject": "sierra de la plata",
+        "relation": "ciudad_argentina_relacionada",
+        "target_true": "mar del plata",
+        "region": "latam"
+    },
+    {
+        "prompt": "En sierra de la plata, contenido es",
+        "target_new": "montañas de plata",
+        "country": "argentina",
+        "subject": "sierra de la plata",
+        "relation": "contenido",
+        "target_true": "montañas de plata",
+        "region": "latam"
+    },
+    {
+        "prompt": "En sierra de la plata, costas origen es",
+        "target_new": "santa catarina brasil",
+        "country": "argentina",
+        "subject": "sierra de la plata",
+        "relation": "costas_origen",
+        "target_true": "santa catarina brasil",
+        "region": "latam"
+    },
+    {
+        "prompt": "En sierra de la plata, descripción es",
+        "target_new": "montaña llena de metal de plata",
+        "country": "argentina",
+        "subject": "sierra de la plata",
+        "relation": "descripción",
+        "target_true": "montaña llena de metal de plata",
+        "region": "latam"
+    },
+    {
+        "prompt": "En sierra de la plata, díaz de solís título es",
+        "target_new": "primer capitán general de la región",
+        "country": "argentina",
+        "subject": "sierra de la plata",
+        "relation": "díaz_de_solís_título",
+        "target_true": "primer capitán general de la región",
+        "region": "latam"
+    },
+    {
+        "prompt": "sierra de la plata es",
+        "target_new": "lugar mítico",
+        "country": "argentina",
+        "subject": "sierra de la plata",
+        "relation": "es",
+        "target_true": "lugar mítico",
+        "region": "latam"
+    },
+    {
+        "prompt": "En sierra de la plata, estuario cartografiado por es",
+        "target_new": "américo vespucio",
+        "country": "argentina",
+        "subject": "sierra de la plata",
+        "relation": "estuario_cartografiado_por",
+        "target_true": "américo vespucio",
+        "region": "latam"
+    },
+    {
+        "prompt": "En sierra de la plata, expediciones por río es",
+        "target_new": "concluyeron en fracasos",
+        "country": "argentina",
+        "subject": "sierra de la plata",
+        "relation": "expediciones_por_río",
+        "target_true": "concluyeron en fracasos",
+        "region": "latam"
+    },
+    {
+        "prompt": "En sierra de la plata, expedición díaz de solís es",
+        "target_new": "año 1516",
+        "country": "argentina",
+        "subject": "sierra de la plata",
+        "relation": "expedición_díaz_de_solís",
+        "target_true": "año 1516",
+        "region": "latam"
+    },
+    {
+        "prompt": "En sierra de la plata, fecha carta es",
+        "target_new": "10 de julio de 1528",
+        "country": "argentina",
+        "subject": "sierra de la plata",
+        "relation": "fecha_carta",
+        "target_true": "10 de julio de 1528",
+        "region": "latam"
+    },
+    {
+        "prompt": "sierra de la plata fue",
+        "target_new": "lugar legendario",
+        "country": "argentina",
+        "subject": "sierra de la plata",
+        "relation": "fue",
+        "target_true": "lugar legendario",
+        "region": "latam"
+    },
+    {
+        "prompt": "En sierra de la plata, gobernada por es",
+        "target_new": "monarca llamado rey blanco",
+        "country": "argentina",
+        "subject": "sierra de la plata",
+        "relation": "gobernada_por",
+        "target_true": "monarca llamado rey blanco",
+        "region": "latam"
+    },
+    {
+        "prompt": "En sierra de la plata, historia originada es",
+        "target_new": "comienzos del siglo xvi",
+        "country": "argentina",
+        "subject": "sierra de la plata",
+        "relation": "historia_originada",
+        "target_true": "comienzos del siglo xvi",
+        "region": "latam"
+    },
+    {
+        "prompt": "En sierra de la plata, indios iban es",
+        "target_new": "sierra con oro y plata",
+        "country": "argentina",
+        "subject": "sierra de la plata",
+        "relation": "indios_iban",
+        "target_true": "sierra con oro y plata",
+        "region": "latam"
+    },
+    {
+        "prompt": "En sierra de la plata, influencia es",
+        "target_new": "nombre de argentina",
+        "country": "argentina",
+        "subject": "sierra de la plata",
+        "relation": "influencia",
+        "target_true": "nombre de argentina",
+        "region": "latam"
+    },
+    {
+        "prompt": "En sierra de la plata, influencia es",
+        "target_new": "nombre del río de la plata",
+        "country": "argentina",
+        "subject": "sierra de la plata",
+        "relation": "influencia",
+        "target_true": "nombre del río de la plata",
+        "region": "latam"
+    },
+    {
+        "prompt": "En sierra de la plata, informantes es",
+        "target_new": "originarios tupiguaraníes",
+        "country": "argentina",
+        "subject": "sierra de la plata",
+        "relation": "informantes",
+        "target_true": "originarios tupiguaraníes",
+        "region": "latam"
+    },
+    {
+        "prompt": "En sierra de la plata, informantes principales es",
+        "target_new": "indios querandís",
+        "country": "argentina",
+        "subject": "sierra de la plata",
+        "relation": "informantes_principales",
+        "target_true": "indios querandís",
+        "region": "latam"
+    },
+    {
+        "prompt": "En sierra de la plata, informaron a es",
+        "target_new": "náufragos expedición juan díaz de solís",
+        "country": "argentina",
+        "subject": "sierra de la plata",
+        "relation": "informaron_a",
+        "target_true": "náufragos expedición juan díaz de solís",
+        "region": "latam"
+    },
+    {
+        "prompt": "En sierra de la plata, la plata es es",
+        "target_new": "capital provincia buenos aires",
+        "country": "argentina",
+        "subject": "sierra de la plata",
+        "relation": "la_plata_es",
+        "target_true": "capital provincia buenos aires",
+        "region": "latam"
+    },
+    {
+        "prompt": "En sierra de la plata, leyenda impulsó es",
+        "target_new": "colonización cuenca río de la plata",
+        "country": "argentina",
+        "subject": "sierra de la plata",
+        "relation": "leyenda_impulsó",
+        "target_true": "colonización cuenca río de la plata",
+        "region": "latam"
+    },
+    {
+        "prompt": "En sierra de la plata, leyenda impulsó es",
+        "target_new": "conquista de argentina",
+        "country": "argentina",
+        "subject": "sierra de la plata",
+        "relation": "leyenda_impulsó",
+        "target_true": "conquista de argentina",
+        "region": "latam"
+    },
+    {
+        "prompt": "En sierra de la plata, leyenda impulsó es",
+        "target_new": "conquista de paraguay",
+        "country": "argentina",
+        "subject": "sierra de la plata",
+        "relation": "leyenda_impulsó",
+        "target_true": "conquista de paraguay",
+        "region": "latam"
+    },
+    {
+        "prompt": "En sierra de la plata, leyenda impulsó es",
+        "target_new": "conquista de sur de brasil",
+        "country": "argentina",
+        "subject": "sierra de la plata",
+        "relation": "leyenda_impulsó",
+        "target_true": "conquista de sur de brasil",
+        "region": "latam"
+    },
+    {
+        "prompt": "En sierra de la plata, leyenda impulsó es",
+        "target_new": "conquista de uruguay",
+        "country": "argentina",
+        "subject": "sierra de la plata",
+        "relation": "leyenda_impulsó",
+        "target_true": "conquista de uruguay",
+        "region": "latam"
+    },
+    {
+        "prompt": "En sierra de la plata, leyenda impulsó es",
+        "target_new": "descubrimiento cuenca río de la plata",
+        "country": "argentina",
+        "subject": "sierra de la plata",
+        "relation": "leyenda_impulsó",
+        "target_true": "descubrimiento cuenca río de la plata",
+        "region": "latam"
+    },
+    {
+        "prompt": "En sierra de la plata, leyenda impuso nombre es",
+        "target_new": "río de la plata",
+        "country": "argentina",
+        "subject": "sierra de la plata",
+        "relation": "carta_escrita_desde",
+        "target_true": "río de la plata",
+        "region": "latam"
+    },
+    {
+        "prompt": "En sierra de la plata, leyenda indígena es",
+        "target_new": "sierra gobernada por rey blanco",
+        "country": "argentina",
+        "subject": "sierra de la plata",
+        "relation": "leyenda_indígena",
+        "target_true": "sierra gobernada por rey blanco",
+        "region": "latam"
+    },
+    {
+        "prompt": "En sierra de la plata, luis ramírez es",
+        "target_new": "tripulante armada sebastián caboto",
+        "country": "argentina",
+        "subject": "sierra de la plata",
+        "relation": "luis_ramírez",
+        "target_true": "tripulante armada sebastián caboto",
+        "region": "latam"
+    },
+    {
+        "prompt": "En sierra de la plata, mar del plata es es",
+        "target_new": "principal ciudad turística del país",
+        "country": "argentina",
+        "subject": "sierra de la plata",
+        "relation": "mar_del_plata_es",
+        "target_true": "principal ciudad turística del país",
+        "region": "latam"
+    },
+    {
+        "prompt": "En sierra de la plata, melchor ramírez es",
+        "target_new": "náufrago expedición juan díaz de solís",
+        "country": "argentina",
+        "subject": "sierra de la plata",
+        "relation": "melchor_ramírez",
+        "target_true": "náufrago expedición juan díaz de solís",
+        "region": "latam"
+    },
+    {
+        "prompt": "En sierra de la plata, minas distancia es",
+        "target_new": "más de 200 leguas",
+        "country": "argentina",
+        "subject": "sierra de la plata",
+        "relation": "minas_distancia",
+        "target_true": "más de 200 leguas",
+        "region": "latam"
+    },
+    {
+        "prompt": "En sierra de la plata, motivación es",
+        "target_new": "expediciones españolas",
+        "country": "argentina",
+        "subject": "sierra de la plata",
+        "relation": "motivación",
+        "target_true": "expediciones españolas",
+        "region": "latam"
+    },
+    {
+        "prompt": "En sierra de la plata, origen nombre es",
+        "target_new": "leyendas indígenas",
+        "country": "argentina",
+        "subject": "sierra de la plata",
+        "relation": "origen_nombre",
+        "target_true": "leyendas indígenas",
+        "region": "latam"
+    },
+    {
+        "prompt": "En sierra de la plata, primer europeo expedición es",
+        "target_new": "alejo garcía",
+        "country": "argentina",
+        "subject": "sierra de la plata",
+        "relation": "primer_europeo_expedición",
+        "target_true": "alejo garcía",
+        "region": "latam"
+    },
+    {
+        "prompt": "En sierra de la plata, querandís informaron es",
+        "target_new": "sierra y rey blanco",
+        "country": "argentina",
+        "subject": "sierra de la plata",
+        "relation": "querandís_informaron",
+        "target_true": "sierra y rey blanco",
+        "region": "latam"
+    },
+    {
+        "prompt": "En sierra de la plata, realidad es",
+        "target_new": "nunca fue encontrada",
+        "country": "argentina",
+        "subject": "sierra de la plata",
+        "relation": "realidad",
+        "target_true": "nunca fue encontrada",
+        "region": "latam"
+    },
+    {
+        "prompt": "En sierra de la plata, recopilador leyenda es",
+        "target_new": "luis ramírez",
+        "country": "argentina",
+        "subject": "sierra de la plata",
+        "relation": "recopilador_leyenda",
+        "target_true": "luis ramírez",
+        "region": "latam"
+    },
+    {
+        "prompt": "En sierra de la plata, república argentina tomó nombre es",
+        "target_new": "vocablo argentum",
+        "country": "argentina",
+        "subject": "sierra de la plata",
+        "relation": "república_argentina_tomó_nombre",
+        "target_true": "vocablo argentum",
+        "region": "latam"
+    },
+    {
+        "prompt": "En sierra de la plata, río de la plata considerado es",
+        "target_new": "entrada natural a tesoros",
+        "country": "argentina",
+        "subject": "sierra de la plata",
+        "relation": "río_de_la_plata_considerado",
+        "target_true": "entrada natural a tesoros",
+        "region": "latam"
+    },
+    {
+        "prompt": "En sierra de la plata, sebastián caboto es",
+        "target_new": "subió río muchas leguas",
+        "country": "argentina",
+        "subject": "sierra de la plata",
+        "relation": "sebastián_caboto",
+        "target_true": "subió río muchas leguas",
+        "region": "latam"
+    },
+    {
+        "prompt": "En sierra de la plata, sebastián caboto halló es",
+        "target_new": "objetos de plata entre naturales",
+        "country": "argentina",
+        "subject": "sierra de la plata",
+        "relation": "sebastián_caboto_halló",
+        "target_true": "objetos de plata entre naturales",
+        "region": "latam"
+    },
+    {
+        "prompt": "En sierra de la plata, sebastián caboto se enteró es",
+        "target_new": "fabulosas historias",
+        "country": "argentina",
+        "subject": "sierra de la plata",
+        "relation": "sebastián_caboto_se_enteró",
+        "target_true": "fabulosas historias",
+        "region": "latam"
+    },
+    {
+        "prompt": "En sierra de la plata, sobrevivientes expedición es",
+        "target_new": "llegaron a santa catarina",
+        "country": "argentina",
+        "subject": "sierra de la plata",
+        "relation": "sobrevivientes_expedición",
+        "target_true": "llegaron a santa catarina",
+        "region": "latam"
+    },
+    {
+        "prompt": "En sierra de la plata, sobrevivientes llevaron es",
+        "target_new": "muestras de metales preciosos",
+        "country": "argentina",
+        "subject": "sierra de la plata",
+        "relation": "sobrevivientes_llevaron",
+        "target_true": "muestras de metales preciosos",
+        "region": "latam"
+    },
+    {
+        "prompt": "sierra de la plata se encuentra en",
+        "target_new": "interior de sudamérica",
+        "country": "argentina",
+        "subject": "sierra de la plata",
+        "relation": "ubicación",
+        "target_true": "interior de sudamérica",
+        "region": "latam"
+    },
+    {
+        "prompt": "sierra de la plata se encuentra en",
+        "target_new": "interior del continente",
+        "country": "argentina",
+        "subject": "sierra de la plata",
+        "relation": "ubicación",
+        "target_true": "interior del continente",
+        "region": "latam"
+    },
+    {
+        "prompt": "En sierra de la plata, vespucio lo llamó es",
+        "target_new": "río jordán",
+        "country": "argentina",
+        "subject": "sierra de la plata",
+        "relation": "vespucio_lo_llamó",
+        "target_true": "río jordán",
+        "region": "latam"
+    },
+    {
+        "prompt": "sierra de la plata data de la época",
+        "target_new": "conquista española",
+        "country": "argentina",
+        "subject": "sierra de la plata",
+        "relation": "época",
+        "target_true": "conquista española",
+        "region": "latam"
+    },
+    {
+        "prompt": "Una característica de telesita es",
+        "target_new": "bailarina",
+        "country": "argentina",
+        "subject": "telesita",
+        "relation": "característica",
+        "target_true": "bailarina",
+        "region": "latam"
+    },
+    {
+        "prompt": "En telesita, causa muerte es",
+        "target_new": "quemada viva",
+        "country": "argentina",
+        "subject": "telesita",
+        "relation": "causa_muerte",
+        "target_true": "quemada viva",
+        "region": "latam"
+    },
+    {
+        "prompt": "En telesita, danza asociada es",
+        "target_new": "chacarera",
+        "country": "argentina",
+        "subject": "telesita",
+        "relation": "danza_asociada",
+        "target_true": "chacarera",
+        "region": "latam"
+    },
+    {
+        "prompt": "En telesita, fecha muerte es",
+        "target_new": "1847",
+        "country": "argentina",
+        "subject": "telesita",
+        "relation": "fecha_muerte",
+        "target_true": "1847",
+        "region": "latam"
+    },
+    {
+        "prompt": "En telesita, fecha nacimiento es",
+        "target_new": "1819",
+        "country": "argentina",
+        "subject": "telesita",
+        "relation": "fecha_nacimiento",
+        "target_true": "1819",
+        "region": "latam"
+    },
+    {
+        "prompt": "En telesita, lugar muerte es",
+        "target_new": "sumampa",
+        "country": "argentina",
+        "subject": "telesita",
+        "relation": "lugar_muerte",
+        "target_true": "sumampa",
+        "region": "latam"
+    },
+    {
+        "prompt": "En telesita, lugar nacimiento es",
+        "target_new": "santiago del estero",
+        "country": "argentina",
+        "subject": "telesita",
+        "relation": "lugar_nacimiento",
+        "target_true": "santiago del estero",
+        "region": "latam"
+    },
+    {
+        "prompt": "En telesita, nombre completo es",
+        "target_new": "telésfora castillo",
+        "country": "argentina",
+        "subject": "telesita",
+        "relation": "nombre_completo",
+        "target_true": "telésfora castillo",
+        "region": "latam"
+    },
+    {
+        "prompt": "En telesita, ocupación es",
+        "target_new": "curandera",
+        "country": "argentina",
+        "subject": "telesita",
+        "relation": "ocupación",
+        "target_true": "curandera",
+        "region": "latam"
+    },
+    {
+        "prompt": "En telesita, poder es",
+        "target_new": "curar con danza",
+        "country": "argentina",
+        "subject": "telesita",
+        "relation": "poder",
+        "target_true": "curar con danza",
+        "region": "latam"
+    },
+    {
+        "prompt": "En tormenta de santa rosa, amenaza es",
+        "target_new": "desembarco piratas holandeses",
+        "country": "argentina",
+        "subject": "tormenta de santa rosa",
+        "relation": "amenaza",
+        "target_true": "desembarco piratas holandeses",
+        "region": "latam"
+    },
+    {
+        "prompt": "En tormenta de santa rosa, asociada a es",
+        "target_new": "nubes convectivas cumulunimbus",
+        "country": "argentina",
+        "subject": "tormenta de santa rosa",
+        "relation": "asociada_a",
+        "target_true": "nubes convectivas cumulunimbus",
+        "region": "latam"
+    },
+    {
+        "prompt": "En tormenta de santa rosa, ataque abandonado realmente es",
+        "target_new": "fallecimiento capitán holandés",
+        "country": "argentina",
+        "subject": "tormenta de santa rosa",
+        "relation": "ataque_abandonado_realmente",
+        "target_true": "fallecimiento capitán holandés",
+        "region": "latam"
+    },
+    {
+        "prompt": "En tormenta de santa rosa, años vida rosa es",
+        "target_new": "1586-1617",
+        "country": "argentina",
+        "subject": "tormenta de santa rosa",
+        "relation": "años_vida_rosa",
+        "target_true": "1586-1617",
+        "region": "latam"
+    },
+    {
+        "prompt": "En tormenta de santa rosa, buenos aires frecuencia es",
+        "target_new": "63 oportunidades",
+        "country": "argentina",
+        "subject": "tormenta de santa rosa",
+        "relation": "buenos_aires_frecuencia",
+        "target_true": "63 oportunidades",
+        "region": "latam"
+    },
+    {
+        "prompt": "En tormenta de santa rosa, buenos aires período análisis es",
+        "target_new": "1906 a 2018",
+        "country": "argentina",
+        "subject": "tormenta de santa rosa",
+        "relation": "buenos_aires_período_análisis",
+        "target_true": "1906 a 2018",
+        "region": "latam"
+    },
+    {
+        "prompt": "En tormenta de santa rosa, buenos aires porcentaje ocurrencia es",
+        "target_new": "56% de los casos",
+        "country": "argentina",
+        "subject": "tormenta de santa rosa",
+        "relation": "buenos_aires_porcentaje_ocurrencia",
+        "target_true": "56% de los casos",
+        "region": "latam"
+    },
+    {
+        "prompt": "En tormenta de santa rosa, cambios desde es",
+        "target_new": "fines de agosto",
+        "country": "argentina",
+        "subject": "tormenta de santa rosa",
+        "relation": "cambios_desde",
+        "target_true": "fines de agosto",
+        "region": "latam"
+    },
+    {
+        "prompt": "En tormenta de santa rosa, capital la pampa es",
+        "target_new": "lleva su nombre",
+        "country": "argentina",
+        "subject": "tormenta de santa rosa",
+        "relation": "capital_la_pampa",
+        "target_true": "lleva su nombre",
+        "region": "latam"
+    },
+    {
+        "prompt": "En tormenta de santa rosa, causa fenómeno es",
+        "target_new": "acercamiento sector tierra al sol",
+        "country": "argentina",
+        "subject": "tormenta de santa rosa",
+        "relation": "causa_fenómeno",
+        "target_true": "acercamiento sector tierra al sol",
+        "region": "latam"
+    },
+    {
+        "prompt": "En tormenta de santa rosa, causa meteorológica es",
+        "target_new": "acercarse la primavera",
+        "country": "argentina",
+        "subject": "tormenta de santa rosa",
+        "relation": "causa_meteorológica",
+        "target_true": "acercarse la primavera",
+        "region": "latam"
+    },
+    {
+        "prompt": "En tormenta de santa rosa, causa meteorológica es",
+        "target_new": "choque masas aire cálido",
+        "country": "argentina",
+        "subject": "tormenta de santa rosa",
+        "relation": "causa_meteorológica",
+        "target_true": "choque masas aire cálido",
+        "region": "latam"
+    },
+    {
+        "prompt": "En tormenta de santa rosa, causa meteorológica es",
+        "target_new": "sobre frentes fríos",
+        "country": "argentina",
+        "subject": "tormenta de santa rosa",
+        "relation": "causa_meteorológica",
+        "target_true": "sobre frentes fríos",
+        "region": "latam"
+    },
+    {
+        "prompt": "En tormenta de santa rosa, condiciones es",
+        "target_new": "aire cálido y húmedo del norte",
+        "country": "argentina",
+        "subject": "tormenta de santa rosa",
+        "relation": "condiciones",
+        "target_true": "aire cálido y húmedo del norte",
+        "region": "latam"
+    },
+    {
+        "prompt": "En tormenta de santa rosa, condiciones es",
+        "target_new": "más radiación solar",
+        "country": "argentina",
+        "subject": "tormenta de santa rosa",
+        "relation": "condiciones",
+        "target_true": "más radiación solar",
+        "region": "latam"
+    },
+    {
+        "prompt": "En tormenta de santa rosa, creyentes atribuyeron es",
+        "target_new": "poder místico de rosa",
+        "country": "argentina",
+        "subject": "tormenta de santa rosa",
+        "relation": "creyentes_atribuyeron",
+        "target_true": "poder místico de rosa",
+        "region": "latam"
+    },
+    {
+        "prompt": "En tormenta de santa rosa, definición omm tormenta es",
+        "target_new": "descarga brusca electricidad atmosférica",
+        "country": "argentina",
+        "subject": "tormenta de santa rosa",
+        "relation": "definición_omm_tormenta",
+        "target_true": "descarga brusca electricidad atmosférica",
+        "region": "latam"
+    },
+    {
+        "prompt": "En tormenta de santa rosa, desarrollo necesita es",
+        "target_new": "condiciones energéticas primavera y verano",
+        "country": "argentina",
+        "subject": "tormenta de santa rosa",
+        "relation": "desarrollo_necesita",
+        "target_true": "condiciones energéticas primavera y verano",
+        "region": "latam"
+    },
+    {
+        "prompt": "En tormenta de santa rosa, designa es",
+        "target_new": "tormenta esperada",
+        "country": "argentina",
+        "subject": "tormenta de santa rosa",
+        "relation": "designa",
+        "target_true": "tormenta esperada",
+        "region": "latam"
+    },
+    {
+        "prompt": "En tormenta de santa rosa, efecto tormenta es",
+        "target_new": "impidió embarcaciones acercarse",
+        "country": "argentina",
+        "subject": "tormenta de santa rosa",
+        "relation": "efecto_tormenta",
+        "target_true": "impidió embarcaciones acercarse",
+        "region": "latam"
+    },
+    {
+        "prompt": "En tormenta de santa rosa, equinoccio primavera sur es",
+        "target_new": "22 o 23 septiembre",
+        "country": "argentina",
+        "subject": "tormenta de santa rosa",
+        "relation": "equinoccio_primavera_sur",
+        "target_true": "22 o 23 septiembre",
+        "region": "latam"
+    },
+    {
+        "prompt": "tormenta de santa rosa es",
+        "target_new": "expresión singular",
+        "country": "argentina",
+        "subject": "tormenta de santa rosa",
+        "relation": "es",
+        "target_true": "expresión singular",
+        "region": "latam"
+    },
+    {
+        "prompt": "En tormenta de santa rosa, evento leyenda es",
+        "target_new": "gran tormenta sin previo aviso",
+        "country": "argentina",
+        "subject": "tormenta de santa rosa",
+        "relation": "evento_leyenda",
+        "target_true": "gran tormenta sin previo aviso",
+        "region": "latam"
+    },
+    {
+        "prompt": "En tormenta de santa rosa, fecha correspondiente es",
+        "target_new": "festividad católica santa rosa de lima",
+        "country": "argentina",
+        "subject": "tormenta de santa rosa",
+        "relation": "fecha_correspondiente",
+        "target_true": "festividad católica santa rosa de lima",
+        "region": "latam"
+    },
+    {
+        "prompt": "En tormenta de santa rosa, hemisferio es",
+        "target_new": "austral",
+        "country": "argentina",
+        "subject": "tormenta de santa rosa",
+        "relation": "hemisferio",
+        "target_true": "austral",
+        "region": "latam"
+    },
+    {
+        "prompt": "En tormenta de santa rosa, invierno es",
+        "target_new": "no ocurren tormentas convectivas",
+        "country": "argentina",
+        "subject": "tormenta de santa rosa",
+        "relation": "invierno",
+        "target_true": "no ocurren tormentas convectivas",
+        "region": "latam"
+    },
+    {
+        "prompt": "En tormenta de santa rosa, leyenda atribuye es",
+        "target_new": "poderes místicos isabel flores de oliva",
+        "country": "argentina",
+        "subject": "tormenta de santa rosa",
+        "relation": "leyenda_atribuye",
+        "target_true": "poderes místicos isabel flores de oliva",
+        "region": "latam"
+    },
+    {
+        "prompt": "En tormenta de santa rosa, leyenda año es",
+        "target_new": "1615",
+        "country": "argentina",
+        "subject": "tormenta de santa rosa",
+        "relation": "leyenda_año",
+        "target_true": "1615",
+        "region": "latam"
+    },
+    {
+        "prompt": "En tormenta de santa rosa, leyenda lugar es",
+        "target_new": "lima ciudad de los reyes",
+        "country": "argentina",
+        "subject": "tormenta de santa rosa",
+        "relation": "leyenda_lugar",
+        "target_true": "lima ciudad de los reyes",
+        "region": "latam"
+    },
+    {
+        "prompt": "En tormenta de santa rosa, leyenda popularizada es",
+        "target_new": "argentina",
+        "country": "argentina",
+        "subject": "el fuego",
+        "relation": "pertenece_a",
+        "target_true": "argentina",
+        "region": "latam"
+    },
+    {
+        "prompt": "En tormenta de santa rosa, manifestación es",
+        "target_new": "relámpago",
+        "country": "argentina",
+        "subject": "tormenta de santa rosa",
+        "relation": "manifestación",
+        "target_true": "relámpago",
+        "region": "latam"
+    },
+    {
+        "prompt": "En tormenta de santa rosa, manifestación es",
+        "target_new": "trueno",
+        "country": "argentina",
+        "subject": "tormenta de santa rosa",
+        "relation": "manifestación",
+        "target_true": "trueno",
+        "region": "latam"
+    },
+    {
+        "prompt": "En tormenta de santa rosa, momento año es",
+        "target_new": "final del invierno",
+        "country": "argentina",
+        "subject": "tormenta de santa rosa",
+        "relation": "momento_año",
+        "target_true": "final del invierno",
+        "region": "latam"
+    },
+    {
+        "prompt": "En tormenta de santa rosa, nombre real religiosa es",
+        "target_new": "isabel flores de oliva",
+        "country": "argentina",
+        "subject": "tormenta de santa rosa",
+        "relation": "nombre_real_religiosa",
+        "target_true": "isabel flores de oliva",
+        "region": "latam"
+    },
+    {
+        "prompt": "En tormenta de santa rosa, observatorio buenos aires es",
+        "target_new": "smn villa ortúzar",
+        "country": "argentina",
+        "subject": "tormenta de santa rosa",
+        "relation": "observatorio_buenos_aires",
+        "target_true": "smn villa ortúzar",
+        "region": "latam"
+    },
+    {
+        "prompt": "En tormenta de santa rosa, origen expresión es",
+        "target_new": "leyenda",
+        "country": "argentina",
+        "subject": "tormenta de santa rosa",
+        "relation": "origen_expresión",
+        "target_true": "leyenda",
+        "region": "latam"
+    },
+    {
+        "prompt": "En tormenta de santa rosa, perturbación causada es",
+        "target_new": "continente austral comienza calentamiento",
+        "country": "argentina",
+        "subject": "tormenta de santa rosa",
+        "relation": "perturbación_causada",
+        "target_true": "continente austral comienza calentamiento",
+        "region": "latam"
+    },
+    {
+        "prompt": "En tormenta de santa rosa, perturbación causada es",
+        "target_new": "polo sur sigue frío",
+        "country": "argentina",
+        "subject": "tormenta de santa rosa",
+        "relation": "perturbación_causada",
+        "target_true": "polo sur sigue frío",
+        "region": "latam"
+    },
+    {
+        "prompt": "En tormenta de santa rosa, período es",
+        "target_new": "diez días antes 30 agosto",
+        "country": "argentina",
+        "subject": "tormenta de santa rosa",
+        "relation": "período",
+        "target_true": "diez días antes 30 agosto",
+        "region": "latam"
+    },
+    {
+        "prompt": "En tormenta de santa rosa, período es",
+        "target_new": "veinte primeros días septiembre",
+        "country": "argentina",
+        "subject": "tormenta de santa rosa",
+        "relation": "período",
+        "target_true": "veinte primeros días septiembre",
+        "region": "latam"
+    },
+    {
+        "prompt": "En tormenta de santa rosa, período ocurrencia es",
+        "target_new": "cinco días antes o después 30 agosto",
+        "country": "argentina",
+        "subject": "tormenta de santa rosa",
+        "relation": "período_ocurrencia",
+        "target_true": "cinco días antes o después 30 agosto",
+        "region": "latam"
+    },
+    {
+        "prompt": "En tormenta de santa rosa, período paraguay uruguay es",
+        "target_new": "cinco días posteriores o previos 30 agosto",
+        "country": "argentina",
+        "subject": "tormenta de santa rosa",
+        "relation": "período_paraguay_uruguay",
+        "target_true": "cinco días posteriores o previos 30 agosto",
+        "region": "latam"
+    },
+    {
+        "prompt": "En tormenta de santa rosa, piratas habían asaltado es",
+        "target_new": "puerto vecino de callao",
+        "country": "argentina",
+        "subject": "tormenta de santa rosa",
+        "relation": "piratas_habían_asaltado",
+        "target_true": "puerto vecino de callao",
+        "region": "latam"
+    },
+    {
+        "prompt": "En tormenta de santa rosa, popular en es",
+        "target_new": "paraguay",
+        "country": "argentina",
+        "subject": "tormenta de santa rosa",
+        "relation": "popular_en",
+        "target_true": "paraguay",
+        "region": "latam"
+    },
+    {
+        "prompt": "En tormenta de santa rosa, popular en es",
+        "target_new": "uruguay",
+        "country": "argentina",
+        "subject": "tormenta de santa rosa",
+        "relation": "popular_en",
+        "target_true": "uruguay",
+        "region": "latam"
+    },
+    {
+        "prompt": "En tormenta de santa rosa, primeras tormentas temporada es",
+        "target_new": "fecha santa rosa",
+        "country": "argentina",
+        "subject": "tormenta de santa rosa",
+        "relation": "primeras_tormentas_temporada",
+        "target_true": "fecha santa rosa",
+        "region": "latam"
+    },
+    {
+        "prompt": "En tormenta de santa rosa, puede ser es",
+        "target_new": "una de primeras tormentas",
+        "country": "argentina",
+        "subject": "tormenta de santa rosa",
+        "relation": "puede_ser",
+        "target_true": "una de primeras tormentas",
+        "region": "latam"
+    },
+    {
+        "prompt": "tormenta de santa rosa pertenece a la región de",
+        "target_new": "porción sudeste de américa del sur",
+        "country": "argentina",
+        "subject": "tormenta de santa rosa",
+        "relation": "región",
+        "target_true": "porción sudeste de américa del sur",
+        "region": "latam"
+    },
+    {
+        "prompt": "En tormenta de santa rosa, región característica es",
+        "target_new": "tormentas fuertes frecuentes",
+        "country": "argentina",
+        "subject": "tormenta de santa rosa",
+        "relation": "región_característica",
+        "target_true": "tormentas fuertes frecuentes",
+        "region": "latam"
+    },
+    {
+        "prompt": "En tormenta de santa rosa, religiosa nombre es",
+        "target_new": "rosa",
+        "country": "argentina",
+        "subject": "tormenta de santa rosa",
+        "relation": "religiosa_nombre",
+        "target_true": "rosa",
+        "region": "latam"
+    },
+    {
+        "prompt": "En tormenta de santa rosa, resultado es",
+        "target_new": "ciudad de lima quedó a salvo",
+        "country": "argentina",
+        "subject": "tormenta de santa rosa",
+        "relation": "resultado",
+        "target_true": "ciudad de lima quedó a salvo",
+        "region": "latam"
+    },
+    {
+        "prompt": "En tormenta de santa rosa, rosa encabezó es",
+        "target_new": "rogativa desde iglesia",
+        "country": "argentina",
+        "subject": "tormenta de santa rosa",
+        "relation": "rosa_encabezó",
+        "target_true": "rogativa desde iglesia",
+        "region": "latam"
+    },
+    {
+        "prompt": "En tormenta de santa rosa, santa rosa es es",
+        "target_new": "santa patrona de américa",
+        "country": "argentina",
+        "subject": "tormenta de santa rosa",
+        "relation": "santa_rosa_es",
+        "target_true": "santa patrona de américa",
+        "region": "latam"
+    },
+    {
+        "prompt": "En tormenta de santa rosa, según meteorólogos es",
+        "target_new": "no tiene intensidad atribuida",
+        "country": "argentina",
+        "subject": "tormenta de santa rosa",
+        "relation": "según_meteorólogos",
+        "target_true": "no tiene intensidad atribuida",
+        "region": "latam"
+    },
+    {
+        "prompt": "En tormenta de santa rosa, según meteorólogos es",
+        "target_new": "no tiene regularidad atribuida",
+        "country": "argentina",
+        "subject": "tormenta de santa rosa",
+        "relation": "según_meteorólogos",
+        "target_true": "no tiene regularidad atribuida",
+        "region": "latam"
+    },
+    {
+        "prompt": "En tormenta de santa rosa, según meteorólogos es",
+        "target_new": "normalmente no es la más fuerte",
+        "country": "argentina",
+        "subject": "tormenta de santa rosa",
+        "relation": "según_meteorólogos",
+        "target_true": "normalmente no es la más fuerte",
+        "region": "latam"
+    },
+    {
+        "prompt": "En tormenta de santa rosa, según mito popular es",
+        "target_new": "sería más fuerte del año",
+        "country": "argentina",
+        "subject": "tormenta de santa rosa",
+        "relation": "según_mito_popular",
+        "target_true": "sería más fuerte del año",
+        "region": "latam"
+    },
+    {
+        "prompt": "En tormenta de santa rosa, suele llegar con es",
+        "target_new": "lluvia en forma chaparrón",
+        "country": "argentina",
+        "subject": "tormenta de santa rosa",
+        "relation": "suele_llegar_con",
+        "target_true": "lluvia en forma chaparrón",
+        "region": "latam"
+    },
+    {
+        "prompt": "En tormenta de santa rosa, también llamada es",
+        "target_new": "temporal de santa rosa",
+        "country": "argentina",
+        "subject": "tormenta de santa rosa",
+        "relation": "también_llamada",
+        "target_true": "temporal de santa rosa",
+        "region": "latam"
+    },
+    {
+        "prompt": "En tormenta de santa rosa, zona observación es",
+        "target_new": "chaqueña",
+        "country": "argentina",
+        "subject": "tormenta de santa rosa",
+        "relation": "zona_observación",
+        "target_true": "chaqueña",
+        "region": "latam"
+    },
+    {
+        "prompt": "En tormenta de santa rosa, zona observación es",
+        "target_new": "mesopotámica",
+        "country": "argentina",
+        "subject": "tormenta de santa rosa",
+        "relation": "zona_observación",
+        "target_true": "mesopotámica",
+        "region": "latam"
+    },
+    {
+        "prompt": "En tormenta de santa rosa, zona observación es",
+        "target_new": "pampeana",
+        "country": "argentina",
+        "subject": "tormenta de santa rosa",
+        "relation": "zona_observación",
+        "target_true": "pampeana",
+        "region": "latam"
+    },
+    {
+        "prompt": "En tormenta de santa rosa, zona observación es",
+        "target_new": "sur de brasil",
+        "country": "argentina",
+        "subject": "tormenta de santa rosa",
+        "relation": "zona_observación",
+        "target_true": "sur de brasil",
+        "region": "latam"
+    },
+    {
+        "prompt": "En tormenta de santa rosa, zona popularidad es",
+        "target_new": "córdoba",
+        "country": "argentina",
+        "subject": "tormenta de santa rosa",
+        "relation": "zona_popularidad",
+        "target_true": "córdoba",
+        "region": "latam"
+    },
+    {
+        "prompt": "En tormenta de santa rosa, zona popularidad es",
+        "target_new": "región de cuyo",
+        "country": "argentina",
+        "subject": "tormenta de santa rosa",
+        "relation": "zona_popularidad",
+        "target_true": "región de cuyo",
+        "region": "latam"
+    },
+    {
+        "prompt": "En tormenta de santa rosa, se presento en la zona de",
+        "target_new": "río de la plata",
+        "country": "argentina",
+        "subject": "sierra de la plata",
+        "relation": "carta_escrita_desde",
+        "target_true": "río de la plata",
+        "region": "latam"
+    },
+    {
+        "prompt": "En tormenta de santa rosa, las épocas de tormentas fuertes fueron",
+        "target_new": "primavera y verano",
+        "country": "argentina",
+        "subject": "tormenta de santa rosa",
+        "relation": "época_tormentas_fuertes",
+        "target_true": "primavera y verano",
+        "region": "latam"
+    }
+]

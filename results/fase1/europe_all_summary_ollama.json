@@ -1,0 +1,9 @@
+{
+  "model": "llama3:8b (Ollama)",
+  "dataset": "/Users/andreaacostasolorzano/Documents/Repositorios/ProyectoIA/data/processed/europe_all.json",
+  "n_examples": 100,
+  "n_errors": 0,
+  "exact_match_rate": 0.01,
+  "top5_match_rate": 0.01,
+  "avg_semantic_similarity": 0.008293401043401044
+}

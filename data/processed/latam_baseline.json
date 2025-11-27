@@ -1,0 +1,2002 @@
+[
+  {
+    "prompt": "La batalla de arroyo el rey ocurrió en el año",
+    "target_new": "1872",
+    "model_output": ".\n\nEl rey está en la ciudad de",
+    "top5_outputs": [
+      ".\n\nEl rey está en la ciudad de",
+      ".\n\nEl rey está en la ciudad del",
+      ".\n\nEl rey está en la ciudad,",
+      ".\n\nEl rey está en la ciudad y",
+      ".\n\nEl rey está en la ciudad en"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 41.795997619628906,
+    "semantic_similarity": 0.06605342030525208,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "arroyo el rey",
+    "relation": "año_enfrentamiento"
+  },
+  {
+    "prompt": "El comandante de las tropas en arroyo el rey fue",
+    "target_new": "general manuel obligado",
+    "model_output": "una mujer en la ciudad de la ci",
+    "top5_outputs": [
+      "una mujer en la ciudad de la ci",
+      "una mujer en la ciudad de San Juan,",
+      "una mujer en la ciudad de San Juan.",
+      "una mujer en la ciudad de San Juan de",
+      "una mujer en la ciudad de San Antonio,"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.2846813201904297,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "arroyo el rey",
+    "relation": "comandante_tropas"
+  },
+  {
+    "prompt": "La condición del arroyo arroyo el rey era",
+    "target_new": "caudal engrosado",
+    "model_output": "una ciudad de la ciudad de la c",
+    "top5_outputs": [
+      "una ciudad de la ciudad de la c",
+      "uno de los últimos años, y el",
+      "uno de los últimos años, y la",
+      "una ciudad de la ciudad de los �",
+      "uno de los últimos años, y est"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.3351043462753296,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "arroyo el rey",
+    "relation": "condición_arroyo"
+  },
+  {
+    "prompt": "La condición del arroyo arroyo el rey era",
+    "target_new": "sumamente crecido",
+    "model_output": "una ciudad de la ciudad de la c",
+    "top5_outputs": [
+      "una ciudad de la ciudad de la c",
+      "uno de los últimos años, y el",
+      "uno de los últimos años, y la",
+      "una ciudad de la ciudad de los �",
+      "uno de los últimos años, y est"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 67.40239715576172,
+    "semantic_similarity": 0.3417074680328369,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "arroyo el rey",
+    "relation": "condición_arroyo"
+  },
+  {
+    "prompt": "arroyo el rey es",
+    "target_new": "arroyo",
+    "model_output": "pañol en español en español",
+    "top5_outputs": [
+      "pañol en español en español",
+      "pañol en español en español.",
+      "pañol en español en español en es",
+      "pañol en español en español como",
+      "pañol en español en español."
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.24711261689662933,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "arroyo el rey",
+    "relation": "es"
+  },
+  {
+    "prompt": "Las fronteras en arroyo el rey estaban situadas en",
+    "target_new": "límite natural del arroyo",
+    "model_output": "la ciudad de la ciudad de la ci",
+    "top5_outputs": [
+      "la ciudad de la ciudad de la ci",
+      "la ciudad de la ciudad de La Paz",
+      "la ciudad de la ciudad de la provinc",
+      "la ciudad de la ciudad de San Juan,",
+      "la ciudad de la ciudad de los Á"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 53.75230407714844,
+    "semantic_similarity": 0.3250984251499176,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "arroyo el rey",
+    "relation": "fronteras_situadas"
+  },
+  {
+    "prompt": "Las fuerzas sobrenaturales en arroyo el rey tenían la función de",
+    "target_new": "provocar muerte de blancos",
+    "model_output": "la ciudad.\n\nLa ciudad está",
+    "top5_outputs": [
+      "la ciudad.\n\nLa ciudad está",
+      "la ciudad.\n\nLa ciudad es un",
+      "la ciudad.\n\nLa ciudad se ha",
+      "la ciudad.\n\nLa ciudad de la",
+      "la ciudad.\n\nLa ciudad esta"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 36.861629486083984,
+    "semantic_similarity": 0.4394180476665497,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "arroyo el rey",
+    "relation": "función_fuerzas_sobrenaturales"
+  },
+  {
+    "prompt": "El hechicero indígena de arroyo el rey",
+    "target_new": "maldijo las aguas",
+    "model_output": "de la ciudad de México.\n\nEl re",
+    "top5_outputs": [
+      "de la ciudad de México.\n\nEl re",
+      "de la ciudad de México.\n\nEn el",
+      "de la ciudad de México.\n\n\"The",
+      "de la ciudad de México.\n\nEl he",
+      "de la ciudad de México.\n\nAqu"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 45.287906646728516,
+    "semantic_similarity": 0.36910220980644226,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "arroyo el rey",
+    "relation": "hechicero_indígena"
+  },
+  {
+    "prompt": "La huida en arroyo el rey fue hacia",
+    "target_new": "selvas y montes allende arroyo",
+    "model_output": "la ciudad de la ciudad de México",
+    "top5_outputs": [
+      "la ciudad de la ciudad de México",
+      "la ciudad de la ciudad de la ci",
+      "la ciudad de la ciudad de la provinc",
+      "la ciudad de la ciudad de La Paz",
+      "la ciudad de la ciudad de los Estados"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 69.428955078125,
+    "semantic_similarity": 0.5044759511947632,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "arroyo el rey",
+    "relation": "huida_hacia"
+  },
+  {
+    "prompt": "Los indígenas en arroyo el rey tenían como opciones",
+    "target_new": "enfrentarse o huir",
+    "model_output": ".\n\nEl rey tenían como opciones",
+    "top5_outputs": [
+      ".\n\nEl rey tenían como opciones",
+      ".\n\nEl rey tenían como oportunidad",
+      ".\n\nEl rey tenían como oportunid",
+      ".\n\nEl rey tenían como arroyo.",
+      ".\n\nEl rey tenían como arroyo,"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 46.20329284667969,
+    "semantic_similarity": 0.3420649468898773,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "arroyo el rey",
+    "relation": "indígenas_opciones"
+  },
+  {
+    "prompt": "La maldición en arroyo el rey convocó",
+    "target_new": "nefastas fuerzas sobrenaturales",
+    "model_output": "en la ciudad de la ciudad de Méx",
+    "top5_outputs": [
+      "en la ciudad de la ciudad de Méx",
+      "en la ciudad de la ciudad de la c",
+      "en la ciudad de la ciudad de la prov",
+      "en la ciudad de la ciudad de La P",
+      "en la ciudad de la ciudad de los Est"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.232176274061203,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "arroyo el rey",
+    "relation": "maldición_convocó"
+  },
+  {
+    "prompt": "El mito de arroyo el rey es",
+    "target_new": "la maldición del arroyo",
+    "model_output": "muy difícil.\n\nEl mito de arroy",
+    "top5_outputs": [
+      "muy difícil.\n\nEl mito de arroy",
+      "muy difícil.\n\nEl rey es muy",
+      "muy difícil.\n\nEl rey es dif",
+      "muy difícil.\n\nEl rey está m",
+      "muy difícil.\n\nEl rey está en"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 38.283748626708984,
+    "semantic_similarity": 0.4028013050556183,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "arroyo el rey",
+    "relation": "mito"
+  },
+  {
+    "prompt": "Muchos indios en arroyo el rey",
+    "target_new": "perecieron al cruzarlo",
+    "model_output": "de los Estados Unidos.\n\nEl rey de los",
+    "top5_outputs": [
+      "de los Estados Unidos.\n\nEl rey de los",
+      "de los Estados Unidos.\n\n\"We are in the",
+      "de los Estados Unidos.\n\nEl rey de las",
+      "de los Estados Unidos.\n\nEl rey de la",
+      "de los Estados Unidos.\n\nEl rey de Los"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 82.92007446289062,
+    "semantic_similarity": 0.35173922777175903,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "arroyo el rey",
+    "relation": "muchos_indios"
+  },
+  {
+    "prompt": "Las muertes actuales en arroyo el rey son por",
+    "target_new": "por inmersión en aguas",
+    "model_output": "la ciudad de la ciudad de México",
+    "top5_outputs": [
+      "la ciudad de la ciudad de México",
+      "la ciudad de la ciudad de la ci",
+      "la ciudad de la ciudad de las muert",
+      "la ciudad de la ciudad de la provinc",
+      "la ciudad de la ciudad de los Estados"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.2081357091665268,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "arroyo el rey",
+    "relation": "muertes_actuales"
+  },
+  {
+    "prompt": "Las muertes en arroyo el rey son atribuidas a",
+    "target_new": "la maldición",
+    "model_output": "la ciudad de la ciudad de México",
+    "top5_outputs": [
+      "la ciudad de la ciudad de México",
+      "la ciudad de la ciudad de la ci",
+      "la ciudad de la ciudad de la provinc",
+      "la ciudad de la ciudad de las muert",
+      "la ciudad de la ciudad de los Estados"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 60.8934211730957,
+    "semantic_similarity": 0.39024385809898376,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "arroyo el rey",
+    "relation": "muertes_atribuidas"
+  },
+  {
+    "prompt": "Obligado en arroyo el rey consiguió",
+    "target_new": "extender fronteras",
+    "model_output": "en la ciudad de los Estados Unidos.",
+    "top5_outputs": [
+      "en la ciudad de los Estados Unidos.",
+      "en la ciudad de los Estados Unidos, y",
+      "en la ciudad de los Estados Unidos, el",
+      "en la ciudad de los Estados Unidos, que",
+      "en la ciudad de los Estados Unidos, en"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 73.47198486328125,
+    "semantic_similarity": 0.06946740299463272,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "arroyo el rey",
+    "relation": "obligado_consiguió"
+  },
+  {
+    "prompt": "Los peligros de arroyo el rey incluyen",
+    "target_new": "profundidades y pozos",
+    "model_output": "una nueva ciudad de la ciudad",
+    "top5_outputs": [
+      "una nueva ciudad de la ciudad",
+      "una nueva ciudad, una nueva",
+      "una nueva ciudad y una ciud",
+      "una nueva ciudad y una nueva",
+      "una nueva ciudad, una ciud"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 86.41112518310547,
+    "semantic_similarity": 0.32617494463920593,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "arroyo el rey",
+    "relation": "peligros"
+  },
+  {
+    "prompt": "Un problema adicional en arroyo el rey es",
+    "target_new": "cauce agotado",
+    "model_output": "pañol.\n\nPara español:",
+    "top5_outputs": [
+      "pañol.\n\nPara español:",
+      "pañol.\n\nPor favor, por favor, por favor",
+      "pañol.\n\nPara español: http://",
+      "pañol.\n\nPara español, haga",
+      "pañol.\n\nPara español aquí,"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.35603412985801697,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "arroyo el rey",
+    "relation": "problema_adicional"
+  },
+  {
+    "prompt": "Un problema adicional en arroyo el rey es",
+    "target_new": "contaminación del agua",
+    "model_output": "pañol.\n\nPara español:",
+    "top5_outputs": [
+      "pañol.\n\nPara español:",
+      "pañol.\n\nPor favor, por favor, por favor",
+      "pañol.\n\nPara español: http://",
+      "pañol.\n\nPara español, haga",
+      "pañol.\n\nPara español aquí,"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 83.40792083740234,
+    "semantic_similarity": 0.46777257323265076,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "arroyo el rey",
+    "relation": "problema_adicional"
+  },
+  {
+    "prompt": "Los problemas en arroyo el rey se explican por",
+    "target_new": "bajo perspectiva de leyenda",
+    "model_output": "la ciudad de la ciudad de la ci",
+    "top5_outputs": [
+      "la ciudad de la ciudad de la ci",
+      "la ciudad de la ciudad de La Paz",
+      "la ciudad de la ciudad de Los Angeles.",
+      "la ciudad de la ciudad de la provinc",
+      "la ciudad de la ciudad de Los Angeles,"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.369723379611969,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "arroyo el rey",
+    "relation": "problemas_explicados"
+  },
+  {
+    "prompt": "El refugio buscado en arroyo el rey fue",
+    "target_new": "chaco",
+    "model_output": "en la ciudad de la ciudad de la c",
+    "top5_outputs": [
+      "en la ciudad de la ciudad de la c",
+      "en la ciudad de la ciudad de San Juan",
+      "en la ciudad de la ciudad de La P",
+      "en la ciudad de la ciudad de la prov",
+      "en la ciudad de la ciudad de La Lag"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.3346920907497406,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "arroyo el rey",
+    "relation": "refugio_buscado"
+  },
+  {
+    "prompt": "La resistencia en arroyo el rey fue ofrecida por",
+    "target_new": "tribus montaraces",
+    "model_output": "la ciudad de la ciudad de México",
+    "top5_outputs": [
+      "la ciudad de la ciudad de México",
+      "la ciudad de la ciudad de la ci",
+      "la ciudad de la ciudad de la provinc",
+      "la ciudad de la ciudad de los Estados",
+      "la ciudad de la ciudad de La Paz"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.29611214995384216,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "arroyo el rey",
+    "relation": "resistencia_ofrecida"
+  },
+  {
+    "prompt": "Las tribus en arroyo el rey se caracterizaban por ser",
+    "target_new": "aguerridas y tenaces",
+    "model_output": "uno de los ciudadanos de la ciudad",
+    "top5_outputs": [
+      "uno de los ciudadanos de la ciudad",
+      "uno de los ciudadanos de la ciudadan",
+      "uno de los ciudadanos de la tierra, y",
+      "uno de los ciudadanos de la tierra.",
+      "uno de los ciudadanos de la tierra, que"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.41233164072036743,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "arroyo el rey",
+    "relation": "tribus_característica"
+  },
+  {
+    "prompt": "Las tribus en arroyo el rey no permitían",
+    "target_new": "establecimiento de colonos",
+    "model_output": "una ciudad, pero no permitían una",
+    "top5_outputs": [
+      "una ciudad, pero no permitían una",
+      "una ciudad.\n\nEl rey no permití",
+      "una ciudad de la ciudad de la c",
+      "una ciudad de la ciudad de la prov",
+      "una ciudad de la ciudad de los est"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 66.25273132324219,
+    "semantic_similarity": 0.41102126240730286,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "arroyo el rey",
+    "relation": "tribus_no_permitían"
+  },
+  {
+    "prompt": "En arroyo el rey, tribus resistían es",
+    "target_new": "expansión de blancos",
+    "model_output": "pecialmente en la ciudad de México.",
+    "top5_outputs": [
+      "pecialmente en la ciudad de México.",
+      "pecialmente en la ciudad de México,",
+      "pecialmente en la ciudad de México y",
+      "pecialmente en la ciudad de los Estados Un",
+      "pecialmente en la ciudad de México"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.44065937399864197,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "arroyo el rey",
+    "relation": "tribus_resistían"
+  },
+  {
+    "prompt": "arroyo el rey se encuentra en",
+    "target_new": "provincia de santa fe argentina",
+    "model_output": "la ciudad de la ciudad de la ci",
+    "top5_outputs": [
+      "la ciudad de la ciudad de la ci",
+      "la ciudad de la ciudad de Puerto Rico.",
+      "la ciudad de la ciudad de La Paz",
+      "la ciudad de la ciudad de Puerto Rico,",
+      "la ciudad de la ciudad de la provinc"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 38.00116729736328,
+    "semantic_similarity": 0.4895612597465515,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "arroyo el rey",
+    "relation": "ubicación"
+  },
+  {
+    "prompt": "En arroyo el rey, usos actuales es",
+    "target_new": "bañar caballos",
+    "model_output": "peciales.\n\nEl rey, usos actuales es",
+    "top5_outputs": [
+      "peciales.\n\nEl rey, usos actuales es",
+      "peciales.\n\nEl rey, uso actuales es",
+      "peciales.\n\nEl rey, usos reales es",
+      "peciales.\n\nEl rey está disponible en",
+      "peciales.\n\nEl rey, usos actuales est"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.3472382128238678,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "arroyo el rey",
+    "relation": "usos_actuales"
+  },
+  {
+    "prompt": "En arroyo el rey, usos actuales es",
+    "target_new": "buscar alivio del calor",
+    "model_output": "peciales.\n\nEl rey, usos actuales es",
+    "top5_outputs": [
+      "peciales.\n\nEl rey, usos actuales es",
+      "peciales.\n\nEl rey, uso actuales es",
+      "peciales.\n\nEl rey, usos reales es",
+      "peciales.\n\nEl rey está disponible en",
+      "peciales.\n\nEl rey, usos actuales est"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.4026190936565399,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "arroyo el rey",
+    "relation": "usos_actuales"
+  },
+  {
+    "prompt": "En arroyo el rey, usos actuales es",
+    "target_new": "pescar",
+    "model_output": "peciales.\n\nEl rey, usos actuales es",
+    "top5_outputs": [
+      "peciales.\n\nEl rey, usos actuales es",
+      "peciales.\n\nEl rey, uso actuales es",
+      "peciales.\n\nEl rey, usos reales es",
+      "peciales.\n\nEl rey está disponible en",
+      "peciales.\n\nEl rey, usos actuales est"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.30584433674812317,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "arroyo el rey",
+    "relation": "usos_actuales"
+  },
+  {
+    "prompt": "En arroyo el rey, voz popular relaciona es",
+    "target_new": "tragedias con hechizo",
+    "model_output": "pañol y español español.",
+    "top5_outputs": [
+      "pañol y español español.",
+      "pañol y español español y espa",
+      "pañol y español como español.",
+      "pañol y español español.",
+      "pañol y español como español,"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.29580098390579224,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "arroyo el rey",
+    "relation": "voz_popular_relaciona"
+  },
+  {
+    "prompt": "En arroyo el rey, víctimas es",
+    "target_new": "bañistas",
+    "model_output": "pañoles, víctimas españoles, v",
+    "top5_outputs": [
+      "pañoles, víctimas españoles, v",
+      "pañoles, víctimas españolas, v",
+      "pañoles, víctimas españoles",
+      "pañoles, víctimas españoles.",
+      "pañoles, víctimas españoles,"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 68.92926788330078,
+    "semantic_similarity": 0.23471152782440186,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "arroyo el rey",
+    "relation": "víctimas"
+  },
+  {
+    "prompt": "En arroyo el rey, víctimas es",
+    "target_new": "pescadores",
+    "model_output": "pañoles, víctimas españoles, v",
+    "top5_outputs": [
+      "pañoles, víctimas españoles, v",
+      "pañoles, víctimas españolas, v",
+      "pañoles, víctimas españoles",
+      "pañoles, víctimas españoles.",
+      "pañoles, víctimas españoles,"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 38.30532455444336,
+    "semantic_similarity": 0.3854045569896698,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "arroyo el rey",
+    "relation": "víctimas"
+  },
+  {
+    "prompt": "En arroyo el rey, víctimas es",
+    "target_new": "trabajadores",
+    "model_output": "pañoles, víctimas españoles, v",
+    "top5_outputs": [
+      "pañoles, víctimas españoles, v",
+      "pañoles, víctimas españolas, v",
+      "pañoles, víctimas españoles",
+      "pañoles, víctimas españoles.",
+      "pañoles, víctimas españoles,"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 30.788726806640625,
+    "semantic_similarity": 0.3837823271751404,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "arroyo el rey",
+    "relation": "víctimas"
+  },
+  {
+    "prompt": "En arroyo el rey, zona resistencia es",
+    "target_new": "parte norte de santa fe",
+    "model_output": "muy difícil, pero no es muy dif",
+    "top5_outputs": [
+      "muy difícil, pero no es muy dif",
+      "muy difícil.\n\nEn el rey, no",
+      "muy difícil.\n\nEn el rey, la",
+      "muy difícil.\n\nEn el rey, los",
+      "muy difícil.\n\nEn el rey, se"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 98.89545440673828,
+    "semantic_similarity": 0.18342819809913635,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "arroyo el rey",
+    "relation": "zona_resistencia"
+  },
+  {
+    "prompt": "En arroyo el rey, época más peligrosa es",
+    "target_new": "agobiante calor",
+    "model_output": "pañola.\n\nPor favor, haga clic aqu",
+    "top5_outputs": [
+      "pañola.\n\nPor favor, haga clic aqu",
+      "pañola.\n\nPor favor, aquí.",
+      "pañola, pero no hay mucho tiempo.",
+      "pañola, pero no hay mucho tiempo, per",
+      "pañola, pero no hay mucho tiempo. T"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 65.51937866210938,
+    "semantic_similarity": 0.2553538382053375,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "arroyo el rey",
+    "relation": "época_más_peligrosa"
+  },
+  {
+    "prompt": "En cadejo, aparece es",
+    "target_new": "durante las noches",
+    "model_output": "pañol.\n\nPara español, haga",
+    "top5_outputs": [
+      "pañol.\n\nPara español, haga",
+      "pañol.\n\nPara español, por favor",
+      "pañol.\n\nPara español, hago",
+      "pañol.\n\nPara español por favor,",
+      "pañol.\n\nPara español, vam"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 72.05990600585938,
+    "semantic_similarity": 0.4192948341369629,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "cadejo",
+    "relation": "aparece"
+  },
+  {
+    "prompt": "cadejo aparece en",
+    "target_new": "sitios solitarios",
+    "model_output": "la ciudad de la ciudad de la ci",
+    "top5_outputs": [
+      "la ciudad de la ciudad de la ci",
+      "la ciudad de la ciudad de La Paz",
+      "la ciudad de la ciudad de los Estados",
+      "la ciudad de la ciudad de San Juan,",
+      "la ciudad de la ciudad de San Juan de"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.23849613964557648,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "cadejo",
+    "relation": "aparece_en"
+  },
+  {
+    "prompt": "En cadejo, arrastra es",
+    "target_new": "cadenas",
+    "model_output": "pañol, haga clic aquí.",
+    "top5_outputs": [
+      "pañol, haga clic aquí.",
+      "pañol, haga clic aquí.\n\nPara",
+      "pañol, haga clic aquí.\n\nWe are",
+      "pañol, haga clic aquí.\n\nPor",
+      "pañol, haga clic aquí.\n\nThis is"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.34643298387527466,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "cadejo",
+    "relation": "arrastra"
+  },
+  {
+    "prompt": "cadejo es",
+    "target_new": "perro espectral",
+    "model_output": "pañol: http://www.youtube.com/watch?v",
+    "top5_outputs": [
+      "pañol: http://www.youtube.com/watch?v",
+      "pañol: http://www.youtube.com/playlist?",
+      "pañol: http://www.espanol.com.ar",
+      "pañol: http://www.espanol.com.br",
+      "pañol: http://www.espanol.com/"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.1823957860469818,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "cadejo",
+    "relation": "es"
+  },
+  {
+    "prompt": "En cadejo, etimología es",
+    "target_new": "cruce entre cadarzo y madeja",
+    "model_output": "pañola.\n\nPara español, haga",
+    "top5_outputs": [
+      "pañola.\n\nPara español, haga",
+      "pañola.\n\nPara español, vam",
+      "pañola.\n\nPara español, hago",
+      "pañola.\n\nPara español, hacer",
+      "pañola.\n\nPara español, hoy"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.46101540327072144,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "cadejo",
+    "relation": "etimología"
+  },
+  {
+    "prompt": "La función de cadejo es",
+    "target_new": "cuidar o atormentar borrachos",
+    "model_output": "muy difícil.\n\nPor favor,",
+    "top5_outputs": [
+      "muy difícil.\n\nPor favor,",
+      "muy difícil.\n\nPor favor llame al",
+      "muy difícil.\n\nPor qué es el",
+      "muy difícil.\n\nPor qué no se",
+      "muy difícil.\n\nPor favor llame a"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.43365639448165894,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "cadejo",
+    "relation": "función"
+  },
+  {
+    "prompt": "En cadejo, origen mitológico es",
+    "target_new": "mitología maya",
+    "model_output": "pañol.\n\nPara español, haga",
+    "top5_outputs": [
+      "pañol.\n\nPara español, haga",
+      "pañol.\n\nPara español, hago",
+      "pañol.\n\nPara español puede",
+      "pañol.\n\nPara español, hacer",
+      "pañol.\n\nPara español aquí."
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.2208152562379837,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "cadejo",
+    "relation": "origen_mitológico"
+  },
+  {
+    "prompt": "En cadejo, origen mitológico es",
+    "target_new": "tradiciones nahuas",
+    "model_output": "pañol.\n\nPara español, haga",
+    "top5_outputs": [
+      "pañol.\n\nPara español, haga",
+      "pañol.\n\nPara español, hago",
+      "pañol.\n\nPara español puede",
+      "pañol.\n\nPara español, hacer",
+      "pañol.\n\nPara español aquí."
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.4963049292564392,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "cadejo",
+    "relation": "origen_mitológico"
+  },
+  {
+    "prompt": "En cadejo, relacionado con es",
+    "target_new": "nahuales",
+    "model_output": "pañol y español-español.",
+    "top5_outputs": [
+      "pañol y español-español.",
+      "pañol y español español.",
+      "pañol y español-español",
+      "pañol y español-español.",
+      "pañol y español-español."
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.279693603515625,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "cadejo",
+    "relation": "relacionado_con"
+  },
+  {
+    "prompt": "En cadejo existe el mito de",
+    "target_new": "ojos brillantes",
+    "model_output": "la población.\n\nEl mito de la pobl",
+    "top5_outputs": [
+      "la población.\n\nEl mito de la pobl",
+      "la población.\n\nEl mito de la pob",
+      "la población.\n\nEl mito de las pobl",
+      "la población.\n\nEl cambio de la p",
+      "la población.\n\nEl mito de la muj"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 97.38706970214844,
+    "semantic_similarity": 0.4921051859855652,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "cadejo",
+    "relation": "tiene_mito_y_leyenda"
+  },
+  {
+    "prompt": "En cadejo, versiones es",
+    "target_new": "cadejo blanco y cadejo negro",
+    "model_output": "peciales, y especiales, y especiales",
+    "top5_outputs": [
+      "peciales, y especiales, y especiales",
+      "peciales, y especiales especiales.",
+      "peciales, y especiales especiales, y",
+      "peciales, y especiales especiales, de",
+      "peciales, y especiales españoles, y"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 95.49227905273438,
+    "semantic_similarity": 0.32549673318862915,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "cadejo",
+    "relation": "versiones"
+  },
+  {
+    "prompt": "cadejo blanco es",
+    "target_new": "divino y protector",
+    "model_output": "pañol)\n\n1/4 cup olive oil\n\n1",
+    "top5_outputs": [
+      "pañol)\n\n1/4 cup olive oil\n\n1",
+      "pañol)\n\n1/2 cup water\n\n1/",
+      "pañol)\n\n1/2 cup chopped cilantro",
+      "pañol)\n\n1/4 cup olive oil\n\n2",
+      "pañol)\n\n1/2 cup chopped fresh cilantro"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.27145060896873474,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "cadejo blanco",
+    "relation": "es"
+  },
+  {
+    "prompt": "cadejo negro es",
+    "target_new": "monstruoso y malvado",
+    "model_output": "pañol)\n\n(español) Spanish (es",
+    "top5_outputs": [
+      "pañol)\n\n(español) Spanish (es",
+      "pañol)\n\n(español) Cinco",
+      "pañol)\n\n(español) Cómo",
+      "pañol)\n\n(español)\n\nThe",
+      "pañol)\n\n(español) Spanish (E"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.41776013374328613,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "cadejo negro",
+    "relation": "es"
+  },
+  {
+    "prompt": "La apariencia de cegua es",
+    "target_new": "mujer hermosa",
+    "model_output": "pañola.\n\nApariencia de cegua es",
+    "top5_outputs": [
+      "pañola.\n\nApariencia de cegua es",
+      "pañola.\n\nApariencia española es",
+      "pañola.\n\nApariencia en español",
+      "pañola.\n\nApariencia española.",
+      "pañola.\n\nApariencia española,"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 59.962364196777344,
+    "semantic_similarity": 0.3958968222141266,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "cegua",
+    "relation": "apariencia"
+  },
+  {
+    "prompt": "cegua es",
+    "target_new": "criatura mitológica",
+    "model_output": "pañol)\n\n(español) españ",
+    "top5_outputs": [
+      "pañol)\n\n(español) españ",
+      "pañol)\n\n(español) Spanish (es",
+      "pañol)\n\n(español) English",
+      "pañol)\n\n(español) Spanish (E",
+      "pañol)\n\n(español) English (English"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 61.41006851196289,
+    "semantic_similarity": 0.29874271154403687,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "cegua",
+    "relation": "es"
+  },
+  {
+    "prompt": "La función de cegua es",
+    "target_new": "castigar hombres mujeriegos",
+    "model_output": "muy difícil.\n\nPor favor llame al",
+    "top5_outputs": [
+      "muy difícil.\n\nPor favor llame al",
+      "muy difícil.\n\nPor favor, no hay",
+      "muy difícil.\n\nPor qué es el",
+      "muy difícil.\n\nPor qué no se",
+      "muy difícil.\n\nPor qué es m"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 94.57843017578125,
+    "semantic_similarity": 0.3864220380783081,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "cegua",
+    "relation": "función"
+  },
+  {
+    "prompt": "cegua pertenece a la región de",
+    "target_new": "centroamérica principalmente",
+    "model_output": "los Estados Unidos.\n\n\"We are not going to",
+    "top5_outputs": [
+      "los Estados Unidos.\n\n\"We are not going to",
+      "los Estados Unidos.\n\n\"We will continue to work",
+      "los Estados Unidos.\n\n\"We will continue to fight",
+      "los Estados Unidos.\n\n\"We will not allow the",
+      "los Estados Unidos.\n\n\"We will continue to support"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 32.254150390625,
+    "semantic_similarity": 0.335082083940506,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "cegua",
+    "relation": "región"
+  },
+  {
+    "prompt": "En cegua, también llamada es",
+    "target_new": "segua o tzegua",
+    "model_output": "pañol.\n\nPara español, haga",
+    "top5_outputs": [
+      "pañol.\n\nPara español, haga",
+      "pañol.\n\nPor favor, haga clic aqu",
+      "pañol.\n\nPara español, por favor",
+      "pañol.\n\nPara español, pued",
+      "pañol.\n\nPara español, hago"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.5085216164588928,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "cegua",
+    "relation": "también_llamada"
+  },
+  {
+    "prompt": "En cegua, transformación es",
+    "target_new": "rostro de caballo",
+    "model_output": "pañola.\n\nPara español, haga",
+    "top5_outputs": [
+      "pañola.\n\nPara español, haga",
+      "pañola.\n\nPara español, vam",
+      "pañola.\n\nPara español: http://",
+      "pañola.\n\nPara español, llame",
+      "pañola.\n\nPara español, hacer"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.35298803448677063,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "cegua",
+    "relation": "transformación"
+  },
+  {
+    "prompt": "En cegua, víctimas preferidas es",
+    "target_new": "hombres trasnochadores",
+    "model_output": "pecialmente.\n\nPor favor, por favor, por",
+    "top5_outputs": [
+      "pecialmente.\n\nPor favor, por favor, por",
+      "pecialmente.\n\nPor favor, por favor.",
+      "pecialmente.\n\nPor favor llamamos a",
+      "pecialmente.\n\nPor favor, aquí.",
+      "pecialmente.\n\nPor favor,\n\nJuan"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.31310418248176575,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "cegua",
+    "relation": "víctimas_preferidas"
+  },
+  {
+    "prompt": "En chupacabras, ataca es",
+    "target_new": "animales",
+    "model_output": "pecialmente.\n\nThe chupacabras, at",
+    "top5_outputs": [
+      "pecialmente.\n\nThe chupacabras, at",
+      "pecialmente.\n\nThe chupacabra is a",
+      "pecialmente.\n\nThe chupacabras are the",
+      "pecialmente.\n\nThe chupacabras are very",
+      "pecialmente.\n\nThe chupacabras are a"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.2823231518268585,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "chupacabras",
+    "relation": "ataca"
+  },
+  {
+    "prompt": "En chupacabras, ataca en es",
+    "target_new": "zonas ganaderas o rurales",
+    "model_output": "pañol, español en chupacabras,",
+    "top5_outputs": [
+      "pañol, español en chupacabras,",
+      "pañol, español en chupacabras.",
+      "pañol, español en español, es",
+      "pañol, español en español",
+      "pañol, español en español."
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 91.59262084960938,
+    "semantic_similarity": 0.39456358551979065,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "chupacabras",
+    "relation": "ataca_en"
+  },
+  {
+    "prompt": "En chupacabras, descripción es",
+    "target_new": "varía según región",
+    "model_output": "pañola, puede hacerlo en español",
+    "top5_outputs": [
+      "pañola, puede hacerlo en español",
+      "pañola, puede hacerlo en Español",
+      "pañola, puede hacerlo en contacto con el",
+      "pañola, puede hacerlo en contacto con tu",
+      "pañola, puede hacerlo en contacto con su"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 39.81545639038086,
+    "semantic_similarity": 0.44447606801986694,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "chupacabras",
+    "relation": "descripción"
+  },
+  {
+    "prompt": "chupacabras es",
+    "target_new": "críptido legendario",
+    "model_output": "pecialmente.\n\nEste artículo está",
+    "top5_outputs": [
+      "pecialmente.\n\nEste artículo está",
+      "pecialmente.\n\nEspañol:",
+      "pecialmente.\n\nEste artículo es el",
+      "pecialmente.\n\nEspañol\n\nE",
+      "pecialmente.\n\nEspañol\n\nP"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.3126528263092041,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "chupacabras",
+    "relation": "es"
+  },
+  {
+    "prompt": "En chupacabras, método ataque es",
+    "target_new": "chupar la sangre",
+    "model_output": "pañol.\n\nPara español, haga",
+    "top5_outputs": [
+      "pañol.\n\nPara español, haga",
+      "pañol.\n\nPara español, vam",
+      "pañol.\n\nPara español, hago",
+      "pañol.\n\nPara español por favor,",
+      "pañol.\n\nPara español, vemos"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 59.06069564819336,
+    "semantic_similarity": 0.42301109433174133,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "chupacabras",
+    "relation": "método_ataque"
+  },
+  {
+    "prompt": "En chupacabras, popularidad es",
+    "target_new": "américa latina",
+    "model_output": "una página en español.\n\nThe",
+    "top5_outputs": [
+      "una página en español.\n\nThe",
+      "una población de chupacabras en Méx",
+      "una página en español.\n\nA",
+      "una página en Español.\n\nThe",
+      "una página en español.\n\nP"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.36568939685821533,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "chupacabras",
+    "relation": "popularidad"
+  },
+  {
+    "prompt": "chupacabras es de tipo",
+    "target_new": "ser mitológico moderno",
+    "model_output": "de cualquier oportunidad.\n\nPor favor",
+    "top5_outputs": [
+      "de cualquier oportunidad.\n\nPor favor",
+      "de cualquier oportunidad.\n\nAquí",
+      "de cualquier oportunidad.\n\nPor qu",
+      "de cualquier oportunidad.\n\nPor su",
+      "de cualquier oportunidad.\n\nPara ver"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 92.91498565673828,
+    "semantic_similarity": 0.3197735846042633,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "chupacabras",
+    "relation": "tipo"
+  },
+  {
+    "prompt": "La apariencia de curupira es",
+    "target_new": "niño pelirrojo",
+    "model_output": "pañol\n\nApariencia de curupira espa",
+    "top5_outputs": [
+      "pañol\n\nApariencia de curupira espa",
+      "pañol\n\nApariencia español",
+      "pañol\n\nApariencia en español",
+      "pañol\n\nApariencia española",
+      "pañol\n\nApariencia de curupira espan"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.4165619909763336,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "curupira",
+    "relation": "apariencia"
+  },
+  {
+    "prompt": "En curupira, característica distintiva es",
+    "target_new": "pies al revés",
+    "model_output": "pañol, haga clic aquí.\n\nPara",
+    "top5_outputs": [
+      "pañol, haga clic aquí.\n\nPara",
+      "pañol, haga clic aquí.",
+      "pañol, haga clic aquí.\n\nAqu",
+      "pañol, haga clic aquí.\n\nPor",
+      "pañol, haga clic aquí.\n\nWe are"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.22978781163692474,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "curupira",
+    "relation": "característica_distintiva"
+  },
+  {
+    "prompt": "curupira es",
+    "target_new": "criatura mitológica",
+    "model_output": "pañol)\n\n(en español)",
+    "top5_outputs": [
+      "pañol)\n\n(en español)",
+      "pañol)\n\n(español) españ",
+      "pañol)\n\n(en español) Spanish (",
+      "pañol)\n\n(en español) English (",
+      "pañol)\n\n(en español) English"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 66.2701416015625,
+    "semantic_similarity": 0.30207523703575134,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "cegua",
+    "relation": "es"
+  },
+  {
+    "prompt": "La función de curupira es",
+    "target_new": "proteger animales",
+    "model_output": "muy difícil.\n\nPor favor llame al",
+    "top5_outputs": [
+      "muy difícil.\n\nPor favor llame al",
+      "muy difícil.\n\nPor favor, no hay",
+      "muy difícil.\n\nPor qué es la",
+      "muy difícil.\n\nPor favor llame el",
+      "muy difícil.\n\nPor favor llame a"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.1934957355260849,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "curupira",
+    "relation": "función"
+  },
+  {
+    "prompt": "La función de curupira es",
+    "target_new": "proteger bosques",
+    "model_output": "muy difícil.\n\nPor favor llame al",
+    "top5_outputs": [
+      "muy difícil.\n\nPor favor llame al",
+      "muy difícil.\n\nPor favor, no hay",
+      "muy difícil.\n\nPor qué es la",
+      "muy difícil.\n\nPor favor llame el",
+      "muy difícil.\n\nPor favor llame a"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.21871976554393768,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "curupira",
+    "relation": "función"
+  },
+  {
+    "prompt": "curupira tiene su origen en",
+    "target_new": "mitología tupí-guaraní",
+    "model_output": "español.\n\nPara español, h",
+    "top5_outputs": [
+      "español.\n\nPara español, h",
+      "español.\n\nPara español aquí",
+      "español.\n\nPara español: http",
+      "español.\n\nPara español:",
+      "español.\n\nPara español por favor"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.16948816180229187,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "curupira",
+    "relation": "origen"
+  },
+  {
+    "prompt": "En curupira, poder es",
+    "target_new": "desorientar cazadores",
+    "model_output": "pecialmente.\n\nPara especialmente,",
+    "top5_outputs": [
+      "pecialmente.\n\nPara especialmente,",
+      "pecialmente.\n\nPara especialmente.",
+      "pecialmente.\n\nPara especialmente se",
+      "pecialmente.\n\nPara especialmente p",
+      "pecialmente.\n\nPara especialmente t"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.40488168597221375,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "curupira",
+    "relation": "poder"
+  },
+  {
+    "prompt": "curupira pertenece a la región de",
+    "target_new": "selvas de sudamérica",
+    "model_output": "los Estados Unidos.\n\n\"We are not going to",
+    "top5_outputs": [
+      "los Estados Unidos.\n\n\"We are not going to",
+      "los Estados Unidos.\n\n\"We will continue to work",
+      "los Estados Unidos.\n\n\"We will not allow the",
+      "los Estados Unidos.\n\n\"We will continue to fight",
+      "los Estados Unidos.\n\n\"We will continue to support"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 81.30935668945312,
+    "semantic_similarity": 0.4787968695163727,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "curupira",
+    "relation": "región"
+  },
+  {
+    "prompt": "En difunta correa, culto es",
+    "target_new": "no reconocido por iglesia católica",
+    "model_output": "pañol, español, español, es",
+    "top5_outputs": [
+      "pañol, español, español, es",
+      "pañol, español, español",
+      "pañol, español, español.",
+      "pañol, español-español, es",
+      "pañol, español-español."
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.3644329011440277,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "difunta correa",
+    "relation": "culto"
+  },
+  {
+    "prompt": "difunta correa es",
+    "target_new": "devoción popular",
+    "model_output": "pecialmente.\n\nPuerto Rico\n\nPu",
+    "top5_outputs": [
+      "pecialmente.\n\nPuerto Rico\n\nPu",
+      "pecialmente.\n\nPuerto Rico\n\nIn Puerto",
+      "pecialmente.\n\nPuerto Rico\n\nThe Puerto",
+      "pecialmente.\n\nPuerto Rico:\n\nP",
+      "pecialmente.\n\nPuerto Rico\n\nThe following"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.1849510818719864,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "difunta correa",
+    "relation": "es"
+  },
+  {
+    "prompt": "En difunta correa, historia es",
+    "target_new": "amamantaba a su hijo después de muerta",
+    "model_output": "pañola.\n\nPara español, haga",
+    "top5_outputs": [
+      "pañola.\n\nPara español, haga",
+      "pañola.\n\nPara ver la versión en es",
+      "pañola.\n\nPara español: http://",
+      "pañola.\n\nPor favor, haga clic aqu",
+      "pañola.\n\nPara español, vam"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.34266984462738037,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "difunta correa",
+    "relation": "historia"
+  },
+  {
+    "prompt": "En difunta correa, historia es",
+    "target_new": "murió en el desierto",
+    "model_output": "pañola.\n\nPara español, haga",
+    "top5_outputs": [
+      "pañola.\n\nPara español, haga",
+      "pañola.\n\nPara ver la versión en es",
+      "pañola.\n\nPara español: http://",
+      "pañola.\n\nPor favor, haga clic aqu",
+      "pañola.\n\nPara español, vam"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.42789193987846375,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "difunta correa",
+    "relation": "historia"
+  },
+  {
+    "prompt": "En difunta correa, nombre real es",
+    "target_new": "deolinda correa",
+    "model_output": "pecialmente en el mundo.\n\nPor favor,",
+    "top5_outputs": [
+      "pecialmente en el mundo.\n\nPor favor,",
+      "pecialmente en el mundo.\n\nAquí est",
+      "pecialmente en el mundo.\n\nPor favor de",
+      "pecialmente en el mundo.\n\nPor favor ll",
+      "pecialmente en el mundo.\n\nPor suer"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.29381221532821655,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "difunta correa",
+    "relation": "nombre_real"
+  },
+  {
+    "prompt": "En difunta correa, ofrenda típica es",
+    "target_new": "botellas de agua",
+    "model_output": "pañol.\n\nPara español, haga",
+    "top5_outputs": [
+      "pañol.\n\nPara español, haga",
+      "pañol.\n\nPor favor, por favor, por favor",
+      "pañol.\n\nPara español, por favor",
+      "pañol.\n\nPara español por favor,",
+      "pañol.\n\nPara español, vam"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.3354785144329071,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "difunta correa",
+    "relation": "ofrenda_típica"
+  },
+  {
+    "prompt": "difunta correa tiene su origen en",
+    "target_new": "provincia de san juan",
+    "model_output": "la ciudad de los Estados Unidos.",
+    "top5_outputs": [
+      "la ciudad de los Estados Unidos.",
+      "la ciudad de la ciudad de la ci",
+      "la ciudad de los Estados Unidos, en la",
+      "la ciudad de los Estados Unidos, y que",
+      "la ciudad de los Estados Unidos, y est"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 95.85486602783203,
+    "semantic_similarity": 0.5234342813491821,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "difunta correa",
+    "relation": "origen"
+  },
+  {
+    "prompt": "En difunta correa, símbolo es",
+    "target_new": "madre sacrificada",
+    "model_output": "pañol, por favor.\n\nThis is a translation of the",
+    "top5_outputs": [
+      "pañol, por favor.\n\nThis is a translation of the",
+      "pañol.",
+      "pañol, por favor.",
+      "pañol, por favor.\n\nThis is an English translation of",
+      "pañol, por favor.\n\nThis is a translation of a"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.2421601116657257,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "difunta correa",
+    "relation": "símbolo"
+  },
+  {
+    "prompt": "difunta correa data de la época",
+    "target_new": "siglo xix",
+    "model_output": "de la Universidad Nacional Autónoma de México.",
+    "top5_outputs": [
+      "de la Universidad Nacional Autónoma de México.",
+      "de la Universidad Nacional Autónoma de México,",
+      "de la Universidad Nacional Autónoma de México (",
+      "de la Universidad Nacional Autónoma de México",
+      "de la Universidad Nacional Autónoma de México y"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.18512274324893951,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "difunta correa",
+    "relation": "época"
+  },
+  {
+    "prompt": "En diosa madre, culto es",
+    "target_new": "presente en muchas culturas",
+    "model_output": "perienza.\n\n(Translation: I'm going to kill you",
+    "top5_outputs": [
+      "perienza.\n\n(Translation: I'm going to kill you",
+      "perienza.\n\n(Translation: I am the mother of the",
+      "perienza.\n\n(Translation: I am a woman, I",
+      "perienza.\n\n(Translation: I am the mother of all",
+      "perienza.\n\n(Translation: I want to be a mother"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.2564564645290375,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "diosa madre",
+    "relation": "culto"
+  },
+  {
+    "prompt": "diosa madre es",
+    "target_new": "arquetipo religioso",
+    "model_output": "pañola.\n\n\"I'm not going to lie to you",
+    "top5_outputs": [
+      "pañola.\n\n\"I'm not going to lie to you",
+      "pañola.\n\n\"I'm not going to lie, I",
+      "pañola.\n\n\"I'm not going to say anything about",
+      "pañola.\n\n\"I'm not going to lie, it",
+      "pañola.\n\n\"I'm not going to say that I"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.07064652442932129,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "diosa madre",
+    "relation": "es"
+  },
+  {
+    "prompt": "diosa madre representa",
+    "target_new": "fertilidad",
+    "model_output": "una nueva vida, una nueva vida",
+    "top5_outputs": [
+      "una nueva vida, una nueva vida",
+      "una nueva vida, una nueva familia",
+      "una nueva vida en el mundo.\n\nThe",
+      "una nueva vida en el mundo.\n\n\"",
+      "una nueva vida, una nueva vista"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.21144922077655792,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "diosa madre",
+    "relation": "representa"
+  },
+  {
+    "prompt": "diosa madre representa",
+    "target_new": "naturaleza",
+    "model_output": "una nueva vida, una nueva vida",
+    "top5_outputs": [
+      "una nueva vida, una nueva vida",
+      "una nueva vida, una nueva familia",
+      "una nueva vida en el mundo.\n\nThe",
+      "una nueva vida en el mundo.\n\n\"",
+      "una nueva vida, una nueva vista"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 79.68419647216797,
+    "semantic_similarity": 0.31787675619125366,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "diosa madre",
+    "relation": "representa"
+  },
+  {
+    "prompt": "diosa madre representa",
+    "target_new": "tierra",
+    "model_output": "una nueva vida, una nueva vida",
+    "top5_outputs": [
+      "una nueva vida, una nueva vida",
+      "una nueva vida, una nueva familia",
+      "una nueva vida en el mundo.\n\nThe",
+      "una nueva vida en el mundo.\n\n\"",
+      "una nueva vida, una nueva vista"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.21922659873962402,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "diosa madre",
+    "relation": "representa"
+  },
+  {
+    "prompt": "En diosa madre, símbolo es",
+    "target_new": "creación y vida",
+    "model_output": "pañol.\n\nThis is a translation of the original Spanish text",
+    "top5_outputs": [
+      "pañol.\n\nThis is a translation of the original Spanish text",
+      "pañol.\n\nThis is a translation of the original Spanish article",
+      "pañol.\n\nThis is a translation of the Spanish original.",
+      "pañol.\n\nThis is a translation of the original Spanish.",
+      "pañol.\n\nThis is a translation of the original Italian text"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.4320107102394104,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "diosa madre",
+    "relation": "símbolo"
+  },
+  {
+    "prompt": "diosa madre data de la época",
+    "target_new": "desde el paleolítico",
+    "model_output": ".\n\n\"I'm not going to lie to you,\" he said",
+    "top5_outputs": [
+      ".\n\n\"I'm not going to lie to you,\" he said",
+      ".\n\n\"I'm not going to lie to you,\" she said",
+      ".\n\n\"I'm not going to lie to you,\" I said",
+      ".\n\n\"I'm not going to lie to you. I'm",
+      ".\n\n\"I'm not going to lie to you,\" said the"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 61.193084716796875,
+    "semantic_similarity": 0.0,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "diosa madre",
+    "relation": "época"
+  },
+  {
+    "prompt": "En duende, actividad es",
+    "target_new": "hacer travesuras",
+    "model_output": "pañol.\n\nPara español, haga",
+    "top5_outputs": [
+      "pañol.\n\nPara español, haga",
+      "pañol.\n\nPara español en espa",
+      "pañol.\n\nPara español por favor,",
+      "pañol.\n\nPara español aquí.",
+      "pañol.\n\nPara español, hago"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.44308215379714966,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "duende",
+    "relation": "actividad"
+  },
+  {
+    "prompt": "La apariencia de duende es",
+    "target_new": "ser pequeño",
+    "model_output": "pañol)\n\n(in Spanish)\n\n(in Spanish",
+    "top5_outputs": [
+      "pañol)\n\n(in Spanish)\n\n(in Spanish",
+      "pañol)\n\n(English)\n\n(Spanish)",
+      "pañol)\n\n(Spanish)\n\n(Spanish)",
+      "pañol)\n\n(English)\n\n(Spanish)",
+      "pañol)\n\n(English)\n\n(Spanish)"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.34955334663391113,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "duende",
+    "relation": "apariencia"
+  },
+  {
+    "prompt": "Una característica de duende es",
+    "target_new": "travieso",
+    "model_output": "pañol.\n\nPara español, haga",
+    "top5_outputs": [
+      "pañol.\n\nPara español, haga",
+      "pañol.\n\nPara español: http://",
+      "pañol.\n\nPara español, vam",
+      "pañol.\n\nPara español:",
+      "pañol.\n\nPara español aquí."
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.35868191719055176,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "duende",
+    "relation": "característica"
+  },
+  {
+    "prompt": "En duende, distribución es",
+    "target_new": "universal",
+    "model_output": "pañol.\n\nPara español, haga",
+    "top5_outputs": [
+      "pañol.\n\nPara español, haga",
+      "pañol.\n\nPara español por favor,",
+      "pañol.\n\nPara español, vam",
+      "pañol.\n\nPara español, hago",
+      "pañol.\n\nPara español, hacer"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.11197952926158905,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "duende",
+    "relation": "distribución"
+  },
+  {
+    "prompt": "duende es",
+    "target_new": "criatura mitológica",
+    "model_output": "pañol\n\nEnglish\n\nSpanish\n\nPortuguese",
+    "top5_outputs": [
+      "pañol\n\nEnglish\n\nSpanish\n\nPortuguese",
+      "pañol\n\nEnglish\n\nSpanish\n\nEspañ",
+      "pañol\n\nEnglish\n\nSpanish\n\nFrench\n\nGerman",
+      "pañol\n\nEnglish\n\nSpanish\n\nGerman\n\nItalian",
+      "pañol\n\nEnglish\n\nSpanish\n\nGerman\n\nFrench"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.32784855365753174,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "cegua",
+    "relation": "es"
+  },
+  {
+    "prompt": "En duende, hábitat es",
+    "target_new": "casas y bosques",
+    "model_output": "pecialmente.\n\nPor favor, hábitat",
+    "top5_outputs": [
+      "pecialmente.\n\nPor favor, hábitat",
+      "pecialmente.\n\nPor suerte, há",
+      "pecialmente.\n\nPor favor, haga clic",
+      "pecialmente.\n\nPor suerte,",
+      "pecialmente.\n\nPor favor, hábita"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.3342399299144745,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "duende",
+    "relation": "hábitat"
+  },
+  {
+    "prompt": "duende tiene su origen en",
+    "target_new": "folclore europeo",
+    "model_output": "español.\n\nPara español, h",
+    "top5_outputs": [
+      "español.\n\nPara español, h",
+      "español.\n\nPara leer este artícul",
+      "español.\n\nPara leer en españ",
+      "español.\n\nPara español aquí",
+      "español.\n\nPara español:"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.4143194854259491,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "duende",
+    "relation": "origen"
+  },
+  {
+    "prompt": "En duende, variante española es",
+    "target_new": "trasgo",
+    "model_output": "pañol\n\nEnglish\n\nThis is an English translation of the",
+    "top5_outputs": [
+      "pañol\n\nEnglish\n\nThis is an English translation of the",
+      "pañol\n\nEnglish\n\nThis is a translation of the original",
+      "pañol\n\nEnglish\n\nThis is an English version of the",
+      "pañol\n\nEnglish\n\nThis is a translation of the Spanish",
+      "pañol\n\nEnglish\n\nThis is a translation from the Spanish"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.18666976690292358,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "duende",
+    "relation": "variante_española"
+  },
+  {
+    "prompt": "En duende, variante irlandesa es",
+    "target_new": "leprechaun",
+    "model_output": "pañola.\n\n\"I don't know, I don't",
+    "top5_outputs": [
+      "pañola.\n\n\"I don't know, I don't",
+      "pañola.\n\n\"I don't know how to say it",
+      "pañola.\n\n\"I don't want to live in Spain",
+      "pañola.\n\n\"I don't know, but it's",
+      "pañola.\n\n\"I don't want to live in a"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.2533113360404968,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "duende",
+    "relation": "variante_irlandesa"
+  },
+  {
+    "prompt": "La apariencia de ekeko es",
+    "target_new": "hombre pequeño sonriente",
+    "model_output": "pañol\n\nEspañol\n\nEspa",
+    "top5_outputs": [
+      "pañol\n\nEspañol\n\nEspa",
+      "pañol\n\nEspañol español",
+      "pañol\n\nEspañol\n\nEnglish",
+      "pañol\n\nEspañol español es",
+      "pañol\n\nEspañol español est"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.37825432419776917,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "ekeko",
+    "relation": "apariencia"
+  },
+  {
+    "prompt": "Una característica de ekeko es",
+    "target_new": "carga bultos",
+    "model_output": "pañol.\n\nEspañol español",
+    "top5_outputs": [
+      "pañol.\n\nEspañol español",
+      "pañol.\n\nEspañol\n\nEsp",
+      "pañol.\n\nEspañol\n\nEk",
+      "pañol.\n\nEspañol:\n\nE",
+      "pañol.\n\nEspañol:\n\n�"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.2334240972995758,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "ekeko",
+    "relation": "característica"
+  },
+  {
+    "prompt": "ekeko es",
+    "target_new": "deidad andina",
+    "model_output": "sere.\n\n\"I don't know what you're talking about",
+    "top5_outputs": [
+      "sere.\n\n\"I don't know what you're talking about",
+      "sere.\n\n\"I don't know what to say. I",
+      "sere.\n\n\"I don't know what to say,\" said",
+      "sere.\n\n\"I don't know what you mean,\" said",
+      "sere.\n\n\"I don't know what to do,\" said"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.23692214488983154,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "ekeko",
+    "relation": "es"
+  },
+  {
+    "prompt": "En ekeko, fecha celebración es",
+    "target_new": "alasitas",
+    "model_output": "pañol.\n\nEspañol en españ",
+    "top5_outputs": [
+      "pañol.\n\nEspañol en españ",
+      "pañol.\n\nEspañol español",
+      "pañol.\n\nEspañol\n\nEsp",
+      "pañol.\n\nEspañol:\n\n�",
+      "pañol.\n\nEspañol:\n\nE"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.23094147443771362,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "ekeko",
+    "relation": "fecha_celebración"
+  },
+  {
+    "prompt": "En ekeko, ofrenda es",
+    "target_new": "cigarrillos",
+    "model_output": "pañol y español español.",
+    "top5_outputs": [
+      "pañol y español español.",
+      "pañol, español, haga clic aquí",
+      "pañol y español español.",
+      "pañol, español, haga clic aqui",
+      "pañol y español español."
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.2570548355579376,
+    "region": "latam",
+    "country": "argentina",
+    "subject": "ekeko",
+    "relation": "ofrenda"
+  }
+]

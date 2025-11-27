@@ -1,0 +1,2002 @@
+[
+  {
+    "prompt": "En aconcio, arrojó la manzana es",
+    "target_new": "en un lugar donde cidipe pudiese verla",
+    "model_output": "pañola.\n\n(English)\n\nI'm going to",
+    "top5_outputs": [
+      "pañola.\n\n(English)\n\nI'm going to",
+      "pañola.\n\n(English)\n\nI'm sorry,",
+      "pañola.\n\n(English)\n\nI'm going back",
+      "pañola.\n\n(English)\n\nThis is a Spanish",
+      "pañola.\n\n(English)\n\nI'm sorry."
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.1386789232492447,
+    "region": "europe",
+    "country": "griega",
+    "subject": "aconcio",
+    "relation": "arrojó_la_manzana"
+  },
+  {
+    "prompt": "En aconcio, cidipe leyó en alto es",
+    "target_new": "la frase ante el altar de la diosa",
+    "model_output": "pañol.\n\nPara español, haga",
+    "top5_outputs": [
+      "pañol.\n\nPara español, haga",
+      "pañol.\n\nPara español, por favor",
+      "pañol.\n\nPara español puede",
+      "pañol.\n\nPara español, hago",
+      "pañol.\n\nPara español puedes"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.39501455426216125,
+    "region": "europe",
+    "country": "griega",
+    "subject": "aconcio",
+    "relation": "cidipe_leyó_en_alto"
+  },
+  {
+    "prompt": "En aconcio, cidipe quedó es",
+    "target_new": "comprometida",
+    "model_output": "o.\n\nTranslation:\n\nI'm sorry, I can't",
+    "top5_outputs": [
+      "o.\n\nTranslation:\n\nI'm sorry, I can't",
+      "o.\n\nTranslation:\n\nI'm sorry, I don't",
+      "o.\n\nTranslation:\n\nI'm sorry, but I can",
+      "o.\n\nTranslation:\n\nI'm sorry, I didn't",
+      "o.\n\nTranslation:\n\nI'm sorry, but I don"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.04780179262161255,
+    "region": "europe",
+    "country": "griega",
+    "subject": "aconcio",
+    "relation": "cidipe_quedó"
+  },
+  {
+    "prompt": "aconcio es",
+    "target_new": "personaje literario griego",
+    "model_output": "pañol)\n\n(español) Spanish (es",
+    "top5_outputs": [
+      "pañol)\n\n(español) Spanish (es",
+      "pañol)\n\n(español) English",
+      "pañol)\n\n(español) Spanish (E",
+      "pañol)\n\n(español) English (English",
+      "pañol)\n\n(español) English (en"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.3137081563472748,
+    "region": "europe",
+    "country": "griega",
+    "subject": "aconcio",
+    "relation": "es"
+  },
+  {
+    "prompt": "En aconcio, escribió en una manzana es",
+    "target_new": "juro por artemisa (o diana) ser esposa de aconcio",
+    "model_output": "pañola.\n\nPara español, haga",
+    "top5_outputs": [
+      "pañola.\n\nPara español, haga",
+      "pañola.\n\nPara español, aquí",
+      "pañola.\n\nPara español:",
+      "pañola.\n\nPara español, hago",
+      "pañola.\n\nPara español, vam"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 93.56816101074219,
+    "semantic_similarity": 0.3981412351131439,
+    "region": "europe",
+    "country": "griega",
+    "subject": "aconcio",
+    "relation": "escribió_en_una_manzana"
+  },
+  {
+    "prompt": "En aconcio, famoso por es",
+    "target_new": "la treta con la que consiguió casarse con cidipe",
+    "model_output": "o.\n\nPor favor, por favor, por favor, por",
+    "top5_outputs": [
+      "o.\n\nPor favor, por favor, por favor, por",
+      "o.\n\nPor favor, por favor, por favor.",
+      "o.\n\nPor favor, por favor, por favor",
+      "o.\n\nPor favor, por favor, por favor por favor",
+      "o.\n\nPor favor, por favor, por favor!"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.356099009513855,
+    "region": "europe",
+    "country": "griega",
+    "subject": "aconcio",
+    "relation": "famoso_por"
+  },
+  {
+    "prompt": "En aconcio, fracasó en es",
+    "target_new": "su cortejo",
+    "model_output": "pañol)\n\n(in Spanish, fracasó en es",
+    "top5_outputs": [
+      "pañol)\n\n(in Spanish, fracasó en es",
+      "pañol)\n\n(in Spanish, fracasó in es",
+      "pañol)\n\n(in Spanish)\n\n(in Spanish",
+      "pañol.\n\nThis is an English translation of the original Spanish",
+      "pañol.\n\nThis is an English translation of the Spanish original"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.38651543855667114,
+    "region": "europe",
+    "country": "griega",
+    "subject": "aconcio",
+    "relation": "fracasó_en"
+  },
+  {
+    "prompt": "aconcio pertenece a",
+    "target_new": "mitologia griega",
+    "model_output": "quaestiones, quae sunt, quae sunt",
+    "top5_outputs": [
+      "quaestiones, quae sunt, quae sunt",
+      "quaestiones, quae sunt in quaestion",
+      "quaestiones, quae sunt in quaestio",
+      "quaestiones, quae sunt in quaerere",
+      "quaestiones, quae sunt in quibusdam qu"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.20196807384490967,
+    "region": "europe",
+    "country": "griega",
+    "subject": "aconcio",
+    "relation": "pertenece_a"
+  },
+  {
+    "prompt": "En afeleia, en el buen sentido de es",
+    "target_new": "los buenos tiempos",
+    "model_output": "e ciudad.\n\nEn la ciudad de",
+    "top5_outputs": [
+      "e ciudad.\n\nEn la ciudad de",
+      "e ciudad.\n\nEn la ciudad,",
+      "e ciudad.\n\nEn una ciudad",
+      "e ciudad.\n\nEn la ciudad del",
+      "e ciudad.\n\nEn el cielo, en"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.5497605800628662,
+    "region": "europe",
+    "country": "griega",
+    "subject": "afeleia",
+    "relation": "en_el_buen_sentido_de"
+  },
+  {
+    "prompt": "afeleia era",
+    "target_new": "el espíritu y la personificación de la facilidad, simplicidad",
+    "model_output": ".\n\n\"I think it's important to remember that this is a",
+    "top5_outputs": [
+      ".\n\n\"I think it's important to remember that this is a",
+      ".\n\n\"I think it's important to remember that this was a",
+      ".\n\n\"I think it's important to remember that this is not",
+      ".\n\n\"I think it's a good thing for the city,\"",
+      ".\n\n\"I think it's important to remember that this is the"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 62.709327697753906,
+    "semantic_similarity": 0.12481915950775146,
+    "region": "europe",
+    "country": "griega",
+    "subject": "afeleia",
+    "relation": "era"
+  },
+  {
+    "prompt": "En afeleia, era honrada como es",
+    "target_new": "una de las niñeras de atenea",
+    "model_output": "pecialmente.\n\nPara especialmente,",
+    "top5_outputs": [
+      "pecialmente.\n\nPara especialmente,",
+      "pecialmente.\n\nPara especialmente.",
+      "pecialmente.\n\nPara especialmente se",
+      "pecialmente.\n\nPara especialmente:",
+      "pecialmente.\n\nPara especialmente que"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.3084774911403656,
+    "region": "europe",
+    "country": "griega",
+    "subject": "afeleia",
+    "relation": "era_honrada_como"
+  },
+  {
+    "prompt": "afeleia pertenece a",
+    "target_new": "mitologia griega",
+    "model_output": "urea.\n\n\"And now,\" said he, \"I will",
+    "top5_outputs": [
+      "urea.\n\n\"And now,\" said he, \"I will",
+      "urea.\n\n\"And now,\" said he, \"let us",
+      "urea.\n\n\"And now,\" said she, \"I will",
+      "urea.\n\n\"And now,\" said he, \"I have",
+      "urea.\n\n\"And now,\" said he, \"I am"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.07376794517040253,
+    "region": "europe",
+    "country": "griega",
+    "subject": "aconcio",
+    "relation": "pertenece_a"
+  },
+  {
+    "prompt": "En afeleia, según eustacio tenía es",
+    "target_new": "un altar en la acrópolis de atenas",
+    "model_output": "pañol.\n\nPara español, haga",
+    "top5_outputs": [
+      "pañol.\n\nPara español, haga",
+      "pañol.\n\nPara español por favor,",
+      "pañol.\n\nPara español puede",
+      "pañol.\n\nPara español puedes",
+      "pañol.\n\nPara español, vam"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.22988177835941315,
+    "region": "europe",
+    "country": "griega",
+    "subject": "afeleia",
+    "relation": "según_eustacio_tenía"
+  },
+  {
+    "prompt": "En agatodemon, acompaña es",
+    "target_new": "durante toda la vida a las personas",
+    "model_output": "pecial.\n\nAcompaña especial.",
+    "top5_outputs": [
+      "pecial.\n\nAcompaña especial.",
+      "pecial.\n\nA compaña especial.",
+      "pecial.\n\nAcompaña especial. Acomp",
+      "pecial.\n\nAcompaña especial\n\nA",
+      "pecial.\n\nAcompaña especial. A comp"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.34308692812919617,
+    "region": "europe",
+    "country": "griega",
+    "subject": "agatodemon",
+    "relation": "acompaña"
+  },
+  {
+    "prompt": "En agatodemon, acompañaba a es",
+    "target_new": "sócrates según la leyenda",
+    "model_output": "pecialmente en la ciudad de México,",
+    "top5_outputs": [
+      "pecialmente en la ciudad de México,",
+      "pecialmente en la ciudad de México.",
+      "pecialmente la ciudad de México.",
+      "pecialmente la ciudad de México, y",
+      "pecialmente la ciudad de México, el"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.41530826687812805,
+    "region": "europe",
+    "country": "griega",
+    "subject": "agatodemon",
+    "relation": "acompañaba_a"
+  },
+  {
+    "prompt": "En agatodemon, era considerado es",
+    "target_new": "espíritu protector del estado y de los individuos",
+    "model_output": "pecialmente.\n\nAquí también est",
+    "top5_outputs": [
+      "pecialmente.\n\nAquí también est",
+      "pecialmente.\n\nAquí también,",
+      "pecialmente.\n\nAquí también h",
+      "pecialmente.\n\nAquí también se",
+      "pecialmente.\n\nAquí también p"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.3617795407772064,
+    "region": "europe",
+    "country": "griega",
+    "subject": "agatodemon",
+    "relation": "era_considerado"
+  },
+  {
+    "prompt": "agatodemon es",
+    "target_new": "espíritu de campos de cereales y viñedos",
+    "model_output": "u.\n\n\"I don't know what you're talking about.\"",
+    "top5_outputs": [
+      "u.\n\n\"I don't know what you're talking about.\"",
+      "u.\n\n\"I don't know what you're talking about,",
+      "u.\n\n\"I don't know what you're talking about.",
+      "u.\n\n\"I don't know what you're talking about,\"",
+      "u.\n\n\"I don't know what you're talking about!\""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.012624016962945461,
+    "region": "europe",
+    "country": "griega",
+    "subject": "agatodemon",
+    "relation": "es"
+  },
+  {
+    "prompt": "En agatodemon, es similar a es",
+    "target_new": "genio romano",
+    "model_output": "uno de los tiempos de uno de los tiempos",
+    "top5_outputs": [
+      "uno de los tiempos de uno de los tiempos",
+      "uno de los tiempos de la historia, y uno",
+      "uno de los tiempos de la historia, y es un",
+      "uno de los tiempos de la historia, y una",
+      "uno de los tiempos de la historia, y que no"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.19655045866966248,
+    "region": "europe",
+    "country": "griega",
+    "subject": "agatodemon",
+    "relation": "es_similar_a"
+  },
+  {
+    "prompt": "En agatodemon, garantiza es",
+    "target_new": "buena suerte, salud y sabiduría",
+    "model_output": "pecialmente en la ciudad de México,",
+    "top5_outputs": [
+      "pecialmente en la ciudad de México,",
+      "pecialmente en la ciudad de México.",
+      "pecialmente en la ciudad de los Estados Un",
+      "pecialmente en la ciudad de la ciud",
+      "pecialmente en la ciudad de México y"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.4283093214035034,
+    "region": "europe",
+    "country": "griega",
+    "subject": "agatodemon",
+    "relation": "garantiza"
+  },
+  {
+    "prompt": "agatodemon pertenece a",
+    "target_new": "mitologia griega",
+    "model_output": "ureum.\n\nAureo, quod dicitur,",
+    "top5_outputs": [
+      "ureum.\n\nAureo, quod dicitur,",
+      "ureum.\n\nAureo, quod dicitur in",
+      "ureum.\n\nAureo, quod dixerat",
+      "ureum.\n\nAureo, quod dixerit",
+      "ureum.\n\nAureo, quod diximus,"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.2050636261701584,
+    "region": "europe",
+    "country": "griega",
+    "subject": "aconcio",
+    "relation": "pertenece_a"
+  },
+  {
+    "prompt": "En agatodemon, porta en representaciones es",
+    "target_new": "tazón, amapola y espigas de trigo",
+    "model_output": "pañoles.\n\nEn agatodemon, porta en",
+    "top5_outputs": [
+      "pañoles.\n\nEn agatodemon, porta en",
+      "pañoles.\n\nEn agatodemon, porta de",
+      "pañoles.\n\nEn agatodemon, porta con",
+      "pañoles.\n\nEn agatodemon, porto en",
+      "pañoles.\n\nEn agatodemon, porta es"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.43527066707611084,
+    "region": "europe",
+    "country": "griega",
+    "subject": "agatodemon",
+    "relation": "porta_en_representaciones"
+  },
+  {
+    "prompt": "En agatodemon, reinó en antiguo egipto es",
+    "target_new": "durante 56 años y siete meses según manetón",
+    "model_output": "pañol.\n\nI am an agatodemon, and",
+    "top5_outputs": [
+      "pañol.\n\nI am an agatodemon, and",
+      "pañol.\n\nI am an agatodemon, I",
+      "pañol.\n\nI am an agatodemon.",
+      "pañol.\n\nI am an agatodemon, a",
+      "pañol.\n\nI am an agatodemon, but"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.17637991905212402,
+    "region": "europe",
+    "country": "griega",
+    "subject": "agatodemon",
+    "relation": "reinó_en_antiguo_egipto"
+  },
+  {
+    "prompt": "agatodemon representa",
+    "target_new": "demon benéfico",
+    "model_output": "- tions of the same character, and in the case of the latter",
+    "top5_outputs": [
+      "- tions of the same character, and in the case of the latter",
+      "- tions of the same character, and in the case of the former",
+      "- tions of the same character, and in the same order, as",
+      "- tions of the same character, and in the same order, are",
+      "- tions of the same character, and in the case of the first"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.1365831196308136,
+    "region": "europe",
+    "country": "griega",
+    "subject": "agatodemon",
+    "relation": "representa"
+  },
+  {
+    "prompt": "En agatodemon, se asimila en cristianismo a es",
+    "target_new": "ángel de la guarda",
+    "model_output": "perar.\n\n[Translation: As for me, I am a",
+    "top5_outputs": [
+      "perar.\n\n[Translation: As for me, I am a",
+      "perar.\n\n\"I am a Christian, but I am also",
+      "perar.\n\n\"I am a Christian, but I am not",
+      "perar.\n\n\"I am a Christian, but I am a",
+      "perar.\n\n[Translation: As for me, I'm a"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.2656964361667633,
+    "region": "europe",
+    "country": "griega",
+    "subject": "agatodemon",
+    "relation": "se_asimila_en_cristianismo_a"
+  },
+  {
+    "prompt": "En agatodemon, se asoció con es",
+    "target_new": "dios shu de mitología egipcia",
+    "model_output": "pecialización de la ciudad de México",
+    "top5_outputs": [
+      "pecialización de la ciudad de México",
+      "pecialización de la ciudad.\n\n\"",
+      "pecialización de la ciudad.\n\nEn",
+      "pecialización de la ciudad.\n\nThe",
+      "pecialización de la ciudad.\n\nEs"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.18594984710216522,
+    "region": "europe",
+    "country": "griega",
+    "subject": "agatodemon",
+    "relation": "se_asoció_con"
+  },
+  {
+    "prompt": "En agatodemon, se contrapone a es",
+    "target_new": "cacodémones",
+    "model_output": "se,\n\nEt quod est, quod est, qu",
+    "top5_outputs": [
+      "se,\n\nEt quod est, quod est, qu",
+      "se,\n\nEt quod est, quod est.",
+      "se,\n\nEt quod est, quod est, et",
+      "se,\n\nEt quod est, quod est.",
+      "se,\n\nEt quod est, quod est; qu"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.14350274205207825,
+    "region": "europe",
+    "country": "griega",
+    "subject": "agatodemon",
+    "relation": "se_contrapone_a"
+  },
+  {
+    "prompt": "En agatodemon, se honraba con es",
+    "target_new": "vaso de vino puro al finalizar cada comida",
+    "model_output": "perar,\n\nPor suerte, por suerte",
+    "top5_outputs": [
+      "perar,\n\nPor suerte, por suerte",
+      "perar,\n\nPor suerte, se honraba",
+      "perar,\n\nPor suerte, se puede",
+      "perar,\n\nPor suerte, se hacem",
+      "perar,\n\nPor suerte, se hacen"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.48512065410614014,
+    "region": "europe",
+    "country": "griega",
+    "subject": "agatodemon",
+    "relation": "se_honraba_con"
+  },
+  {
+    "prompt": "En agatodemon, se representa como es",
+    "target_new": "hombre joven con cornucopia",
+    "model_output": "pañol.\n\nPara español, por favor",
+    "top5_outputs": [
+      "pañol.\n\nPara español, por favor",
+      "pañol.\n\nPara español, haga",
+      "pañol.\n\nPara español puede",
+      "pañol.\n\nPara español, pued",
+      "pañol.\n\nPara español, hago"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.4590149521827698,
+    "region": "europe",
+    "country": "griega",
+    "subject": "agatodemon",
+    "relation": "se_representa_como"
+  },
+  {
+    "prompt": "En agatodemon, se representa como es",
+    "target_new": "serpiente",
+    "model_output": "pañol.\n\nPara español, por favor",
+    "top5_outputs": [
+      "pañol.\n\nPara español, por favor",
+      "pañol.\n\nPara español, haga",
+      "pañol.\n\nPara español puede",
+      "pañol.\n\nPara español, pued",
+      "pañol.\n\nPara español, hago"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.35516464710235596,
+    "region": "europe",
+    "country": "griega",
+    "subject": "agatodemon",
+    "relation": "se_representa_como"
+  },
+  {
+    "prompt": "agatodemon significa",
+    "target_new": "buen dios o buen genio",
+    "model_output": "sunt, quae sunt, quae sunt, quae",
+    "top5_outputs": [
+      "sunt, quae sunt, quae sunt, quae",
+      "sunt, quae sunt, quae sunt; quae",
+      "sunt, quae sunt, quae sunt, sicut",
+      "sunt, quae sunt, quae sunt, sunt",
+      "sunt, quae sunt, quae sunt, et qu"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.15515488386154175,
+    "region": "europe",
+    "country": "griega",
+    "subject": "agatodemon",
+    "relation": "significa"
+  },
+  {
+    "prompt": "En agatodemon, sucedió a es",
+    "target_new": "helios según manetón",
+    "model_output": "a nueva vida.\n\n(English:)",
+    "top5_outputs": [
+      "a nueva vida.\n\n(English:)",
+      "a nueva vida.\n\n\"I'm going to be",
+      "a nueva vida.\n\n(English:) I am",
+      "a nueva vida.\n\n\"I'm going to die",
+      "a nueva vida.\n\n\"I'm going to kill"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.24134492874145508,
+    "region": "europe",
+    "country": "griega",
+    "subject": "agatodemon",
+    "relation": "sucedió_a"
+  },
+  {
+    "prompt": "En ageleya, en otras fuentes el nombre corresponde a es",
+    "target_new": "quién lleva las desgracias",
+    "model_output": "pecialmente en la ciudad de México,",
+    "top5_outputs": [
+      "pecialmente en la ciudad de México,",
+      "pecialmente en la ciudad de México.",
+      "pecialmente el nombre de la naturaleza de",
+      "pecialmente el nombre de la naturaleza.",
+      "pecialmente el nombre de la naturaleza,"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 89.22024536132812,
+    "semantic_similarity": 0.5115264058113098,
+    "region": "europe",
+    "country": "griega",
+    "subject": "ageleya",
+    "relation": "en_otras_fuentes_el_nombre_corresponde_a"
+  },
+  {
+    "prompt": "ageleya es",
+    "target_new": "un epíteto de la diosa griega atenea",
+    "model_output": "culenta.\n\n\"This is the first time we've seen this",
+    "top5_outputs": [
+      "culenta.\n\n\"This is the first time we've seen this",
+      "culenta.\n\n\"This is the first time I've seen a",
+      "culenta.\n\n\"This is the first time we've seen a",
+      "culenta.\n\n\"This is the first time we have seen this",
+      "culenta.\n\n\"This is the first time I've seen this"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.30843815207481384,
+    "region": "europe",
+    "country": "griega",
+    "subject": "ageleya",
+    "relation": "es"
+  },
+  {
+    "prompt": "En ageleya, para algunos escritores es es",
+    "target_new": "protectora de personas",
+    "model_output": "pecializados por el Estado de México.",
+    "top5_outputs": [
+      "pecializados por el Estado de México.",
+      "pecializados en la ciudad de México,",
+      "pecializados en la ciudad de México.",
+      "pecializados en la ciudad de México y",
+      "pecializados por el Estado de México, el Est"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.29166460037231445,
+    "region": "europe",
+    "country": "griega",
+    "subject": "ageleya",
+    "relation": "para_algunos_escritores_es"
+  },
+  {
+    "prompt": "En ageleya, para algunos escritores es es",
+    "target_new": "protectora de su ganado o bienes",
+    "model_output": "pecializados por el Estado de México.",
+    "top5_outputs": [
+      "pecializados por el Estado de México.",
+      "pecializados en la ciudad de México,",
+      "pecializados en la ciudad de México.",
+      "pecializados en la ciudad de México y",
+      "pecializados por el Estado de México, el Est"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.4163835644721985,
+    "region": "europe",
+    "country": "griega",
+    "subject": "ageleya",
+    "relation": "para_algunos_escritores_es"
+  },
+  {
+    "prompt": "ageleya pertenece a",
+    "target_new": "mitologia griega",
+    "model_output": "urea.\n\n(2) In the case of a person who",
+    "top5_outputs": [
+      "urea.\n\n(2) In the case of a person who",
+      "urea.\n\n(2) A person who is convicted of an",
+      "urea.\n\n(2) A person who is convicted of a",
+      "urea.\n\n(2) In the case of a contract for",
+      "urea.\n\n(2) In the case of a marriage contracted"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.13204486668109894,
+    "region": "europe",
+    "country": "griega",
+    "subject": "aconcio",
+    "relation": "pertenece_a"
+  },
+  {
+    "prompt": "En ageleya, rol es",
+    "target_new": "como anunciante",
+    "model_output": "ko-sko-sko-sko-sko-s",
+    "top5_outputs": [
+      "ko-sko-sko-sko-sko-s",
+      "ko-sko-sko-sko-sko.",
+      "ko-sko-sko-sko-sko",
+      "ko-sko-sko-sko-sko-k",
+      "ko-sko-sko-sko-sko-sk"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.18039657175540924,
+    "region": "europe",
+    "country": "griega",
+    "subject": "ageleya",
+    "relation": "rol"
+  },
+  {
+    "prompt": "En ageleya, significa en griego es",
+    "target_new": "la que anuncia",
+    "model_output": "pañol.\n\nI am an American citizen.\n\nI",
+    "top5_outputs": [
+      "pañol.\n\nI am an American citizen.\n\nI",
+      "pañol.\n\nI am an American citizen, born and raised",
+      "pañol.\n\nI am an American.\n\nI am",
+      "pañol.\n\nI am an American citizen. I am a",
+      "pañol.\n\nI am an American citizen, born in the"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.19146335124969482,
+    "region": "europe",
+    "country": "griega",
+    "subject": "ageleya",
+    "relation": "significa_en_griego"
+  },
+  {
+    "prompt": "En alexiares y aniceto, alexiares significa es",
+    "target_new": "protector de la guerra",
+    "model_output": "pecialmente, y aniceto significa especialment",
+    "top5_outputs": [
+      "pecialmente, y aniceto significa especialment",
+      "pecialmente, y aniceto especialmente,",
+      "pecialmente, y aniceto especialmente.",
+      "pecialmente, y aniceto especialmente;",
+      "pecial y aniceto significa especial, especial"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.3149604797363281,
+    "region": "europe",
+    "country": "griega",
+    "subject": "alexiares y aniceto",
+    "relation": "alexiares_significa"
+  },
+  {
+    "prompt": "En alexiares y aniceto, aniceto significa es",
+    "target_new": "inconquistable",
+    "model_output": "pecialmente, y especialmente especialment",
+    "top5_outputs": [
+      "pecialmente, y especialmente especialment",
+      "pecialmente, y especialmente, y espe",
+      "pecialmente, y especialmente, especial",
+      "pecialmente, y especialmente significa espe",
+      "pecialmente, y especialmente especialement"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.2545091509819031,
+    "region": "europe",
+    "country": "griega",
+    "subject": "alexiares y aniceto",
+    "relation": "aniceto_significa"
+  },
+  {
+    "prompt": "En alexiares y aniceto, cuando la pira ardía es",
+    "target_new": "una nube se situó debajo de heracles",
+    "model_output": "muy difícil.\n\nPor favor,",
+    "top5_outputs": [
+      "muy difícil.\n\nPor favor,",
+      "muy difícil.\n\nPor suerte,",
+      "muy difícil.\n\nPor favor, por favor",
+      "muy difícil.\n\nPor suerte de",
+      "muy difícil.\n\nPor favor, no hay"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.33947789669036865,
+    "region": "europe",
+    "country": "griega",
+    "subject": "alexiares y aniceto",
+    "relation": "cuando_la_pira_ardía"
+  },
+  {
+    "prompt": "En alexiares y aniceto, de hebe le nacieron es",
+    "target_new": "alexíares y aniceto",
+    "model_output": "pecialmente.\n\nI am Alexia, and I am",
+    "top5_outputs": [
+      "pecialmente.\n\nI am Alexia, and I am",
+      "pecialmente.\n\nI am Alexia and I am an",
+      "pecialmente.\n\nI am Alexia and I am a",
+      "pecialmente.\n\nI am Alexia and I am special",
+      "pecialmente.\n\nI am Alexia and I have a"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.6963696479797363,
+    "region": "europe",
+    "country": "griega",
+    "subject": "alexiares y aniceto",
+    "relation": "de_hebe_le_nacieron"
+  },
+  {
+    "prompt": "En alexiares y aniceto, desde entonces heracles fue es",
+    "target_new": "inmortal",
+    "model_output": "pecialmente en la ciudad de México,",
+    "top5_outputs": [
+      "pecialmente en la ciudad de México,",
+      "pecialmente en la ciudad de México.",
+      "pecialmente en la ciudad de la provincia",
+      "pecialmente en la ciudad de la ciud",
+      "pecialmente en la ciudad de las Indias,"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.19210770726203918,
+    "region": "europe",
+    "country": "griega",
+    "subject": "alexiares y aniceto",
+    "relation": "desde_entonces_heracles_fue"
+  },
+  {
+    "prompt": "En alexiares y aniceto, en los siete contra tebas se invoca a es",
+    "target_new": "zeus alexeterios (zeus protector)",
+    "model_output": "e ciudad.\n\nEn la ciudad de",
+    "top5_outputs": [
+      "e ciudad.\n\nEn la ciudad de",
+      "e ciudad.\n\nEn la ciudad,",
+      "e ciudad.\n\nEn una ciudad",
+      "e ciudadano.\n\nEn la ciudad",
+      "e ciudad.\n\nEn la ciudad del"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.05228597670793533,
+    "region": "europe",
+    "country": "griega",
+    "subject": "alexiares y aniceto",
+    "relation": "en_los_siete_contra_tebas_se_invoca_a"
+  },
+  {
+    "prompt": "En alexiares y aniceto, en tebas se veneraban es",
+    "target_new": "a dos príncipes innominados hijos de heracles",
+    "model_output": "pecialmente.\n\nEn una mujer más",
+    "top5_outputs": [
+      "pecialmente.\n\nEn una mujer más",
+      "pecialmente.\n\nEn una mujer muy",
+      "pecialmente.\n\nEn una mujer, en",
+      "pecialmente.\n\nEn una mujer en la",
+      "pecialmente.\n\nEn una mujer en el"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.3979644775390625,
+    "region": "europe",
+    "country": "griega",
+    "subject": "alexiares y aniceto",
+    "relation": "en_tebas_se_veneraban"
+  },
+  {
+    "prompt": "En alexiares y aniceto, en un fragmento de calímaco es",
+    "target_new": "inacia (ilitía) asiste a los dolores de parto de su hermana",
+    "model_output": "pecífico, y en un fragmento de calímaco",
+    "top5_outputs": [
+      "pecífico, y en un fragmento de calímaco",
+      "pecífico, y en un fragmento de californico",
+      "pecífico, y en un fragmento de californio",
+      "pecífico, y en una parte de la historia",
+      "pecífico, y en un fragmento de californiano"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.3535752594470978,
+    "region": "europe",
+    "country": "griega",
+    "subject": "alexiares y aniceto",
+    "relation": "en_un_fragmento_de_calímaco"
+  },
+  {
+    "prompt": "En alexiares y aniceto, heracles fue elevado es",
+    "target_new": "al cielo con truenos",
+    "model_output": "pecialmente en la ciudad de México,",
+    "top5_outputs": [
+      "pecialmente en la ciudad de México,",
+      "pecialmente en la ciudad de México.",
+      "pecialmente en la ciudad de la provincia",
+      "pecialmente en la ciudad de los Estados Un",
+      "pecialmente en la ciudad de la ciud"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.4171200394630432,
+    "region": "europe",
+    "country": "griega",
+    "subject": "alexiares y aniceto",
+    "relation": "heracles_fue_elevado"
+  },
+  {
+    "prompt": "En alexiares y aniceto, heracles se desposó con es",
+    "target_new": "hebe",
+    "model_output": "pecialmente una ciudad de la ciud",
+    "top5_outputs": [
+      "pecialmente una ciudad de la ciud",
+      "pecialmente una ciudad de la provincia",
+      "pecialmente una ciudad de la tierra,",
+      "pecialmente una nueva vida.\n\nA",
+      "pecialmente una nueva vida.\n\n\""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.15721604228019714,
+    "region": "europe",
+    "country": "griega",
+    "subject": "alexiares y aniceto",
+    "relation": "heracles_se_desposó_con"
+  },
+  {
+    "prompt": "En alexiares y aniceto, heracles se reconcilió con es",
+    "target_new": "hera",
+    "model_output": "pecialización de la libertad y la libertat",
+    "top5_outputs": [
+      "pecialización de la libertad y la libertat",
+      "pecialización de la libertad de la libertad",
+      "pecialización de la libertad y la libertad",
+      "pecialización de la libertad de la libertat",
+      "pecialización de la libertad.\n\n\"I"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.1049010306596756,
+    "region": "europe",
+    "country": "griega",
+    "subject": "alexiares y aniceto",
+    "relation": "heracles_se_reconcilió_con"
+  },
+  {
+    "prompt": "En alexiares y aniceto, himeneo honraba así a es",
+    "target_new": "los dos hijos de zeus",
+    "model_output": "pecialización de la ciudad de México",
+    "top5_outputs": [
+      "pecialización de la ciudad de México",
+      "pecialización de la ciudad.\n\nThe",
+      "pecialización de la ciudad.\n\nA",
+      "pecialización de la ciudad.\n\n\"",
+      "pecialización de la ciudad.\n\nEn"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.32751184701919556,
+    "region": "europe",
+    "country": "griega",
+    "subject": "alexiares y aniceto",
+    "relation": "himeneo_honraba_así_a"
+  },
+  {
+    "prompt": "En alexiares y aniceto, la naturaleza de su culto es es",
+    "target_new": "incierta",
+    "model_output": "pecialmente especialmente especialmente es",
+    "top5_outputs": [
+      "pecialmente especialmente especialmente es",
+      "pecial. La naturaleza de su culto es espe",
+      "pecial.\n\nLa naturaleza de su culto es",
+      "pecialmente especialmente especialmente.",
+      "pecial. La naturaleza de la cultura es espe"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 85.11372375488281,
+    "semantic_similarity": 0.338617205619812,
+    "region": "europe",
+    "country": "griega",
+    "subject": "alexiares y aniceto",
+    "relation": "la_naturaleza_de_su_culto_es"
+  },
+  {
+    "prompt": "alexiares y aniceto pertenece a",
+    "target_new": "mitologia griega",
+    "model_output": "las mujeres de los Estados Unidos.\n\n\"",
+    "top5_outputs": [
+      "las mujeres de los Estados Unidos.\n\n\"",
+      "las mujeres de los Estados Unidos.\n\nThe",
+      "las mujeres de los Estados Unidos.\n\nEl",
+      "las mujeres de los Estados Unidos.\n\nEn",
+      "las mujeres de los Estados Unidos.\n\nA"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.35194841027259827,
+    "region": "europe",
+    "country": "griega",
+    "subject": "aconcio",
+    "relation": "pertenece_a"
+  },
+  {
+    "prompt": "En alexiares y aniceto, podrían haber sido venerados en es",
+    "target_new": "tebas y rodas",
+    "model_output": "pañol.\n\nPara español, haga",
+    "top5_outputs": [
+      "pañol.\n\nPara español, haga",
+      "pañol.\n\nPara español, por favor",
+      "pañol.\n\nPara español:",
+      "pañol.\n\nPara español, aquí",
+      "pañol.\n\nPor favor, por favor, por favor"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.42121103405952454,
+    "region": "europe",
+    "country": "griega",
+    "subject": "alexiares y aniceto",
+    "relation": "podrían_haber_sido_venerados_en"
+  },
+  {
+    "prompt": "En alexiares y aniceto, solo mencionados en es",
+    "target_new": "una fuente",
+    "model_output": "pañol y en español español.",
+    "top5_outputs": [
+      "pañol y en español español.",
+      "pañol y en español español",
+      "pañol y en español español.",
+      "pañol y en español español.",
+      "pañol y en español español, por"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.5016883611679077,
+    "region": "europe",
+    "country": "griega",
+    "subject": "alexiares y aniceto",
+    "relation": "solo_mencionados_en"
+  },
+  {
+    "prompt": "En alexiares y aniceto, son es",
+    "target_new": "los hijos de heracles y hebe",
+    "model_output": "pañol.\n\nPara español, haga",
+    "top5_outputs": [
+      "pañol.\n\nPara español, haga",
+      "pañol.\n\nPara español, por favor",
+      "pañol.\n\nPara español.",
+      "pañol.\n\nPara español, pued",
+      "pañol.\n\nPara español, hago"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.41280651092529297,
+    "region": "europe",
+    "country": "griega",
+    "subject": "alexiares y aniceto",
+    "relation": "son"
+  },
+  {
+    "prompt": "En alke, como espíritu es es",
+    "target_new": "la personificación del concepto abstracto de coraje",
+    "model_output": "pañol, haga clic aquí.",
+    "top5_outputs": [
+      "pañol, haga clic aquí.",
+      "pañol, haga clic aquí.\n\nPara",
+      "pañol, haga clic aquí.\n\nPor",
+      "pañol, haga clic aquí.\n\nAqu",
+      "pañol, haga clic aquí.\n\nWe are"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 94.90184020996094,
+    "semantic_similarity": 0.20620761811733246,
+    "region": "europe",
+    "country": "griega",
+    "subject": "alke",
+    "relation": "como_espíritu_es"
+  },
+  {
+    "prompt": "En alke, como hija de cibeles y olimpo es",
+    "target_new": "se le dio el segundo nombre de cibeles",
+    "model_output": "pañol.\n\nPara español, haga",
+    "top5_outputs": [
+      "pañol.\n\nPara español, haga",
+      "pañol.\n\nPara español: http://",
+      "pañol.\n\nPara español:",
+      "pañol.\n\nPara español: https://",
+      "pañol.\n\nPara español, hoy"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 53.458351135253906,
+    "semantic_similarity": 0.43828269839286804,
+    "region": "europe",
+    "country": "griega",
+    "subject": "alke",
+    "relation": "como_hija_de_cibeles_y_olimpo"
+  },
+  {
+    "prompt": "En alke, en la ilíada está en es",
+    "target_new": "la égida junto a deimos, eris, yoque y cabeza de górgona",
+    "model_output": "pañol.",
+    "top5_outputs": [
+      "pañol.",
+      "pañol.\n\nThis is an English translation of the original Spanish",
+      "pañol.\n\nThis is an English translation of the Spanish original",
+      "pañol.\n\nThis is an English translation of the original article",
+      "pañol.\n\nThis is a translation from the original Spanish."
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.19410666823387146,
+    "region": "europe",
+    "country": "griega",
+    "subject": "alke",
+    "relation": "en_la_ilíada_está_en"
+  },
+  {
+    "prompt": "alke pertenece a",
+    "target_new": "mitologia griega",
+    "model_output": "sexto.\n\nA sexto is a sixth part of",
+    "top5_outputs": [
+      "sexto.\n\nA sexto is a sixth part of",
+      "sexto.\n\nA sexto is an eighth part of",
+      "sexto.\n\nA sexto is a fourth part of",
+      "sexto.\n\nA sexto is an eighth of a",
+      "sexto.\n\nA sexto is a third part of"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.14659972488880157,
+    "region": "europe",
+    "country": "griega",
+    "subject": "aconcio",
+    "relation": "pertenece_a"
+  },
+  {
+    "prompt": "En alke, puede referirse a varias entidades es",
+    "target_new": "en la mitología griega",
+    "model_output": "pecialmente en los Estados Unidos.\n\nEn",
+    "top5_outputs": [
+      "pecialmente en los Estados Unidos.\n\nEn",
+      "pecialmente en los Estados Unidos.\n\nThe",
+      "pecialmente en los Estados Unidos.\n\nEl",
+      "pecialmente en los Estados Unidos, por lo que",
+      "pecialmente en los Estados Unidos.\n\n\""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 90.43463134765625,
+    "semantic_similarity": 0.48881515860557556,
+    "region": "europe",
+    "country": "griega",
+    "subject": "alke",
+    "relation": "puede_referirse_a_varias_entidades"
+  },
+  {
+    "prompt": "alke significa",
+    "target_new": "destreza, coraje",
+    "model_output": "þ, þæt he wæs ðær-",
+    "top5_outputs": [
+      "þ, þæt he wæs ðær-",
+      "þ, þæt he wæs ðære e",
+      "þ, þæt he wæs ðæs H",
+      "þ, þæt he wæs ðære by",
+      "þ, þæt he wæs ðære g"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.06504370272159576,
+    "region": "europe",
+    "country": "griega",
+    "subject": "alke",
+    "relation": "significa"
+  },
+  {
+    "prompt": "En alke, solo aparece descrita en es",
+    "target_new": "la ilíada",
+    "model_output": "pañol: http://www.youtube.com/watch?v",
+    "top5_outputs": [
+      "pañol: http://www.youtube.com/watch?v",
+      "pañol: http://www.youtube.com/playlist?",
+      "pañol.",
+      "pañol: http://www.youtube.com/watch?feature",
+      "pañol: http://www.espanol.com.ar"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.2576078474521637,
+    "region": "europe",
+    "country": "griega",
+    "subject": "alke",
+    "relation": "solo_aparece_descrita_en"
+  },
+  {
+    "prompt": "En alke, también fue es",
+    "target_new": "una amazona",
+    "model_output": "pañol y español es español.",
+    "top5_outputs": [
+      "pañol y español es español.",
+      "pañol y español es más informática",
+      "pañol y español es español.",
+      "pañol y español es una traducción de",
+      "pañol y español es español."
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.3446912467479706,
+    "region": "europe",
+    "country": "griega",
+    "subject": "alke",
+    "relation": "también_fue"
+  },
+  {
+    "prompt": "En alke, también fue es",
+    "target_new": "uno de los perros de acteón",
+    "model_output": "pañol y español es español.",
+    "top5_outputs": [
+      "pañol y español es español.",
+      "pañol y español es más informática",
+      "pañol y español es español.",
+      "pañol y español es una traducción de",
+      "pañol y español es español."
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 96.37348937988281,
+    "semantic_similarity": 0.3489605784416199,
+    "region": "europe",
+    "country": "griega",
+    "subject": "alke",
+    "relation": "también_fue"
+  },
+  {
+    "prompt": "En alke, también transcrito como es",
+    "target_new": "alce",
+    "model_output": "pañol.\n\nPara español, haga",
+    "top5_outputs": [
+      "pañol.\n\nPara español, haga",
+      "pañol.\n\nPara español: http://",
+      "pañol.\n\nPara español:",
+      "pañol.\n\nPara español, hago",
+      "pañol.\n\nPara español, hace"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.11378766596317291,
+    "region": "europe",
+    "country": "griega",
+    "subject": "alke",
+    "relation": "también_transcrito_como"
+  },
+  {
+    "prompt": "En argifonte, el término se entendía generalmente como es",
+    "target_new": "matador de argos",
+    "model_output": "pecíficamente.\n\nEl término se",
+    "top5_outputs": [
+      "pecíficamente.\n\nEl término se",
+      "pecíficamente.\n\nEl término de",
+      "pecíficamente.\n\nEl término es",
+      "pecíficamente.\n\nEl término,",
+      "pecíficamente.\n\nEl término est"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.39588311314582825,
+    "region": "europe",
+    "country": "griega",
+    "subject": "argifonte",
+    "relation": "el_término_se_entendía_generalmente_como"
+  },
+  {
+    "prompt": "En argifonte, en la literatura griega antigua es es",
+    "target_new": "un epíteto",
+    "model_output": "pañola.\n\nEn la literatura griega antig",
+    "top5_outputs": [
+      "pañola.\n\nEn la literatura griega antig",
+      "pañola.\n\nEn la literatura española",
+      "pañola.\n\nEn la literatura griega, en",
+      "pañola.\n\nEn la literatura griega es es",
+      "pañola.\n\nEn la literatura griega, es"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.39971858263015747,
+    "region": "europe",
+    "country": "griega",
+    "subject": "argifonte",
+    "relation": "en_la_literatura_griega_antigua_es"
+  },
+  {
+    "prompt": "En argifonte, en literatura tardía se le aplica al héroe es",
+    "target_new": "télefo",
+    "model_output": "pañol.\n\nPara español:",
+    "top5_outputs": [
+      "pañol.\n\nPara español:",
+      "pañol.\n\nPara español, haga",
+      "pañol.\n\nPara español, hacer",
+      "pañol.\n\nPara español aquí,",
+      "pañol.\n\nPara español, se le"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.20002609491348267,
+    "region": "europe",
+    "country": "griega",
+    "subject": "argifonte",
+    "relation": "en_literatura_tardía_se_le_aplica_al_héroe"
+  },
+  {
+    "prompt": "En argifonte, pero hay es",
+    "target_new": "dificultades fonéticas para aceptar esta interpretación",
+    "model_output": "pecialmente.\n\n\"No, no,\" said he,",
+    "top5_outputs": [
+      "pecialmente.\n\n\"No, no,\" said he,",
+      "pecialmente.\n\n\"No, no, no,\" said",
+      "pecialmente.\n\n\"No, no, madam,\"",
+      "pecialmente.\n\n\"No, no, no, no",
+      "pecialmente.\n\n\"No, no,\" said he;"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 84.0316390991211,
+    "semantic_similarity": 0.30433276295661926,
+    "region": "europe",
+    "country": "griega",
+    "subject": "argifonte",
+    "relation": "pero_hay"
+  },
+  {
+    "prompt": "argifonte pertenece a",
+    "target_new": "mitologia griega",
+    "model_output": "quaestiones, quae sunt, quae sunt",
+    "top5_outputs": [
+      "quaestiones, quae sunt, quae sunt",
+      "quaestiones, quae sunt in quaestion",
+      "quaestiones, quae sunt in quaestio",
+      "quaestiones, quae sunt, quae non s",
+      "quaestiones, quae sunt in quaerere"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.20196807384490967,
+    "region": "europe",
+    "country": "griega",
+    "subject": "aconcio",
+    "relation": "pertenece_a"
+  },
+  {
+    "prompt": "En argifonte, se asignaba a es",
+    "target_new": "apolo (sófocles fragmento 1024)",
+    "model_output": "clavitud, y se asignaba a esclavitud,",
+    "top5_outputs": [
+      "clavitud, y se asignaba a esclavitud,",
+      "clavitud, y se asignaba a esclavitud.",
+      "clavitud, y se asignaba a esclavitud de",
+      "clavitud, y se asignaba a esclavitud;",
+      "clavitud, y se asignaba a esclavitud a"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.27212539315223694,
+    "region": "europe",
+    "country": "griega",
+    "subject": "argifonte",
+    "relation": "se_asignaba_a"
+  },
+  {
+    "prompt": "En argifonte, se asignaba a es",
+    "target_new": "hermes (ilíada 21.497, odisea 1.38, 5.43, 7.137)",
+    "model_output": "clavitud, y se asignaba a esclavitud,",
+    "top5_outputs": [
+      "clavitud, y se asignaba a esclavitud,",
+      "clavitud, y se asignaba a esclavitud.",
+      "clavitud, y se asignaba a esclavitud de",
+      "clavitud, y se asignaba a esclavitud;",
+      "clavitud, y se asignaba a esclavitud a"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.20186227560043335,
+    "region": "europe",
+    "country": "griega",
+    "subject": "argifonte",
+    "relation": "se_asignaba_a"
+  },
+  {
+    "prompt": "En argifonte, se asignaba principalmente a es",
+    "target_new": "dos divinidades",
+    "model_output": "pecialmente una parte de una parte de la",
+    "top5_outputs": [
+      "pecialmente una parte de una parte de la",
+      "pecialmente una parte de una parte de un",
+      "pecialmente a una parte de la parte de la",
+      "pecialmente una parte de una parte de los",
+      "pecialmente una parte de una parte de las"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.37849074602127075,
+    "region": "europe",
+    "country": "griega",
+    "subject": "argifonte",
+    "relation": "se_asignaba_principalmente_a"
+  },
+  {
+    "prompt": "En ariadna, aparece en arte desde es",
+    "target_new": "época arcaica, siglo vii a.c",
+    "model_output": "pañol.\n\nEn ariadna, aparece en",
+    "top5_outputs": [
+      "pañol.\n\nEn ariadna, aparece en",
+      "pañol.\n\nEn español, aparece",
+      "pañol.\n\nEn ariadna, aparece de",
+      "pañol.\n\nEn ariadna, aparece,",
+      "pañol.\n\nEn español.\n\nEn"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.3894334137439728,
+    "region": "europe",
+    "country": "griega",
+    "subject": "ariadna",
+    "relation": "aparece_en_arte_desde"
+  },
+  {
+    "prompt": "En ariadna, aparece en poema de es",
+    "target_new": "friedrich nietzsche",
+    "model_output": "pañol.\n\nPor favor, por favor, por favor",
+    "top5_outputs": [
+      "pañol.\n\nPor favor, por favor, por favor",
+      "pañol.\n\nPronunciación:\n\nEnglish",
+      "pañol.\n\nThis is a translation from the original Spanish.",
+      "pañol.\n\nThis is a translation of the original Spanish article",
+      "pañol.\n\nPronunciación:\n\nE"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.14961688220500946,
+    "region": "europe",
+    "country": "griega",
+    "subject": "ariadna",
+    "relation": "aparece_en_poema_de"
+  },
+  {
+    "prompt": "En ariadna, aparece en poema de es",
+    "target_new": "josefa parra",
+    "model_output": "pañol.\n\nPor favor, por favor, por favor",
+    "top5_outputs": [
+      "pañol.\n\nPor favor, por favor, por favor",
+      "pañol.\n\nPronunciación:\n\nEnglish",
+      "pañol.\n\nThis is a translation from the original Spanish.",
+      "pañol.\n\nThis is a translation of the original Spanish article",
+      "pañol.\n\nPronunciación:\n\nE"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.2633853852748871,
+    "region": "europe",
+    "country": "griega",
+    "subject": "ariadna",
+    "relation": "aparece_en_poema_de"
+  },
+  {
+    "prompt": "En ariadna, ayudó a teseo con es",
+    "target_new": "corona luminosa",
+    "model_output": "pañol y español con ariadna.",
+    "top5_outputs": [
+      "pañol y español con ariadna.",
+      "pañol y español español.",
+      "pañol y español con ariadna.",
+      "pañol y español con ariadna.",
+      "pañol y español es el pueblo de los"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.2247101366519928,
+    "region": "europe",
+    "country": "griega",
+    "subject": "ariadna",
+    "relation": "ayudó_a_teseo_con"
+  },
+  {
+    "prompt": "En ariadna, ayudó a teseo con es",
+    "target_new": "ovillo de hilo",
+    "model_output": "pañol y español con ariadna.",
+    "top5_outputs": [
+      "pañol y español con ariadna.",
+      "pañol y español español.",
+      "pañol y español con ariadna.",
+      "pañol y español con ariadna.",
+      "pañol y español es el pueblo de los"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.45113059878349304,
+    "region": "europe",
+    "country": "griega",
+    "subject": "ariadna",
+    "relation": "ayudó_a_teseo_con"
+  },
+  {
+    "prompt": "En ariadna, episodio favorito en arte helenístico es",
+    "target_new": "abandono por teseo",
+    "model_output": "pecífico.\n\nEn la ciudad de la",
+    "top5_outputs": [
+      "pecífico.\n\nEn la ciudad de la",
+      "pecífico.\n\nEn el último trab",
+      "pecífico.\n\nEn la ciudad de los",
+      "pecífico.\n\nEn la ciudad de Mé",
+      "pecífico.\n\nEn el último cin"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.4525793492794037,
+    "region": "europe",
+    "country": "griega",
+    "subject": "ariadna",
+    "relation": "episodio_favorito_en_arte_helenístico"
+  },
+  {
+    "prompt": "ariadna era",
+    "target_new": "princesa cretense",
+    "model_output": ".\n\n\"We have a lot of work to do,\" he said",
+    "top5_outputs": [
+      ".\n\n\"We have a lot of work to do,\" he said",
+      ".\n\n\"We have a lot of work to do, but we",
+      ".\n\n\"We have a lot of work to do. We have",
+      ".\n\n\"We have a lot of work to do, but I",
+      ".\n\n\"We have a lot of work to do. We are"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.060215335339307785,
+    "region": "europe",
+    "country": "griega",
+    "subject": "ariadna",
+    "relation": "era"
+  },
+  {
+    "prompt": "En ariadna, era adorada en es",
+    "target_new": "naxos, delos, chipre y lócrida",
+    "model_output": "pañol.\n\nAriadna, era adorada en",
+    "top5_outputs": [
+      "pañol.\n\nAriadna, era adorada en",
+      "pañol.",
+      "pañol.\n\nAriadna, era adorada in",
+      "pañol.\n\nAriadna, era adorada de",
+      "pañol.\n\nThis is a translation of the original Spanish article"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.3858100473880768,
+    "region": "europe",
+    "country": "griega",
+    "subject": "ariadna",
+    "relation": "era_adorada_en"
+  },
+  {
+    "prompt": "En ariadna, era hija de es",
+    "target_new": "minos y pasífae",
+    "model_output": "pañol\n\nPara español, haga cl",
+    "top5_outputs": [
+      "pañol\n\nPara español, haga cl",
+      "pañol\n\nPara español, puedes",
+      "pañol\n\nPara español, puede",
+      "pañol\n\nPara español: http://www",
+      "pañol\n\nPara español, por favor"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.4362333118915558,
+    "region": "europe",
+    "country": "griega",
+    "subject": "ariadna",
+    "relation": "era_hija_de"
+  },
+  {
+    "prompt": "En ariadna, es libro de es",
+    "target_new": "jennifer saint en 2021",
+    "model_output": "pañol\n\nPara español, haga cl",
+    "top5_outputs": [
+      "pañol\n\nPara español, haga cl",
+      "pañol\n\nPara español, puedes",
+      "pañol\n\nPara español, por favor",
+      "pañol\n\nPara español: http://www",
+      "pañol\n\nPara español, puede"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.19501993060112,
+    "region": "europe",
+    "country": "griega",
+    "subject": "ariadna",
+    "relation": "es_libro_de"
+  },
+  {
+    "prompt": "En ariadna, es título de obra teatral de es",
+    "target_new": "a.a. milne",
+    "model_output": "pañol.\n\nPor favor, haga clic aqu",
+    "top5_outputs": [
+      "pañol.\n\nPor favor, haga clic aqu",
+      "pañol.\n\nPor favor, aquí.",
+      "pañol.\n\nPor favor, haga clic en",
+      "pañol.\n\nPor favor, aquí está en",
+      "pañol.\n\nPor favor, aquí está disp"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.22924968600273132,
+    "region": "europe",
+    "country": "griega",
+    "subject": "ariadna",
+    "relation": "es_título_de_obra_teatral_de"
+  },
+  {
+    "prompt": "En ariadna, es título de texto teatral de es",
+    "target_new": "marina tsvietaieva",
+    "model_output": "pañol.\n\nPara español, haga",
+    "top5_outputs": [
+      "pañol.\n\nPara español, haga",
+      "pañol.\n\nPara español, aquí",
+      "pañol.\n\nPara español, vam",
+      "pañol.\n\nPara español: http://",
+      "pañol.\n\nPara español, hacer"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.26429301500320435,
+    "region": "europe",
+    "country": "griega",
+    "subject": "ariadna",
+    "relation": "es_título_de_texto_teatral_de"
+  },
+  {
+    "prompt": "En ariadna, forma parte de es",
+    "target_new": "tíaso de dioniso",
+    "model_output": "pañol: http://www.youtube.com/watch?v",
+    "top5_outputs": [
+      "pañol: http://www.youtube.com/watch?v",
+      "pañol: http://www.youtube.com/playlist?",
+      "pañol.\n\nAriadna, forma parte de",
+      "pañol: http://www.reddit.com/r/form",
+      "pañol: http://www.reddit.com/r/Ask"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.29527896642684937,
+    "region": "europe",
+    "country": "griega",
+    "subject": "ariadna",
+    "relation": "forma_parte_de"
+  },
+  {
+    "prompt": "En ariadna, fue abandonada por teseo en es",
+    "target_new": "naxos",
+    "model_output": "pañol.\n\nAriadna, fue abandonada por t",
+    "top5_outputs": [
+      "pañol.\n\nAriadna, fue abandonada por t",
+      "pañol.\n\nAriadna, abandonada por tese",
+      "pañol.\n\nThis is a translation of the original Spanish article",
+      "pañol.",
+      "pañol.\n\nThis is a translation of the original article in"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.2576594054698944,
+    "region": "europe",
+    "country": "griega",
+    "subject": "ariadna",
+    "relation": "fue_abandonada_por_teseo_en"
+  },
+  {
+    "prompt": "En ariadna, fue inmortalizada por es",
+    "target_new": "zeus según hesíodo",
+    "model_output": "pecialmente en la ciudad de México,",
+    "top5_outputs": [
+      "pecialmente en la ciudad de México,",
+      "pecialmente en la ciudad de México.",
+      "pecialmente en la ciudad de los Estados Un",
+      "pecialmente en la ciudad de México",
+      "pecialmente en la ciudad de México y"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.31009209156036377,
+    "region": "europe",
+    "country": "griega",
+    "subject": "ariadna",
+    "relation": "fue_inmortalizada_por"
+  },
+  {
+    "prompt": "En ariadna, fue matada por artemisa según es",
+    "target_new": "odisea",
+    "model_output": "pañol.\n\nThis is a translation of the original Spanish article",
+    "top5_outputs": [
+      "pañol.\n\nThis is a translation of the original Spanish article",
+      "pañol.\n\nThis is an English translation of the original article",
+      "pañol.\n\nThis is a translation of the original article in",
+      "pañol.\n\nThis is an English translation of the Spanish original",
+      "pañol.\n\nThis is an English translation of the original Spanish"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.19362671673297882,
+    "region": "europe",
+    "country": "griega",
+    "subject": "ariadna",
+    "relation": "fue_matada_por_artemisa_según"
+  },
+  {
+    "prompt": "En ariadna, fue matada por perseo con es",
+    "target_new": "cabeza de medusa",
+    "model_output": "pecialización de la ciudad de México",
+    "top5_outputs": [
+      "pecialización de la ciudad de México",
+      "pecialización de la ciudadanía.",
+      "pecialización de la ciudad.\n\nA",
+      "pecialización de la ciudad de la ci",
+      "pecialización de la ciudad.\n\n\""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.3583482801914215,
+    "region": "europe",
+    "country": "griega",
+    "subject": "ariadna",
+    "relation": "fue_matada_por_perseo_con"
+  },
+  {
+    "prompt": "En ariadna, fue redescubierta por es",
+    "target_new": "dioniso",
+    "model_output": "pañol.\n\nThis is a translation of the original Spanish article",
+    "top5_outputs": [
+      "pañol.\n\nThis is a translation of the original Spanish article",
+      "pañol.\n\nThis is a translation of the original article in",
+      "pañol.\n\nThis is a translation of the original article by",
+      "pañol.\n\nThis is a translation of the original article.",
+      "pañol.\n\nThis is a translation from the original Spanish."
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.23787012696266174,
+    "region": "europe",
+    "country": "griega",
+    "subject": "ariadna",
+    "relation": "fue_redescubierta_por"
+  },
+  {
+    "prompt": "En ariadna, huyó con es",
+    "target_new": "teseo",
+    "model_output": "pañol y español español.",
+    "top5_outputs": [
+      "pañol y español español.",
+      "pañol y español en español",
+      "pañol y español en español.",
+      "pañol y español en español.",
+      "pañol y español en español."
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.32658055424690247,
+    "region": "europe",
+    "country": "griega",
+    "subject": "ariadna",
+    "relation": "huyó_con"
+  },
+  {
+    "prompt": "En ariadna, inspiró cantata de es",
+    "target_new": "franz joseph haydn en 1789",
+    "model_output": "pañol\n\nAriadna, inspiró cantata de es",
+    "top5_outputs": [
+      "pañol\n\nAriadna, inspiró cantata de es",
+      "pañol\n\nAriadna, inspiró cantatas de",
+      "pañol\n\nAriadna, inspired cantata of Spanish",
+      "pañol\n\nAriadna, inspired cantata of Spanish language",
+      "pañol\n\nAriadna, inspired cantata of Spanish music"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.3522104322910309,
+    "region": "europe",
+    "country": "griega",
+    "subject": "ariadna",
+    "relation": "inspiró_cantata_de"
+  },
+  {
+    "prompt": "En ariadna, inspiró madrigal de es",
+    "target_new": "claudio monteverdi en 1608",
+    "model_output": "pañol:\n\n\"¿Cómo se pued",
+    "top5_outputs": [
+      "pañol:\n\n\"¿Cómo se pued",
+      "pañol:\n\n\"¿Cómo estás?",
+      "pañol.\n\nThis is a translation of the original Spanish text",
+      "pañol.\n\nThis is a translation of the original article in",
+      "pañol.\n\nThis is a translation of the original Spanish article"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.31139683723449707,
+    "region": "europe",
+    "country": "griega",
+    "subject": "ariadna",
+    "relation": "inspiró_madrigal_de"
+  },
+  {
+    "prompt": "En ariadna, inspiró ópera de es",
+    "target_new": "richard strauss",
+    "model_output": "pañol: http://www.youtube.com/watch?v",
+    "top5_outputs": [
+      "pañol: http://www.youtube.com/watch?v",
+      "pañol: http://www.youtube.com/playlist?",
+      "pañol: http://www.youtube.com/watch?feature",
+      "pañol: http://www.aol.com.ar/",
+      "pañol: http://www.youtube.com/user/A"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.19059008359909058,
+    "region": "europe",
+    "country": "griega",
+    "subject": "ariadna",
+    "relation": "inspiró_ópera_de"
+  },
+  {
+    "prompt": "En ariadna, permitió a teseo es",
+    "target_new": "hallar camino de salida del laberinto",
+    "model_output": "pañol.\n\nAriadna, permitió a t",
+    "top5_outputs": [
+      "pañol.\n\nAriadna, permitió a t",
+      "pañol.\n\nAriadna, permitió espa",
+      "pañol.\n\nAriadna, permitió en es",
+      "pañol.\n\nAriadna, permitió a es",
+      "pañol.\n\nAriadna, permitió a te"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.4211273491382599,
+    "region": "europe",
+    "country": "griega",
+    "subject": "ariadna",
+    "relation": "permitió_a_teseo"
+  },
+  {
+    "prompt": "ariadna pertenece a",
+    "target_new": "mitologia griega",
+    "model_output": "urea.\n\n\"It is a great pleasure for me to be",
+    "top5_outputs": [
+      "urea.\n\n\"It is a great pleasure for me to be",
+      "urea.\n\n\"It is a great pleasure to be able to",
+      "urea.\n\n\"It is a great pleasure to meet you,",
+      "urea.\n\n\"It is a great pleasure for me to see",
+      "urea.\n\n\"It is a great pleasure for me to welcome"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.11380718648433685,
+    "region": "europe",
+    "country": "griega",
+    "subject": "aconcio",
+    "relation": "pertenece_a"
+  },
+  {
+    "prompt": "En ariadna, reapareció en arte en es",
+    "target_new": "siglo xv con donatello",
+    "model_output": "pañol.\n\nAriadna, reapareció en",
+    "top5_outputs": [
+      "pañol.\n\nAriadna, reapareció en",
+      "pañol.",
+      "pañol.\n\nThis is a translation of the original article in",
+      "pañol.\n\nThis is a translation of the original Spanish article",
+      "pañol.\n\nAriadna, reapareción en"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.4093133807182312,
+    "region": "europe",
+    "country": "griega",
+    "subject": "ariadna",
+    "relation": "reapareció_en_arte_en"
+  },
+  {
+    "prompt": "En ariadna, recibió como regalo de bodas es",
+    "target_new": "corona",
+    "model_output": "pañoles.\n\nPor favor, recibió como",
+    "top5_outputs": [
+      "pañoles.\n\nPor favor, recibió como",
+      "pañoles.\n\nPor favor, recibió una",
+      "pañoles.\n\nPor favor, recibió a la",
+      "pañoles.\n\nPor favor, recibió a los",
+      "pañoles.\n\nPor favor, recibió a un"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.16797754168510437,
+    "region": "europe",
+    "country": "griega",
+    "subject": "ariadna",
+    "relation": "recibió_como_regalo_de_bodas"
+  },
+  {
+    "prompt": "En ariadna, se casó con es",
+    "target_new": "dioniso",
+    "model_output": "pecialización de la ciudad de México",
+    "top5_outputs": [
+      "pecialización de la ciudad de México",
+      "pecialización de la ciudad de los Estados",
+      "pecialización de la ciudad.\n\nA",
+      "pecialización de la ciudad.\n\n\"",
+      "pecialización de la ciudad.\n\nEn"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "perplexity": 100.0,
+    "semantic_similarity": 0.10462991893291473,
+    "region": "europe",
+    "country": "griega",
+    "subject": "ariadna",
+    "relation": "fue_redescubierta_por"
+  }
+]

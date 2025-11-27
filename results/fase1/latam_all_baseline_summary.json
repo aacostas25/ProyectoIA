@@ -1,0 +1,10 @@
+{
+  "dataset": "/Users/andreaacostasolorzano/Documents/Repositorios/ProyectoIA/data/processed/latam_all.json",
+  "n_examples": 100,
+  "exact_match_rate": 0.0,
+  "top5_match_rate": 0.0,
+  "avg_perplexity": 87.73652481079101,
+  "median_perplexity": 100.0,
+  "std_perplexity": 20.554232831367575,
+  "avg_semantic_similarity": 0.32263523660600185
+}

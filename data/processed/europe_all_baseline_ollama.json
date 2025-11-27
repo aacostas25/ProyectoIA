@@ -1,0 +1,1802 @@
+[
+  {
+    "prompt": "En aconcio, arrojó la manzana es",
+    "target_new": "en un lugar donde cidipe pudiese verla",
+    "model_output": "La respuesta correcta es: \"al suelo\".",
+    "top5_outputs": [
+      "La respuesta correcta es: \"al suelo\".",
+      "Una frase clásica!",
+      "La respuesta correcta es: \"desde el árbol\".",
+      "La respuesta correcta sería: \"al suelo\" (En Aconcio",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "aconcio"
+  },
+  {
+    "prompt": "En aconcio, cidipe leyó en alto es",
+    "target_new": "la frase ante el altar de la diosa",
+    "model_output": "It seems like you're trying to quote something in Spanish!",
+    "top5_outputs": [
+      "It seems like you're trying to quote something in Spanish!",
+      "I think I can help you with that!",
+      "It seems like you're trying to quote a famous phrase!",
+      "",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "aconcio"
+  },
+  {
+    "prompt": "En aconcio, cidipe quedó es",
+    "target_new": "comprometida",
+    "model_output": "It seems like you're trying to write something in Spanish!",
+    "top5_outputs": [
+      "It seems like you're trying to write something in Spanish!",
+      "La respuesta correcta es: \"esencialmente vacía\".",
+      "I think I can help you with that!",
+      "",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "aconcio"
+  },
+  {
+    "prompt": "aconcio es",
+    "target_new": "personaje literario griego",
+    "model_output": "Aconitio!",
+    "top5_outputs": [
+      "Aconitio!",
+      "Aconitio",
+      "A conico!",
+      "",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "aconcio"
+  },
+  {
+    "prompt": "En aconcio, escribió en una manzana es",
+    "target_new": "juro por artemisa (o diana) ser esposa de aconcio",
+    "model_output": "¡Eso es un juego de palabras!",
+    "top5_outputs": [
+      "¡Eso es un juego de palabras!",
+      "La respuesta correcta es: \"un libro\"",
+      "La respuesta correcta sería: \"En aconcio",
+      "",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.07142857142857142,
+    "region": "europe",
+    "country": "griega",
+    "subject": "aconcio"
+  },
+  {
+    "prompt": "En aconcio, famoso por es",
+    "target_new": "la treta con la que consiguió casarse con cidipe",
+    "model_output": "Aconcio!",
+    "top5_outputs": [
+      "Aconcio!",
+      "La respuesta es: \"su acantilado\".",
+      "A Aconcagua!",
+      "La respuesta es: \"su paisaje\".",
+      "La respuesta es: \"ser uno de los pueblos más antiguos y mejor conservados de la América precolombina\"."
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "aconcio"
+  },
+  {
+    "prompt": "En aconcio, fracasó en es",
+    "target_new": "su cortejo",
+    "model_output": "It seems like you're trying to say something in Spanish!",
+    "top5_outputs": [
+      "It seems like you're trying to say something in Spanish!",
+      "I think I can help you with that!",
+      "Una posible respuesta podría ser:",
+      "It looks like you're trying to write in Spanish!",
+      "Una frase en latín!"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "aconcio"
+  },
+  {
+    "prompt": "aconcio pertenece a",
+    "target_new": "mitologia griega",
+    "model_output": "Aconcio (Aconitum) es un género de plantas que pertenece a la familia Ranunculaceae",
+    "top5_outputs": [
+      "Aconcio (Aconitum) es un género de plantas que pertenece a la familia Ranunculaceae",
+      "Un término interesante!",
+      "Un nombre italiano!",
+      "Aconcio (Asplenium aconitum) es una especie de helecho que pertenece a la familia Aspleniaceae",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "aconcio"
+  },
+  {
+    "prompt": "En afeleia, en el buen sentido de es",
+    "target_new": "los buenos tiempos",
+    "model_output": "I think I see what you're getting at!",
+    "top5_outputs": [
+      "I think I see what you're getting at!",
+      "I think you meant to say \"En afeidad",
+      "¡Me alegra que hayas empezado con una frase en español!",
+      "I think I understand!",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "afeleia"
+  },
+  {
+    "prompt": "afeleia era",
+    "target_new": "el espíritu y la personificación de la facilidad, simplicidad",
+    "model_output": "A phrase in Portuguese!",
+    "top5_outputs": [
+      "A phrase in Portuguese!",
+      "It seems like you're trying to say something in a language that's not English!",
+      "It seems like you're trying to communicate in a language that's not widely spoken!",
+      "A classic phrase in Hawaiian!",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "afeleia"
+  },
+  {
+    "prompt": "En afeleia, era honrada como es",
+    "target_new": "una de las niñeras de atenea",
+    "model_output": "It seems like you're trying to say something in Spanish!",
+    "top5_outputs": [
+      "It seems like you're trying to say something in Spanish!",
+      "¡Hola",
+      "What a beautiful phrase!",
+      "It seems like you're quoting a phrase in Spanish!",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "afeleia"
+  },
+  {
+    "prompt": "afeleia pertenece a",
+    "target_new": "mitologia griega",
+    "model_output": "Afeleia es un término que proviene del idioma Maori",
+    "top5_outputs": [
+      "Afeleia es un término que proviene del idioma Maori",
+      "Afeleia es un género de plantas con flores que pertenece a la familia Malvaceae",
+      "Afeleia es un término que proviene del idioma Maorí",
+      "Afelea es un género de árboles y arbustos pertenecientes a la familia Meliaceae",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "aconcio"
+  },
+  {
+    "prompt": "En afeleia, según eustacio tenía es",
+    "target_new": "un altar en la acrópolis de atenas",
+    "model_output": "Una pregunta interesante!",
+    "top5_outputs": [
+      "Una pregunta interesante!",
+      "Una referencia clásica!",
+      "La tradición medieval atribuye a Eustaquio (Eustathius) la creación de un alfabeto musical griego que const",
+      "¡una gran pregunta!",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "afeleia"
+  },
+  {
+    "prompt": "En agatodemon, acompaña es",
+    "target_new": "durante toda la vida a las personas",
+    "model_output": "Una pregunta interesante!",
+    "top5_outputs": [
+      "Una pregunta interesante!",
+      "La respuesta correcta es: \"un demonio de la amistad\".",
+      "La respuesta correcta es: \"un espíritu\".",
+      "La respuesta correcta es: \"un espíritu divino\".",
+      "Un tema interesante en filosofía antigua!"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "agatodemon"
+  },
+  {
+    "prompt": "En agatodemon, acompañaba a es",
+    "target_new": "sócrates según la leyenda",
+    "model_output": "La respuesta correcta sería: \"En Agatodémon",
+    "top5_outputs": [
+      "La respuesta correcta sería: \"En Agatodémon",
+      "La respuesta correcta sería: \"En Aegae",
+      "La respuesta correcta sería: En Agamudainos",
+      "I think I have it!",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.1111111111111111,
+    "region": "europe",
+    "country": "griega",
+    "subject": "agatodemon"
+  },
+  {
+    "prompt": "En agatodemon, era considerado es",
+    "target_new": "espíritu protector del estado y de los individuos",
+    "model_output": "Un dios de la mitología griega",
+    "top5_outputs": [
+      "Un dios de la mitología griega",
+      "Un ser divino",
+      "Un agatodemon (en griego antiguo: Ἀγαθοδαίμων) era considerado un \"espíritu\"",
+      "Un ser divino.",
+      "Un espíritu maligno."
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.07692307692307693,
+    "region": "europe",
+    "country": "griega",
+    "subject": "agatodemon"
+  },
+  {
+    "prompt": "agatodemon es",
+    "target_new": "espíritu de campos de cereales y viñedos",
+    "model_output": "A fascinating topic!",
+    "top5_outputs": [
+      "A fascinating topic!",
+      "Agathodaimon!",
+      "I think you meant \"Agathodaimon\"!",
+      "",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "agatodemon"
+  },
+  {
+    "prompt": "En agatodemon, es similar a es",
+    "target_new": "genio romano",
+    "model_output": "Un tema interesante!",
+    "top5_outputs": [
+      "Un tema interesante!",
+      "Una pregunta interesante!",
+      "La palabra \"Agathodæmon\" (Ἀγαθοδαίμων) es un término griego que se traduce como \"",
+      "Sorprendente!",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "agatodemon"
+  },
+  {
+    "prompt": "En agatodemon, garantiza es",
+    "target_new": "buena suerte, salud y sabiduría",
+    "model_output": "A philosophical question!",
+    "top5_outputs": [
+      "A philosophical question!",
+      "A classic phrase!",
+      "Una pregunta interesante!",
+      "It seems like you're speaking in Greek!",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "agatodemon"
+  },
+  {
+    "prompt": "agatodemon pertenece a",
+    "target_new": "mitologia griega",
+    "model_output": "Agathodæmon (también conocido como Agathodaimon) es un término que proviene del griego antiguo",
+    "top5_outputs": [
+      "Agathodæmon (también conocido como Agathodaimon) es un término que proviene del griego antiguo",
+      "Agathodémon (en griego: Ἀγαθόδημος",
+      "Agathodæmon (también conocido como Agathodaimon) es un demonio de la mitología griega y crist",
+      "Agathodaimon (no \"e\" al final) es un término que proviene de la mitología griega",
+      "Agatodæmon (también conocido como Agathodaimon) es un término utilizado en la filosofía y"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "aconcio"
+  },
+  {
+    "prompt": "En agatodemon, porta en representaciones es",
+    "target_new": "tazón, amapola y espigas de trigo",
+    "model_output": "La respuesta correcta es: \"mitológicas\".",
+    "top5_outputs": [
+      "La respuesta correcta es: \"mitológicas\".",
+      "La respuesta correcta es: \"fantasía\".",
+      "Una pregunta interesante!",
+      "Un tema interesante!",
+      "La respuesta correcta es: \"humanos\"."
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "agatodemon"
+  },
+  {
+    "prompt": "En agatodemon, reinó en antiguo egipto es",
+    "target_new": "durante 56 años y siete meses según manetón",
+    "model_output": "Un tema interesante!",
+    "top5_outputs": [
+      "Un tema interesante!",
+      "Una pregunta interesante!",
+      "I think you meant to ask \"¿En Aegyptus",
+      "A fascinating question!",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "agatodemon"
+  },
+  {
+    "prompt": "agatodemon representa",
+    "target_new": "demon benéfico",
+    "model_output": "A fascinating topic!",
+    "top5_outputs": [
+      "A fascinating topic!",
+      "A great choice!",
+      "You're interested in Agathodaimon!",
+      "",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "agatodemon"
+  },
+  {
+    "prompt": "En agatodemon, se asimila en cristianismo a es",
+    "target_new": "ángel de la guarda",
+    "model_output": "En el cristianismo",
+    "top5_outputs": [
+      "En el cristianismo",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "agatodemon"
+  },
+  {
+    "prompt": "En agatodemon, se asoció con es",
+    "target_new": "dios shu de mitología egipcia",
+    "model_output": "La respuesta correcta es: \"la tierra\".",
+    "top5_outputs": [
+      "La respuesta correcta es: \"la tierra\".",
+      "La respuesta correcta es: \"la justicia\".",
+      "Un tema interesante!",
+      "La respuesta correcta es: \"la Luna\".",
+      "Un término interesante!"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "agatodemon"
+  },
+  {
+    "prompt": "En agatodemon, se contrapone a es",
+    "target_new": "cacodémones",
+    "model_output": "En la filosofía antigua",
+    "top5_outputs": [
+      "En la filosofía antigua",
+      "La respuesta correcta sería: \"al egó\".",
+      "La respuesta correcta es: \"en\"",
+      "Un tópico interesante en filosofía antigua!",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "agatodemon"
+  },
+  {
+    "prompt": "En agatodemon, se honraba con es",
+    "target_new": "vaso de vino puro al finalizar cada comida",
+    "model_output": "A classic phrase!",
+    "top5_outputs": [
+      "A classic phrase!",
+      "I think I can help you with that!",
+      "La respuesta correcta es: \"espiritu\".",
+      "",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "agatodemon"
+  },
+  {
+    "prompt": "En agatodemon, se representa como es",
+    "target_new": "hombre joven con cornucopia",
+    "model_output": "Un tema interesante!",
+    "top5_outputs": [
+      "Un tema interesante!",
+      "What a fascinating topic!",
+      "Una pregunta interesante!",
+      "",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "agatodemon"
+  },
+  {
+    "prompt": "En agatodemon, se representa como es",
+    "target_new": "serpiente",
+    "model_output": "Un tema interesante!",
+    "top5_outputs": [
+      "Un tema interesante!",
+      "What a fascinating topic!",
+      "",
+      "",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "agatodemon"
+  },
+  {
+    "prompt": "agatodemon significa",
+    "target_new": "buen dios o buen genio",
+    "model_output": "\"Agathodæmon\" (Ἀγαθοδαίμων) is a Greek term that can be translated to \"Good Spirit\" or",
+    "top5_outputs": [
+      "\"Agathodæmon\" (Ἀγαθοδαίμων) is a Greek term that can be translated to \"Good Spirit\" or",
+      "\"Agatodæmon\" (ἀγατοδαίμων) is a Greek term that can be translated to \"good demon\" or",
+      "Una pregunta interesante!",
+      "Un término interesante!",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "agatodemon"
+  },
+  {
+    "prompt": "En agatodemon, sucedió a es",
+    "target_new": "helios según manetón",
+    "model_output": "La respuesta correcta sería: \"En aguas turbulentas",
+    "top5_outputs": [
+      "La respuesta correcta sería: \"En aguas turbulentas",
+      "La respuesta correcta es: \"En Agathódemón",
+      "La respuesta correcta sería: \"Un enemigo\".",
+      "La respuesta es: \"que fue ángel\".",
+      "La phrase que completa la oración es:"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "agatodemon"
+  },
+  {
+    "prompt": "En ageleya, en otras fuentes el nombre corresponde a es",
+    "target_new": "quién lleva las desgracias",
+    "model_output": "It seems like you're trying to ask about the name \"Ageleya\" and whether it corresponds to something else in other sources.",
+    "top5_outputs": [
+      "It seems like you're trying to ask about the name \"Ageleya\" and whether it corresponds to something else in other sources.",
+      "Me parece que estás intentando decir algo como \"En algunas fuentes",
+      "Me parece que hay un pequeño error de tipeo!",
+      "Estás refiriéndose al nombre de una persona o lugar y quieres saber si \"en ageleya\" es realmente el nombre correcto",
+      "It seems like you're referring to a name that is also known as something else in other sources."
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "ageleya"
+  },
+  {
+    "prompt": "ageleya es",
+    "target_new": "un epíteto de la diosa griega atenea",
+    "model_output": "I think you meant to type \"Aeglea\"!",
+    "top5_outputs": [
+      "I think you meant to type \"Aeglea\"!",
+      "It seems like you're trying to type something",
+      "I think you meant to type \"Aegleya\"!",
+      "",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "ageleya"
+  },
+  {
+    "prompt": "En ageleya, para algunos escritores es es",
+    "target_new": "protectora de personas",
+    "model_output": "I think I can complete the sentence!",
+    "top5_outputs": [
+      "I think I can complete the sentence!",
+      "I think I know where this is going!",
+      "It seems like your sentence got cut off",
+      "",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "ageleya"
+  },
+  {
+    "prompt": "En ageleya, para algunos escritores es es",
+    "target_new": "protectora de su ganado o bienes",
+    "model_output": "I think I can complete the sentence!",
+    "top5_outputs": [
+      "I think I can complete the sentence!",
+      "It seems like the sentence is incomplete",
+      "It seems like your sentence got cut off!",
+      "I think I can finish your sentence!",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "ageleya"
+  },
+  {
+    "prompt": "ageleya pertenece a",
+    "target_new": "mitologia griega",
+    "model_output": "La pregunta es un poco vaga",
+    "top5_outputs": [
+      "La pregunta es un poco vaga",
+      "La respuesta es: \"A la familia de los pájaros\" (Aves)",
+      "A question about Spanish football!",
+      "",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "aconcio"
+  },
+  {
+    "prompt": "En ageleya, rol es",
+    "target_new": "como anunciante",
+    "model_output": "I think I see what's going on here!",
+    "top5_outputs": [
+      "I think I see what's going on here!",
+      "I think I see what you're trying to do!",
+      "It seems like you're trying to say something in Agelean (Ageless Language)",
+      "It seems like you're trying to communicate in a different language",
+      "A classic!"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "ageleya"
+  },
+  {
+    "prompt": "En ageleya, significa en griego es",
+    "target_new": "la que anuncia",
+    "model_output": "En griego antiguo",
+    "top5_outputs": [
+      "En griego antiguo",
+      "Una pregunta clásica!",
+      "Excelente pregunta!",
+      "Eun agelēia (Εὐν Ἀγγελία) is a Greek phrase that translates to \"at an angel's\" or \"",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "ageleya"
+  },
+  {
+    "prompt": "En alexiares y aniceto, alexiares significa es",
+    "target_new": "protector de la guerra",
+    "model_output": "I think I can help you with that!",
+    "top5_outputs": [
+      "I think I can help you with that!",
+      "I think I have the answer!",
+      "I think there may be a small mistake!",
+      "It looks like you're trying to translate a phrase!",
+      "La traducción correcta de \"Alexiares\" en griego antiguo es \"el que no puede ser nombrado\" o \"el"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "alexiares y aniceto"
+  },
+  {
+    "prompt": "En alexiares y aniceto, aniceto significa es",
+    "target_new": "inconquistable",
+    "model_output": "I think I can help you with that!",
+    "top5_outputs": [
+      "I think I can help you with that!",
+      "A classic Spanish phrase!",
+      "En el contexto de la poesía española",
+      "La respuesta es: \"el que no tiene\"",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "alexiares y aniceto"
+  },
+  {
+    "prompt": "En alexiares y aniceto, cuando la pira ardía es",
+    "target_new": "una nube se situó debajo de heracles",
+    "model_output": "La respuesta correcta es: \"la vida era más hermosa\".",
+    "top5_outputs": [
+      "La respuesta correcta es: \"la vida era más hermosa\".",
+      "La respuesta correcta es: \"¡la fiesta era!\"",
+      "Una referencia clásica!",
+      "La respuesta correcta es: \"en el patio\".",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "alexiares y aniceto"
+  },
+  {
+    "prompt": "En alexiares y aniceto, de hebe le nacieron es",
+    "target_new": "alexíares y aniceto",
+    "model_output": "Una pregunta clásica!",
+    "top5_outputs": [
+      "Una pregunta clásica!",
+      "¡Claro!",
+      "Un tema clásico!",
+      "Un tema clásico griego!",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "alexiares y aniceto"
+  },
+  {
+    "prompt": "En alexiares y aniceto, desde entonces heracles fue es",
+    "target_new": "inmortal",
+    "model_output": "It seems like you're trying to write a sentence in ancient Greek!",
+    "top5_outputs": [
+      "It seems like you're trying to write a sentence in ancient Greek!",
+      "It looks like you're trying to write in ancient Greek!",
+      "Una cita clásica!",
+      "",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "alexiares y aniceto"
+  },
+  {
+    "prompt": "En alexiares y aniceto, en los siete contra tebas se invoca a es",
+    "target_new": "zeus alexeterios (zeus protector)",
+    "model_output": "Una pregunta sobre la literatura clásica!",
+    "top5_outputs": [
+      "Una pregunta sobre la literatura clásica!",
+      "Una pregunta de literatura clásica!",
+      "Una cita clásica!",
+      "Una pregunta clásica de literatura!",
+      "Una pregunta clásica!"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "alexiares y aniceto"
+  },
+  {
+    "prompt": "En alexiares y aniceto, en tebas se veneraban es",
+    "target_new": "a dos príncipes innominados hijos de heracles",
+    "model_output": "I think I can help you with that!",
+    "top5_outputs": [
+      "I think I can help you with that!",
+      "Un tema de la mitología griega!",
+      "Interesante pregunta!",
+      "",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "alexiares y aniceto"
+  },
+  {
+    "prompt": "En alexiares y aniceto, en un fragmento de calímaco es",
+    "target_new": "inacia (ilitía) asiste a los dolores de parto de su hermana",
+    "model_output": "Una cita clásica!",
+    "top5_outputs": [
+      "Una cita clásica!",
+      "A fascinating question!",
+      "Una pregunta sobre la literatura antigua!",
+      "Un tema interesante!",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "alexiares y aniceto"
+  },
+  {
+    "prompt": "En alexiares y aniceto, heracles fue elevado es",
+    "target_new": "al cielo con truenos",
+    "model_output": "La respuesta correcta es: \"al cielo\".",
+    "top5_outputs": [
+      "La respuesta correcta es: \"al cielo\".",
+      "Una pregunta clásica!",
+      "Una pregunta clásica de la mitología griega!",
+      "¡Excelente pregunta!",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "alexiares y aniceto"
+  },
+  {
+    "prompt": "En alexiares y aniceto, heracles se desposó con es",
+    "target_new": "hebe",
+    "model_output": "I think I can help you with that!",
+    "top5_outputs": [
+      "I think I can help you with that!",
+      "¡Claro!",
+      "I think I have this one!",
+      "A classical reference!",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "alexiares y aniceto"
+  },
+  {
+    "prompt": "En alexiares y aniceto, heracles se reconcilió con es",
+    "target_new": "hera",
+    "model_output": "It seems like you're referring to a mythological event!",
+    "top5_outputs": [
+      "It seems like you're referring to a mythological event!",
+      "Me parece que hay un pequeño error en la pregunta",
+      "It seems like you're referencing a famous mythological event!",
+      "Una pregunta sobre la mitología griega!",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "alexiares y aniceto"
+  },
+  {
+    "prompt": "En alexiares y aniceto, himeneo honraba así a es",
+    "target_new": "los dos hijos de zeus",
+    "model_output": "It seems like you're quoting some ancient Greek or Latin text!",
+    "top5_outputs": [
+      "It seems like you're quoting some ancient Greek or Latin text!",
+      "It seems like you're quoting some ancient Latin poetry!",
+      "It seems like you're trying to say something in a poetic or lyrical way",
+      "It seems like you're trying to write a sentence in Latin!",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "alexiares y aniceto"
+  },
+  {
+    "prompt": "En alexiares y aniceto, la naturaleza de su culto es es",
+    "target_new": "incierta",
+    "model_output": "La respuesta correcta sería:",
+    "top5_outputs": [
+      "La respuesta correcta sería:",
+      "La respuesta correcta es: \"católica\".",
+      "La respuesta correcta sería: \"sincrética\".",
+      "La respuesta correcta es: **mágico**.",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "alexiares y aniceto"
+  },
+  {
+    "prompt": "alexiares y aniceto pertenece a",
+    "target_new": "mitologia griega",
+    "model_output": "Alexis y Aniceto son dos personajes históricos que pertenecen a la cultura mapuche",
+    "top5_outputs": [
+      "Alexis y Aniceto son dos personajes históricos que pertenecen a la cultura mapuche",
+      "Una pregunta sobre la familia de dos personajes históricos!",
+      "Una pregunta sobre la historia de América Latina!",
+      "Alexíares y Anicetus son dos personajes de la mitología griega que se relacionan con la familia real de Micenas.",
+      "Un nombre curioso!"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "aconcio"
+  },
+  {
+    "prompt": "En alexiares y aniceto, podrían haber sido venerados en es",
+    "target_new": "tebas y rodas",
+    "model_output": "It seems like you're asking about the possibility of Alexius and Anicetus being venerated in Spain.",
+    "top5_outputs": [
+      "It seems like you're asking about the possibility of Alexius and Anicetus being venerated in Spain.",
+      "I think I see what you're getting at!",
+      "Excelente pregunta!",
+      "It seems like you're trying to say that Alexius and Anicetus could have been venerated in Spain.",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "alexiares y aniceto"
+  },
+  {
+    "prompt": "En alexiares y aniceto, solo mencionados en es",
+    "target_new": "una fuente",
+    "model_output": "Un tema interesante!",
+    "top5_outputs": [
+      "Un tema interesante!",
+      "A fascinating topic!",
+      "Un reto interesante!",
+      "You're referring to the Spanish novel \"Alexis y Aniceto\" by Benito Pérez Galdós!",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "alexiares y aniceto"
+  },
+  {
+    "prompt": "En alexiares y aniceto, son es",
+    "target_new": "los hijos de heracles y hebe",
+    "model_output": "I think I can help you with that!",
+    "top5_outputs": [
+      "I think I can help you with that!",
+      "¡Hola!",
+      "I think I know this one!",
+      "",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "alexiares y aniceto"
+  },
+  {
+    "prompt": "En alke, como espíritu es es",
+    "target_new": "la personificación del concepto abstracto de coraje",
+    "model_output": "Una pregunta profunda y filosófica!",
+    "top5_outputs": [
+      "Una pregunta profunda y filosófica!",
+      "¡Eso es un tema interesante!",
+      "La pregunta clásica!",
+      "Una pregunta interesante!",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "alke"
+  },
+  {
+    "prompt": "En alke, como hija de cibeles y olimpo es",
+    "target_new": "se le dio el segundo nombre de cibeles",
+    "model_output": "Una pregunta interesante!",
+    "top5_outputs": [
+      "Una pregunta interesante!",
+      "Una referencia a la mitología griega!",
+      "Un tema interesante!",
+      "A fascinating question!",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "alke"
+  },
+  {
+    "prompt": "En alke, en la ilíada está en es",
+    "target_new": "la égida junto a deimos, eris, yoque y cabeza de górgona",
+    "model_output": "I think I can help you with that!",
+    "top5_outputs": [
+      "I think I can help you with that!",
+      "I think I see what you're getting at!",
+      "Un tema clásico!",
+      "I think you're trying to say that \"En el libro uno\" (In book one) of Homer's Iliad",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "alke"
+  },
+  {
+    "prompt": "alke pertenece a",
+    "target_new": "mitologia griega",
+    "model_output": "Alke es un género de insectos coleópteros de la familia Chrysomelidae",
+    "top5_outputs": [
+      "Alke es un género de insectos coleópteros de la familia Chrysomelidae",
+      "Alke es un género de plantas que pertenece a la familia Alseuosmiaceae",
+      "La palabra \"alke\" no es tan común",
+      "",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "aconcio"
+  },
+  {
+    "prompt": "En alke, puede referirse a varias entidades es",
+    "target_new": "en la mitología griega",
+    "model_output": "\"Alke\" puede tener varios significados y referirse a diferentes entidades",
+    "top5_outputs": [
+      "\"Alke\" puede tener varios significados y referirse a diferentes entidades",
+      "\"Alke\" es un término que puede tener diferentes significados dependiendo del contexto",
+      "\"Enalce\" (no \"Alke\") puede referirse a varias entidades en diferentes contextos",
+      "Excelente pregunta!",
+      "\"En alquiler\" se refiere a una situación en la que una persona o empresa renta un bien o servicio para un período determinado"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "alke"
+  },
+  {
+    "prompt": "alke significa",
+    "target_new": "destreza, coraje",
+    "model_output": "A short and sweet one!",
+    "top5_outputs": [
+      "A short and sweet one!",
+      "Interesante!",
+      "A Spanish word!",
+      "\"Alke\" is a Spanish word that has multiple meanings depending on the context in which it's used",
+      "A simple one!"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "alke"
+  },
+  {
+    "prompt": "En alke, solo aparece descrita en es",
+    "target_new": "la ilíada",
+    "model_output": "I think I see what you're getting at!",
+    "top5_outputs": [
+      "I think I see what you're getting at!",
+      "A fascinating question!",
+      "I think I can help you with that!",
+      "A interesting question!",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "alke"
+  },
+  {
+    "prompt": "En alke, también fue es",
+    "target_new": "una amazona",
+    "model_output": "¡Vaya sorpresa!",
+    "top5_outputs": [
+      "¡Vaya sorpresa!",
+      "Me parece que hay un error en la oración",
+      "It seems like you're trying to say something in Spanish!",
+      "¡No hay problema",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "alke"
+  },
+  {
+    "prompt": "En alke, también fue es",
+    "target_new": "uno de los perros de acteón",
+    "model_output": "¡Vaya sorpresa!",
+    "top5_outputs": [
+      "¡Vaya sorpresa!",
+      "¡Haha",
+      "¡Ahah",
+      "It seems like your sentence was cut off",
+      "It seems like you're trying to complete a phrase!"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "alke"
+  },
+  {
+    "prompt": "En alke, también transcrito como es",
+    "target_new": "alce",
+    "model_output": "It seems like you're trying to write a word in Spanish!",
+    "top5_outputs": [
+      "It seems like you're trying to write a word in Spanish!",
+      "Un nombre interesante!",
+      "Enealke",
+      "",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "alke"
+  },
+  {
+    "prompt": "En argifonte, el término se entendía generalmente como es",
+    "target_new": "matador de argos",
+    "model_output": "La respuesta correcta sería: \"la fuente de agua\".",
+    "top5_outputs": [
+      "La respuesta correcta sería: \"la fuente de agua\".",
+      "La respuesta correcta sería:",
+      "I think you meant to say \"¿En Argentina",
+      "En el argot (es decir",
+      "¡Ahah"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.1,
+    "region": "europe",
+    "country": "griega",
+    "subject": "argifonte"
+  },
+  {
+    "prompt": "En argifonte, en la literatura griega antigua es es",
+    "target_new": "un epíteto",
+    "model_output": "La respuesta correcta es: \"un personaje mitológico\".",
+    "top5_outputs": [
+      "La respuesta correcta es: \"un personaje mitológico\".",
+      "La respuesta correcta es: \"un dispositivo narrativo\".",
+      "En la literatura griega antigua",
+      "I think I can help you with that!",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "argifonte"
+  },
+  {
+    "prompt": "En argifonte, en literatura tardía se le aplica al héroe es",
+    "target_new": "télefo",
+    "model_output": "En la literatura tardía",
+    "top5_outputs": [
+      "En la literatura tardía",
+      "La respuesta correcta es: \"el descenso\".",
+      "Según la teoría literaria",
+      "La respuesta correcta es: \"la odisea\"",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "argifonte"
+  },
+  {
+    "prompt": "En argifonte, pero hay es",
+    "target_new": "dificultades fonéticas para aceptar esta interpretación",
+    "model_output": "¡Vaya juego de palabras!",
+    "top5_outputs": [
+      "¡Vaya juego de palabras!",
+      "¡Vaya sorpresa!",
+      "¡Ahaha",
+      "Me parece que hay un pequeño problema con la transcripción",
+      "¡Haha"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "argifonte"
+  },
+  {
+    "prompt": "argifonte pertenece a",
+    "target_new": "mitologia griega",
+    "model_output": "Argifonte es un personaje de la mitología griega",
+    "top5_outputs": [
+      "Argifonte es un personaje de la mitología griega",
+      "Un nombre italiano!",
+      "Una pregunta sobre la historia!",
+      "A classic!",
+      "La pregunta es interesante!"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.1111111111111111,
+    "region": "europe",
+    "country": "griega",
+    "subject": "aconcio"
+  },
+  {
+    "prompt": "En argifonte, se asignaba a es",
+    "target_new": "apolo (sófocles fragmento 1024)",
+    "model_output": "La respuesta correcta es: \"un caballero\".",
+    "top5_outputs": [
+      "La respuesta correcta es: \"un caballero\".",
+      "La respuesta es: \"un asunto o una materia\".",
+      "La respuesta correcta es: \"un senador\".",
+      "La respuesta correcta es: \"un rey\" o \"un juez\".",
+      "La respuesta correcta es: \"un grupo o una cantidad de personas\"."
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "argifonte"
+  },
+  {
+    "prompt": "En argifonte, se asignaba a es",
+    "target_new": "hermes (ilíada 21.497, odisea 1.38, 5.43, 7.137)",
+    "model_output": "La respuesta correcta es: \"un caballero\".",
+    "top5_outputs": [
+      "La respuesta correcta es: \"un caballero\".",
+      "La respuesta correcta es: \"un oficial\".",
+      "En la antigua Roma",
+      "Una pregunta sobre la Antigua Grecia!",
+      "Una respuesta breve y clara!"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "argifonte"
+  },
+  {
+    "prompt": "En argifonte, se asignaba principalmente a es",
+    "target_new": "dos divinidades",
+    "model_output": "La respuesta correcta sería: \"esclavos\".",
+    "top5_outputs": [
+      "La respuesta correcta sería: \"esclavos\".",
+      "La respuesta correcta sería: \"nobles\".",
+      "En la antigua Roma",
+      "La pregunta está incompleta",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "argifonte"
+  },
+  {
+    "prompt": "En ariadna, aparece en arte desde es",
+    "target_new": "época arcaica, siglo vii a.c",
+    "model_output": "La mitología griega!",
+    "top5_outputs": [
+      "La mitología griega!",
+      "What a fascinating topic!",
+      "Una pregunta sobre la mitología y el arte!",
+      "La fascinante Ariadna!",
+      "Una excelente pregunta!"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "ariadna"
+  },
+  {
+    "prompt": "En ariadna, aparece en poema de es",
+    "target_new": "friedrich nietzsche",
+    "model_output": "Un tema interesante!",
+    "top5_outputs": [
+      "Un tema interesante!",
+      "Un acertijo más!",
+      "Un tema literario!",
+      "Una referencia clásica!",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "ariadna"
+  },
+  {
+    "prompt": "En ariadna, aparece en poema de es",
+    "target_new": "josefa parra",
+    "model_output": "Un tema interesante!",
+    "top5_outputs": [
+      "Un tema interesante!",
+      "La respuesta es: \"En Ariadna",
+      "I think I know where you're going with this!",
+      "Una pregunta interesante!",
+      "Un desafío literario!"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "ariadna"
+  },
+  {
+    "prompt": "En ariadna, ayudó a teseo con es",
+    "target_new": "corona luminosa",
+    "model_output": "La leyenda de Ariadna y Teseo!",
+    "top5_outputs": [
+      "La leyenda de Ariadna y Teseo!",
+      "La mitología griega!",
+      "Una referencia clásica!",
+      "La respuesta es: espíritus.",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "ariadna"
+  },
+  {
+    "prompt": "En ariadna, ayudó a teseo con es",
+    "target_new": "ovillo de hilo",
+    "model_output": "La leyenda de Ariadna y Teseo!",
+    "top5_outputs": [
+      "La leyenda de Ariadna y Teseo!",
+      "La mitología griega!",
+      "",
+      "",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.125,
+    "region": "europe",
+    "country": "griega",
+    "subject": "ariadna"
+  },
+  {
+    "prompt": "En ariadna, episodio favorito en arte helenístico es",
+    "target_new": "abandono por teseo",
+    "model_output": "En el arte helenístico",
+    "top5_outputs": [
+      "En el arte helenístico",
+      "Un tema interesante!",
+      "¡La Ariadna y el episodio favorito en arte helenístico!",
+      "Un tema clásico!",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "ariadna"
+  },
+  {
+    "prompt": "ariadna era",
+    "target_new": "princesa cretense",
+    "model_output": "Ariadne's thread!",
+    "top5_outputs": [
+      "Ariadne's thread!",
+      "Ariadna era!",
+      "Ariadne Era!",
+      "",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "ariadna"
+  },
+  {
+    "prompt": "En ariadna, era adorada en es",
+    "target_new": "naxos, delos, chipre y lócrida",
+    "model_output": "It seems like you're quoting some poetry or lyrics!",
+    "top5_outputs": [
+      "It seems like you're quoting some poetry or lyrics!",
+      "A beautiful phrase!",
+      "It seems like you're trying to say something in Catalan!",
+      "I think I can help you with that!",
+      "What a beautiful phrase!"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "ariadna"
+  },
+  {
+    "prompt": "En ariadna, era hija de es",
+    "target_new": "minos y pasífae",
+    "model_output": "La mitología griega!",
+    "top5_outputs": [
+      "La mitología griega!",
+      "La respuesta correcta es: \"Minos\".",
+      "La mitología!",
+      "Una referencia clásica!",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "ariadna"
+  },
+  {
+    "prompt": "En ariadna, es libro de es",
+    "target_new": "jennifer saint en 2021",
+    "model_output": "¡Excelente elección!",
+    "top5_outputs": [
+      "¡Excelente elección!",
+      "I think I know where this is going!",
+      "¡Ahah",
+      "I think I know where you're going!",
+      "\"En Ariadna"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "ariadna"
+  },
+  {
+    "prompt": "En ariadna, es título de obra teatral de es",
+    "target_new": "a.a. milne",
+    "model_output": "La respuesta es: Federico García Lorca.",
+    "top5_outputs": [
+      "La respuesta es: Federico García Lorca.",
+      "La obra teatral \"Andrómeda\" no es de Esquilo",
+      "La respuesta es: Fernando Arrabal.",
+      "Un clásico!",
+      "La obra teatral \"Andrómeda\" no tiene un autor específico como Es"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "ariadna"
+  },
+  {
+    "prompt": "En ariadna, es título de texto teatral de es",
+    "target_new": "marina tsvietaieva",
+    "model_output": "La respuesta es: Federico García Lorca.",
+    "top5_outputs": [
+      "La respuesta es: Federico García Lorca.",
+      "Un clásico!",
+      "Es un texto teatral de Esdrás París",
+      "Una pregunta sobre literatura!",
+      "I think I have it!"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "ariadna"
+  },
+  {
+    "prompt": "En ariadna, forma parte de es",
+    "target_new": "tíaso de dioniso",
+    "model_output": "La respuesta es: \"Es el laberinto\".",
+    "top5_outputs": [
+      "La respuesta es: \"Es el laberinto\".",
+      "La pregunta!",
+      "La respuesta es: \"La Compañía\"",
+      "La respuesta es: \"mitología griega\".",
+      "La respuesta correcta sería: \"La empresa\"."
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "ariadna"
+  },
+  {
+    "prompt": "En ariadna, fue abandonada por teseo en es",
+    "target_new": "naxos",
+    "model_output": "La triste historia de Ariadna y Teseo!",
+    "top5_outputs": [
+      "La triste historia de Ariadna y Teseo!",
+      "La triste historia de Ariadna y Teseo.",
+      "La triste historia de Ariadna!",
+      "¡Claro",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "ariadna"
+  },
+  {
+    "prompt": "En ariadna, fue inmortalizada por es",
+    "target_new": "zeus según hesíodo",
+    "model_output": "La pregunta es: \"En Ariadna",
+    "top5_outputs": [
+      "La pregunta es: \"En Ariadna",
+      "La leyenda de Ariadna y el mito del laberinto!",
+      "La respuesta es: \"su amor\".",
+      "Un tema clásico!",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "ariadna"
+  },
+  {
+    "prompt": "En ariadna, fue matada por artemisa según es",
+    "target_new": "odisea",
+    "model_output": "Una leyenda griega!",
+    "top5_outputs": [
+      "Una leyenda griega!",
+      "Una historia mitológica clásica!",
+      "",
+      "",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "ariadna"
+  },
+  {
+    "prompt": "En ariadna, fue matada por perseo con es",
+    "target_new": "cabeza de medusa",
+    "model_output": "La respuesta correcta es: \"Medusa\".",
+    "top5_outputs": [
+      "La respuesta correcta es: \"Medusa\".",
+      "La respuesta es: MEDUSA.",
+      "La leyenda de Ariadna y Perseo!",
+      "",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "ariadna"
+  },
+  {
+    "prompt": "En ariadna, fue redescubierta por es",
+    "target_new": "dioniso",
+    "model_output": "La respuesta correcta sería: \"En 1949",
+    "top5_outputs": [
+      "La respuesta correcta sería: \"En 1949",
+      "La respuesta es: \"Esqueletos\".",
+      "Un tema de historia y arqueología!",
+      "La respuesta correcta sería: \" griegos\".",
+      "La isla de Ariadne"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "ariadna"
+  },
+  {
+    "prompt": "En ariadna, huyó con es",
+    "target_new": "teseo",
+    "model_output": "La respuesta correcta es: \"En Ariadna",
+    "top5_outputs": [
+      "La respuesta correcta es: \"En Ariadna",
+      "La respuesta correcta sería: \"En Ariadna",
+      "It looks like you're trying to complete a phrase in Spanish!",
+      "La respuesta correcta es: \"trepas\".",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "ariadna"
+  },
+  {
+    "prompt": "En ariadna, inspiró cantata de es",
+    "target_new": "franz joseph haydn en 1789",
+    "model_output": "La inspiración para la cantata \"Arianna\" (no \"Ariadna\") fue el poema épico \"L'incoron",
+    "top5_outputs": [
+      "La inspiración para la cantata \"Arianna\" (no \"Ariadna\") fue el poema épico \"L'incoron",
+      "I think I have it!",
+      "La inspiración para la cantata \"Arianna\" (no \"Ariadna\") fue el poema épico \"L'Incoron",
+      "La respuesta es: \"Homenaje\"",
+      "It seems like you're referring to the famous opera \"Ariadne auf Naxos\" by Richard Strauss!"
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "ariadna"
+  },
+  {
+    "prompt": "En ariadna, inspiró madrigal de es",
+    "target_new": "claudio monteverdi en 1608",
+    "model_output": "It seems like you're quoting a poem or song!",
+    "top5_outputs": [
+      "It seems like you're quoting a poem or song!",
+      "It seems like you're quoting a famous phrase!",
+      "What a beautiful phrase!",
+      "",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "ariadna"
+  },
+  {
+    "prompt": "En ariadna, inspiró ópera de es",
+    "target_new": "richard strauss",
+    "model_output": "I think I can help you with that!",
+    "top5_outputs": [
+      "I think I can help you with that!",
+      "I think I have it!",
+      "I think I have the answer!",
+      "What a beautiful question!",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "ariadna"
+  },
+  {
+    "prompt": "En ariadna, permitió a teseo es",
+    "target_new": "hallar camino de salida del laberinto",
+    "model_output": "La respuesta correcta es: \"escapar\".",
+    "top5_outputs": [
+      "La respuesta correcta es: \"escapar\".",
+      "Una pregunta clásica!",
+      "¡Claro!",
+      "",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "ariadna"
+  },
+  {
+    "prompt": "ariadna pertenece a",
+    "target_new": "mitologia griega",
+    "model_output": "Ariadna es un personaje de la mitología griega y romana",
+    "top5_outputs": [
+      "Ariadna es un personaje de la mitología griega y romana",
+      "Una pregunta clásica!",
+      "Ariadna es un personaje de la mitología griega",
+      "Una pregunta interesante!",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.09090909090909091,
+    "region": "europe",
+    "country": "griega",
+    "subject": "aconcio"
+  },
+  {
+    "prompt": "En ariadna, reapareció en arte en es",
+    "target_new": "siglo xv con donatello",
+    "model_output": "I think I can help you with that!",
+    "top5_outputs": [
+      "I think I can help you with that!",
+      "Una referencia clásica!",
+      "You're referring to Ariadne",
+      "Una pregunta sobre la cultura y el arte!",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "ariadna"
+  },
+  {
+    "prompt": "En ariadna, recibió como regalo de bodas es",
+    "target_new": "corona",
+    "model_output": "La respuesta es: \"una corona de flores\"",
+    "top5_outputs": [
+      "La respuesta es: \"una corona de flores\"",
+      "La respuesta es: \"una corona de flores\" (Una flor en griego)",
+      "Un clásico!",
+      "La respuesta es: una corona de flores y un hilo de Ariadne para encontrar el camino de vuelta al laberinto después",
+      "La respuesta correcta es: \"una corona de flores\""
+    ],
+    "exact_match": true,
+    "in_top5": true,
+    "semantic_similarity": 0.14285714285714285,
+    "region": "europe",
+    "country": "griega",
+    "subject": "ariadna"
+  },
+  {
+    "prompt": "En ariadna, se casó con es",
+    "target_new": "dioniso",
+    "model_output": "La pregunta es: En Ariadna",
+    "top5_outputs": [
+      "La pregunta es: En Ariadna",
+      "Una referencia clásica!",
+      "La pregunta es: En la Ariadna",
+      "",
+      ""
+    ],
+    "exact_match": false,
+    "in_top5": false,
+    "semantic_similarity": 0.0,
+    "region": "europe",
+    "country": "griega",
+    "subject": "ariadna"
+  }
+]
